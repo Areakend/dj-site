@@ -22,14 +22,31 @@
 
     // --- Initialization ---
     function init() {
-        console.log("Data: init() called, current userVoteIds:", userVoteIds);
-        const baseSongs = global.generatedSongs || [];
-        songs = baseSongs.map(s => ({ ...s, votes: s.votes || 0 }));
+        console.log("Data: init() called");
 
         // Init Firestore
         if (global.firebaseApp) {
             db = global.firebaseApp.firestore();
-            setupFirestoreSync();
+            
+            // Fetch initial song list from Firestore if available
+            db.collection('votes').doc('song_list').get().then(doc => {
+                if (doc.exists && doc.data().songs) {
+                    console.log("Data: Loaded", doc.data().songs.length, "songs from Firestore");
+                    songs = doc.data().songs.map(s => ({ ...s, votes: 0 }));
+                    setupFirestoreSync();
+                    notifySubscribers();
+                } else {
+                    console.log("Data: No song_list found in Firestore, falling back to local music_db.js");
+                    const baseSongs = global.generatedSongs || [];
+                    songs = baseSongs.map(s => ({ ...s, votes: s.votes || 0 }));
+                    setupFirestoreSync();
+                }
+            }).catch(err => {
+                console.error("Data: Firestore error fetching song list:", err);
+                const baseSongs = global.generatedSongs || [];
+                songs = baseSongs.map(s => ({ ...s, votes: s.votes || 0 }));
+                setupFirestoreSync();
+            });
 
             // Check if user is already authenticated
             const currentUser = global.DJAuth?.getUser();
@@ -46,6 +63,10 @@
                     handleAuthChange(user);
                 }
             }, 1000);
+        } else {
+            // Fallback for local testing without Firebase
+            const baseSongs = global.generatedSongs || [];
+            songs = baseSongs.map(s => ({ ...s, votes: s.votes || 0 }));
         }
 
         // Setup local broadcast channel for non-db updates (navigation sync etc)

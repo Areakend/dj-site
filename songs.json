@@ -1,4 +1,4 @@
-﻿window.generatedSongs = [
+﻿[
     {
         "artist":  "06",
         "title":  "Hugel GROSSOMODDO - Andalucia",
@@ -37218,4 +37218,4 @@
         "id":  6316,
         "votes":  0
     }
-];
+]
