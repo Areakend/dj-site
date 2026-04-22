@@ -124,18 +124,24 @@
     </style>
 </head>
 <body class="stats-page">
-    <div class="background">
-        <div class="glow glow-1"></div>
-        <div class="glow glow-2"></div>
+    <div class="ambient-background">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
     </div>
 
-    <div class="container" style="max-width: 1000px;">
+    <nav class="main-nav">
+        <div class="nav-links">
+            <button id="authBtn" class="nav-link" style="background:none; border:none; cursor:pointer;">Login</button>
+            <a href="index.html" class="nav-link">Visuals</a>
+            <a href="vote.html" class="nav-link">Vote</a>
+            <a href="stats.html" class="nav-link active">Stats</a>
+        </div>
+    </nav>
+
+    <div class="app-container" style="max-width: 1000px;">
         <header>
-            <div class="logo">STATS<span>DASHBOARD</span></div>
-            <div class="nav-links">
-                <a href="index.html">Live View</a>
-                <a href="vote.html">Vote Page</a>
-            </div>
+            <h1>SONG STATS</h1>
         </header>
 
         <div class="stats-grid">
