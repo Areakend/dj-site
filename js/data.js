@@ -158,9 +158,29 @@
             if (doc.exists) {
                 const data = doc.data();
                 if (data.votes) {
+                    let userVotesChanged = false;
                     songs.forEach(s => {
-                        if (data.votes[s.id] !== undefined) s.votes = data.votes[s.id];
+                        if (data.votes[s.id] !== undefined) {
+                            // Bug Fix: If global vote is 0 but user has it marked as voted, clear it
+                            if (data.votes[s.id] === 0 && userVoteIds[s.id]) {
+                                console.log(`Data: Auto-clearing stale vote for song ${s.id} (globally reset)`);
+                                delete userVoteIds[s.id];
+                                userVotesChanged = true;
+                            }
+                            s.votes = data.votes[s.id];
+                        }
                     });
+
+                    // Sync cleanup back to user's Firestore and localStorage if needed
+                    if (userVotesChanged) {
+                        const user = global.DJAuth?.getUser();
+                        if (user) {
+                            db.collection('user_votes').doc(user.uid).set({
+                                votes: { ...userVoteIds }
+                            }, { merge: true }).catch(err => console.warn("Data: Failed to sync auto-cleared votes:", err));
+                        }
+                        localStorage.setItem('dj_user_votes', JSON.stringify(userVoteIds));
+                    }
                 }
                 if (data.currentPlayingId) {
                     currentPlaying = songs.find(s => s.id === data.currentPlayingId) || null;
