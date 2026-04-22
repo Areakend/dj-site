@@ -2,56 +2,56 @@
     {
         "artist":  "06",
         "title":  "Hugel GROSSOMODDO - Andalucia",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1000,
         "votes":  0
     },
     {
         "artist":  "03",
         "title":  "OutTheFireAtTheHotel - Franky_Rizardo__Ros_T_feat._Eunice_Collins",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1001,
         "votes":  0
     },
     {
         "artist":  "02",
         "title":  "Slow Down - VintageCulture \u0026 Slow Motion Remix",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1002,
         "votes":  0
     },
     {
         "artist":  "Go Back (feat. Julia Church)",
         "title":  "John Summit",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1003,
         "votes":  0
     },
     {
         "artist":  "Pretty Low (Galantis \u0026 BULLI VIP Mix)",
         "title":  "Dillon Francis",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1004,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "01 -Szikra",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1005,
         "votes":  0
     },
     {
         "artist":  "04",
         "title":  "Tutti Flutti",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1006,
         "votes":  0
     },
     {
         "artist":  "05",
         "title":  "Illusion - Honey Dijon Remix",
-        "genre":  "Beach party",
+        "genre":  "Tropical \u0026 Beach",
         "id":  1007,
         "votes":  0
     },
@@ -3173,70 +3173,70 @@
     {
         "artist":  "BEAUZ x NOYSE x Datti",
         "title":  "Come On Baddie Let\u0027s Go Party",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1453,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Bel Mercy (BEAUZ Hard Techno Remix) feat. Nokia",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1454,
         "votes":  0
     },
     {
         "artist":  "Luca Testa feat. Uneven",
         "title":  "Hangover (Hardstyle Remix) [www.slider.kz]",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1455,
         "votes":  0
     },
     {
         "artist":  "BEAUZ \u0026 XYSM",
         "title":  "Bella Ciao [Monstercat Release]",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1456,
         "votes":  0
     },
     {
         "artist":  "Black Eyed Peas",
         "title":  "My Humps (BEAUZ Hard Techno Remix)",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1457,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Gigi D\u0027Agostino Bla Bla Bla",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1458,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Kernkraft 400 (Hardstyle Remix)",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1459,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "LICK IT (Official Visualizer)",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1460,
         "votes":  0
     },
     {
         "artist":  "Luca Testa",
         "title":  "Hey Brother (Feat. Efi Gjika) [Hardstyle Remix]",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1461,
         "votes":  0
     },
     {
         "artist":  "Luca Testa \u0026 The FifthGuys",
         "title":  "Quèdate (Feat. Polina Grace) [Hardstyle Remix]",
-        "genre":  "Hard Tech- Hardstyle",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  1462,
         "votes":  0
     },
@@ -3908,16779 +3908,16779 @@
     {
         "artist":  "Unknown Artist",
         "title":  "One in a million David Guetta",
-        "genre":  "Tests",
+        "genre":  "Unsorted",
         "id":  1558,
         "votes":  0
     },
     {
         "artist":  "Axwell  Ingrosso, Axwell, Sebastian Ingrosso",
         "title":  "Dreamer (Official Video) feat. Trevor Guthrie",
-        "genre":  "Tests",
+        "genre":  "Unsorted",
         "id":  1559,
         "votes":  0
     },
     {
         "artist":  "BABYMONSTER",
         "title":  "FOREVER",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1560,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "WOW",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1561,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Fedde Le Grand \u0026 Sultan + Ned Shepard (No Good Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1562,
         "votes":  0
     },
     {
         "artist":  "3LAU, Paris \u0026 Simo featuring Bright Lights",
         "title":  "Escape (Original Mix) Lyrics",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1563,
         "votes":  0
     },
     {
         "artist":  "Showtek \u0026 Ookay",
         "title":  "Bouncer (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1564,
         "votes":  0
     },
     {
         "artist":  "Mike Candys",
         "title":  "Drinkin",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1565,
         "votes":  0
     },
     {
         "artist":  "Gareth Emery",
         "title":  "Reckless (feat. Wayward Daughter)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1566,
         "votes":  0
     },
     {
         "artist":  "Nervo vs. Hook N Sling",
         "title":  "Reason (Original Mix) [HQ+Download]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1567,
         "votes":  0
     },
     {
         "artist":  "Gareth Emery",
         "title":  "feat. Christina Novelli - Dynamite (feat. Christina Novelli)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1568,
         "votes":  0
     },
     {
         "artist":  "Tom Hangs",
         "title":  "Blessed (feat. Shermanology)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1569,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Ahmed Helmy",
         "title":  "Rhythm Inside",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1570,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Wildstylez feat. PollyAnna",
         "title":  "Typically Dutch (Psy vs Hardstyle Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1571,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren ft. Stuart Crichton",
         "title":  "Dayglow (Edit Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1572,
         "votes":  0
     },
     {
         "artist":  "Ferry Corsten",
         "title":  "Punk",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1573,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "All Nighter",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1574,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Vulnerable (feat. Vanessa Campagna)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1575,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Ping Pong",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1576,
         "votes":  0
     },
     {
         "artist":  "Vini Vici \u0026 Armin van Buuren",
         "title":  "Yama (feat. Natalie Wamba berry \u0026 Tribal Dance)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1577,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Let You Down",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1578,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Jorn van Deynhoven",
         "title":  "Lost in Space (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1579,
         "votes":  0
     },
     {
         "artist":  "Mauro Picotto",
         "title":  "Komodo",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1580,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Sophie Ellis-Bextor",
         "title":  "Not Giving Up On Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1581,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx \u0026 Armin van Buuren",
         "title":  "Superman (feat. 24H)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1582,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Cosmic Gate",
         "title":  "REFLEXION (ASOT 2023 Anthem) (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1583,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Therapy (feat. James Newman)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1584,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Another You (feat. Mr. Probz)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1585,
         "votes":  0
     },
     {
         "artist":  "Armin Van Buuren \u0026 R3HAB feat. Simon Ward",
         "title":  "Love We Lost 432hz",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1586,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "One More Time (feat. Maia Wright)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1587,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Vini Vici",
         "title":  "When We Come Alive (feat. ALBA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1588,
         "votes":  0
     },
     {
         "artist":  "Vini Vici \u0026 Armin van Buuren",
         "title":  "Great Spirit (Extended Mix) (feat. Hilight Tribe)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1589,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, HRRTZ \u0026 Julia Church",
         "title":  "Fire With Fire",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1590,
         "votes":  0
     },
     {
         "artist":  "Orang Utan",
         "title":  "Sugarmama (Dimitri Vegas Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1591,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "In And Out Of Love (Extended Mix) (feat. Sharon Den Adel)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1592,
         "votes":  0
     },
     {
         "artist":  "MATTN, Gabry Ponte \u0026 Mad City",
         "title":  "Beyonce",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1593,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "REJ",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1594,
         "votes":  0
     },
     {
         "artist":  "Dino Warriors, Julian Perretta \u0026 Dimitri Vegas",
         "title":  "Ayo Technology (Dimitri Vegas Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1595,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Stay A While",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1596,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Steve Aoki \u0026 Ummet Ozcan",
         "title":  "Melody",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1597,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vangelis, AN21 \u0026 Wyman",
         "title":  "Rebel (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1598,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "GIVE INTO THE NIGHT TOMORROW) Official Tomorrowlands anthem",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1599,
         "votes":  0
     },
     {
         "artist":  "Technotronic vs. Dimitri Vegas \u0026 Like Mike",
         "title":  "Pump Up The Jam (Crowd Is Jumpin Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1600,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Boostedkids",
         "title":  "G.I.P.S.Y.",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1601,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike vs Tujamo \u0026 Felguk, Felguk, Like Mike \u0026 Tujamo",
         "title":  "Nova",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1602,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 VINAI",
         "title":  "Louder",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1603,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike featuring Vangosh",
         "title":  "Deeper Love (Tommy Trash Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1604,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Yves V \u0026 Angger Dimas",
         "title":  "Madagascar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1605,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Hardwell",
         "title":  "Unity",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1606,
         "votes":  0
     },
     {
         "artist":  "Signum feat. Scott Mac",
         "title":  "Coming on Strong",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1607,
         "votes":  0
     },
     {
         "artist":  "Joyhauser",
         "title":  "Wasted",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1608,
         "votes":  0
     },
     {
         "artist":  "Andy Moor, Adam White \u0026 Whiteroom",
         "title":  "The Whiteroom (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1609,
         "votes":  0
     },
     {
         "artist":  "System F",
         "title":  "Out Of The Blue",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1610,
         "votes":  0
     },
     {
         "artist":  "Motorcycle, Gabriel \u0026 Dresden \u0026 JES",
         "title":  "As The Rush Comes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1611,
         "votes":  0
     },
     {
         "artist":  "DJ Quicksilver",
         "title":  "Bellissima (Radio Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1612,
         "votes":  0
     },
     {
         "artist":  "Energy 52",
         "title":  "Café Del Mar (Three \u0027N One Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1613,
         "votes":  0
     },
     {
         "artist":  "Rank 1",
         "title":  "Cygnus X - Superstring (Rank 1 Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1614,
         "votes":  0
     },
     {
         "artist":  "Faithless",
         "title":  "Insomnia (Monster Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1615,
         "votes":  0
     },
     {
         "artist":  "Veracocha",
         "title":  "Carte Blanche",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1616,
         "votes":  0
     },
     {
         "artist":  "Ian Van Dahl",
         "title":  "Castles In The Sky (Radio Mix) (feat. Marsha)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1617,
         "votes":  0
     },
     {
         "artist":  "Robert Miles",
         "title":  "Children",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1618,
         "votes":  0
     },
     {
         "artist":  "Faithless",
         "title":  "Insomnia (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1619,
         "votes":  0
     },
     {
         "artist":  "Sash!",
         "title":  "Encore Une Fois (Future Breeze Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1620,
         "votes":  0
     },
     {
         "artist":  "Delerium feat. Sarah McLachlan",
         "title":  "Silence (DJ Tiesto\u0027s Remix), 4K 2160p (Tiesto live 2007)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1621,
         "votes":  0
     },
     {
         "artist":  "Push",
         "title":  "Universal Nation",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1622,
         "votes":  0
     },
     {
         "artist":  "Paul van Dyk",
         "title":  "For An Angel (PvD Angel In Heaven Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1623,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Traffic (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1624,
         "votes":  0
     },
     {
         "artist":  "Planet Perfecto Knights",
         "title":  "ResuRection (Paul Oakenfold Extended Full On Fluoro Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1625,
         "votes":  0
     },
     {
         "artist":  "Cosmic Gate",
         "title":  "Fire Wire (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1626,
         "votes":  0
     },
     {
         "artist":  "4 Strings",
         "title":  "Take Me Away (Into The Night) [Vocal Radio Mix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1627,
         "votes":  0
     },
     {
         "artist":  "Tungevaag",
         "title":  "Lonely Hearts",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1628,
         "votes":  0
     },
     {
         "artist":  "Safri Duo",
         "title":  "Played-A-Live (The Bongo Song) (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1629,
         "votes":  0
     },
     {
         "artist":  "Gareth Emery \u0026 Christina Novelli",
         "title":  "Concrete Angel (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1630,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Red Lights",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1631,
         "votes":  0
     },
     {
         "artist":  "VINNE \u0026 Daft Hill",
         "title":  "Faded (feat. Kieran Fowkes)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1632,
         "votes":  0
     },
     {
         "artist":  "Martin Jensen",
         "title":  "Harry Styles",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1633,
         "votes":  0
     },
     {
         "artist":  "Ilkay Sencan",
         "title":  "Love Don\u0027t Cost A Thing (feat. Talya)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1634,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Sam Smith",
         "title":  "Desire",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1635,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Sunnery James \u0026 Ryan Marciano, Tinie Tempah \u0026 Azteck",
         "title":  "Leader",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1636,
         "votes":  0
     },
     {
         "artist":  "Tiagz",
         "title":  "Tacata",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1637,
         "votes":  0
     },
     {
         "artist":  "NLW",
         "title":  "123",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1638,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "See The Light (feat. Fridayy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1639,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Ne-Yo",
         "title":  "Mexico (Kasango Remix) (feat. Danna Paola)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1640,
         "votes":  0
     },
     {
         "artist":  "Suark, B4 Snlight \u0026 Zaxai",
         "title":  "Follow The Sun",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1641,
         "votes":  0
     },
     {
         "artist":  "Martin Jensen \u0026 FAST BOY",
         "title":  "One Day",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1642,
         "votes":  0
     },
     {
         "artist":  "Kevin de Vries \u0026 Mau P",
         "title":  "Metro",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1643,
         "votes":  0
     },
     {
         "artist":  "Ben Nicky \u0026 Mairee",
         "title":  "Darker Days",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1644,
         "votes":  0
     },
     {
         "artist":  "Anyma, Cassian \u0026 Poppy Baskcomb",
         "title":  "Save Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1645,
         "votes":  0
     },
     {
         "artist":  "John Summit \u0026 HAYLA",
         "title":  "Where You Are",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1646,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte \u0026 jayover",
         "title":  "In The Club",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1647,
         "votes":  0
     },
     {
         "artist":  "Like Mike, Candy Man, \u0026 Cornelius SA",
         "title":  "Bambelela (feat. Nomvula SA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1648,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, KSHMR \u0026 Bassjackers",
         "title":  "Eternity",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1649,
         "votes":  0
     },
     {
         "artist":  "Tujamo, Azteck \u0026 Inna",
         "title":  "Freak",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1650,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Ne-Yo \u0026 Danna Paola",
         "title":  "Mexico",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1651,
         "votes":  0
     },
     {
         "artist":  "Alesso \u0026 John Newman",
         "title":  "Call Your Name",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1652,
         "votes":  0
     },
     {
         "artist":  "MATTN x Noel Holler",
         "title":  "Crazy In Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1653,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Mesto",
         "title":  "Can\u0027t Get Enough",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1654,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 MOSKA",
         "title":  "Acordeão",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1655,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Becky Hill",
         "title":  "Nothing Really Matters",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1656,
         "votes":  0
     },
     {
         "artist":  "RetroVision",
         "title":  "Ignite",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1657,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Tomorrow (feat. 433)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1658,
         "votes":  0
     },
     {
         "artist":  "Jimi Jules",
         "title":  "My City’s On Fire (Tiësto Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1659,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega",
         "title":  "Diamonds",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1660,
         "votes":  0
     },
     {
         "artist":  "Tom Odell",
         "title":  "Another Love (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1661,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Higher Power (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1662,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 KAROL G",
         "title":  "Don\u0027t Be Shy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1663,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Can U Dance (To My Beat)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1664,
         "votes":  0
     },
     {
         "artist":  "Deorro \u0026 Tiësto",
         "title":  "Savage",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1665,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Hot In It (feat. Charli xcx)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1666,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Dzeko",
         "title":  "Jackie Chan (feat. Preme \u0026 Post Malone)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1667,
         "votes":  0
     },
     {
         "artist":  "Notre Dame",
         "title":  "Yumi (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1668,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Tate McRae",
         "title":  "10_35",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1669,
         "votes":  0
     },
     {
         "artist":  "Hannah Laing, RoRo \u0026 Tiësto",
         "title":  "Good Love (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1670,
         "votes":  0
     },
     {
         "artist":  "JKRS \u0026 Cepaque",
         "title":  "Low",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1671,
         "votes":  0
     },
     {
         "artist":  "Braaheim",
         "title":  "Paradise",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1672,
         "votes":  0
     },
     {
         "artist":  "Glockenbach, Joel Corry \u0026 Tenchi",
         "title":  "YEAH (feat. ClockClock)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1673,
         "votes":  0
     },
     {
         "artist":  "Sgt Slick",
         "title":  "Gimme! Gimme! Gimme! (Freejak Remix - edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1674,
         "votes":  0
     },
     {
         "artist":  "Hr. Troels, Morty Simmons \u0026 Crystal Rock",
         "title":  "Something (feat. Romy Dya)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1675,
         "votes":  0
     },
     {
         "artist":  "LIZOT, Shibui \u0026 Barcode Brothers",
         "title":  "Dooh Dooh (Stereo Sound) (AVA CROWN Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1676,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte \u0026 Don Diablo",
         "title":  "Sunglasses At Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1677,
         "votes":  0
     },
     {
         "artist":  "Paul Keen, Moodygee \u0026 Chris van Dutch",
         "title":  "Starlight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1678,
         "votes":  0
     },
     {
         "artist":  "MATTN \u0026 Klaas",
         "title":  "The Logical Song (Dimitri Vegas \u0026 Like Mike Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1679,
         "votes":  0
     },
     {
         "artist":  "southstar",
         "title":  "Typa Girl",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1680,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Ellie Goulding",
         "title":  "Miracle (Hardwell Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1681,
         "votes":  0
     },
     {
         "artist":  "VIZE, Leony \u0026 Niklas Dee",
         "title":  "Monsoon (feat. Tokio Hotel)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1682,
         "votes":  0
     },
     {
         "artist":  "Jaxx",
         "title":  "Timeless",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1683,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Quintino",
         "title":  "Motor",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1684,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki, Chris Lake \u0026 Tujamo",
         "title":  "Delirious (Boneless) (feat. Kid Ink)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1685,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 W\u0026W",
         "title":  "Waves (Tomorrowland 2014 Anthem) (feat. Like Mike)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1686,
         "votes":  0
     },
     {
         "artist":  "Kid Cudi",
         "title":  "Pursuit Of Happiness (Extended Steve Aoki Remix) (feat. MGMT \u0026 Ratatat)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1687,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, MOGUAI \u0026 Like Mike",
         "title":  "Body Talk (feat. Julian Perretta)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1688,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Like Mike \u0026 GTA",
         "title":  "Turn It Up (feat. Wolfpack)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1689,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Wakanda (WARRIORS Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1690,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 W\u0026W",
         "title":  "Arcade (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1691,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Like Mike \u0026 Quintino",
         "title":  "Patser Bounce",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1692,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Nicky Romero",
         "title":  "Everybody Clap (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1693,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "He\u0027s a Pirate (Hans Zimmer vs Dimitri Vegas \u0026 Like Mike _ Bonus Track)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1694,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Gucci Mane",
         "title":  "All I Need",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1695,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Vini Vici \u0026 Cherrymoon Trax",
         "title":  "The House Of House",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1696,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Ummet Ozcan",
         "title":  "The Hum",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1697,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Ready For Action",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1698,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Bassjackers",
         "title":  "Mortal Kombat Anthem (Club Mix) (feat. 2WEI)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1699,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 MOGUAI",
         "title":  "Mammoth",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1700,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 John Christian",
         "title":  "Turn Up",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1701,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Vini Vici \u0026 Liquid Soul",
         "title":  "Untz Untz",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1702,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "When I Grow Up (feat. Wiz Khalifa)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1703,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike vs Diplo \u0026 Kid Ink feat Deb’s Daughter",
         "title":  "Hey Baby",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1704,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike vs Ummet Ozcan",
         "title":  "The Hum (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1705,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Era Istrefi",
         "title":  "Selfish",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1706,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Ocarina (The TomorrowWorld Anthem) (Instrumental Mix) (feat. Wolfpack)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1707,
         "votes":  0
     },
     {
         "artist":  "Dino Warriors",
         "title":  "Show Me Love (Dimitri Vegas Edit) (feat. Leony)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1708,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Find Tomorrow (Ocarina) (feat. The Wolfpack \u0026 Katy B)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1709,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Like Mike \u0026 Martin Garrix",
         "title":  "Tremor (Sensation 2014 Anthem)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1710,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Dimitri Vegas Ft. Nicole Scherzinger \u0026 Azteck",
         "title":  "The Drop (Big Gabee \u0026 Zack Brown RMX)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1711,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Steve Aoki \u0026 Chapter \u0026 Verse",
         "title":  "Friends",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1712,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 David Guetta",
         "title":  "Complicated (feat. Kiiara)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1713,
         "votes":  0
     },
     {
         "artist":  "YouNotUs, Janieck \u0026 Senex",
         "title":  "Narcotic (Dimitri Vegas vs Ummet Ozcan Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1714,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Regard",
         "title":  "Say My Name",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1715,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Oracle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1716,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Trevor Guthrie",
         "title":  "This Is What It Feels Like",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1717,
         "votes":  0
     },
     {
         "artist":  "Deorro \u0026 Chris Brown",
         "title":  "Five More Hours",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1718,
         "votes":  0
     },
     {
         "artist":  "Steven Vegas \u0026 Robb \u0026 Rodd",
         "title":  "Drama",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1719,
         "votes":  0
     },
     {
         "artist":  "Mark Roma \u0026 EMOTI",
         "title":  "Satellites (feat. Jaime Deraz)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1720,
         "votes":  0
     },
     {
         "artist":  "Ran-D",
         "title":  "Zombie (Bassjackers Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1721,
         "votes":  0
     },
     {
         "artist":  "Farruko \u0026 David Guetta",
         "title":  "Pepas (David Guetta Remix - Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1722,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Armin van Buuren \u0026 W\u0026W",
         "title":  "Repeat After Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1723,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Dreams (feat. Lanie Gardner)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1724,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Alle Farben",
         "title":  "Good Morning (feat. YOU)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1725,
         "votes":  0
     },
     {
         "artist":  "southstar",
         "title":  "Miss You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1726,
         "votes":  0
     },
     {
         "artist":  "BL3R \u0026 Jaxx \u0026amp; Vega",
         "title":  "Pulsar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1727,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega",
         "title":  "Back to the Bass",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1728,
         "votes":  0
     },
     {
         "artist":  "ANG \u0026 Jaxx \u0026 Vega",
         "title":  "Shark Attack (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1729,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 Kevu",
         "title":  "Raverzone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1730,
         "votes":  0
     },
     {
         "artist":  "D\u0027Angello \u0026 Francis \u0026 Jaxx \u0026 Vega",
         "title":  "Victorum (feat. Le Shuuk)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1731,
         "votes":  0
     },
     {
         "artist":  "Wolfpack \u0026 Jaxx \u0026 Vega",
         "title":  "Kalahari",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1732,
         "votes":  0
     },
     {
         "artist":  "D-Devils",
         "title":  "Voodoo Doll",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1733,
         "votes":  0
     },
     {
         "artist":  "Bassjackers \u0026 Jaxx \u0026 Vega",
         "title":  "Limitless",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1734,
         "votes":  0
     },
     {
         "artist":  "SaberZ \u0026 Jaxx \u0026 Vega",
         "title":  "We Came To Rave (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1735,
         "votes":  0
     },
     {
         "artist":  "Husman \u0026 Jaxx \u0026 Vega",
         "title":  "Venom",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1736,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 Bombs Away",
         "title":  "Goodbye",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1737,
         "votes":  0
     },
     {
         "artist":  "Sandro Silva \u0026 Jaxx \u0026 Vega",
         "title":  "Outta Control",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1738,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Wolfpack",
         "title":  "Kalinka (Dimitri Vegas \u0026 Like Mike Edit) (feat. Jaxx \u0026 Vega, R3SPAWN, Jaxx \u0026 Vega)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1739,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega",
         "title":  "Freakmachine (feat. Haley Maze)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1740,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Benny Benassi",
         "title":  "Satisfaction",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1741,
         "votes":  0
     },
     {
         "artist":  "Oliver Heldens_DJs From Mars",
         "title":  "Blue Monday (feat. JD Davis)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1742,
         "votes":  0
     },
     {
         "artist":  "Interupt",
         "title":  "Change Your Mind",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1743,
         "votes":  0
     },
     {
         "artist":  "Reinier Zonneveld \u0026 JG",
         "title":  "Music Is The Answer",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1744,
         "votes":  0
     },
     {
         "artist":  "MEDUZA \u0026 James Carter",
         "title":  "Bad Memories (feat. Elley Duhé \u0026 FAST BOY)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1745,
         "votes":  0
     },
     {
         "artist":  "Bassjackers",
         "title":  "Traffic",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1746,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Lay Me Down",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1747,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "Tom\u0027s Diner",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1748,
         "votes":  0
     },
     {
         "artist":  "deadboy",
         "title":  "TOP G - PHONK",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1749,
         "votes":  0
     },
     {
         "artist":  "Quickdrop, NIKSTER \u0026 Zombic",
         "title":  "Stronger Now",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1750,
         "votes":  0
     },
     {
         "artist":  "Lucas \u0026 Steve \u0026 Yves V",
         "title":  "After Midnight (feat. Xoro)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1751,
         "votes":  0
     },
     {
         "artist":  "VIZE \u0026 R3HAB",
         "title":  "One Last Time (feat. Enny-Mae)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1752,
         "votes":  0
     },
     {
         "artist":  "Alesso \u0026 Sentinel",
         "title":  "Only You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1753,
         "votes":  0
     },
     {
         "artist":  "Audien \u0026 William Black",
         "title":  "Would You Even Know (feat. Tia Tia)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1754,
         "votes":  0
     },
     {
         "artist":  "Tungevaag \u0026 RetroVision",
         "title":  "Alone With You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1755,
         "votes":  0
     },
     {
         "artist":  "AFROJACK \u0026 Mike Williams",
         "title":  "Alone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1756,
         "votes":  0
     },
     {
         "artist":  "Alle Farben",
         "title":  "It Burns",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1757,
         "votes":  0
     },
     {
         "artist":  "Klaas \u0026 Sary",
         "title":  "Look Into My Eyes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1758,
         "votes":  0
     },
     {
         "artist":  "Joel Corry \u0026 Tom Grennan",
         "title":  "Lionheart (Fearless)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1759,
         "votes":  0
     },
     {
         "artist":  "Marshmello, Khalid \u0026 Alok",
         "title":  "Numb (Alok Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1760,
         "votes":  0
     },
     {
         "artist":  "Dillon Francis \u0026 VINNE",
         "title":  "Once Again",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1761,
         "votes":  0
     },
     {
         "artist":  "Frank Walker",
         "title":  "I Go Dancing (feat. Ella Henderson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1762,
         "votes":  0
     },
     {
         "artist":  "Supermode \u0026 MEDUZA",
         "title":  "Tell Me Why (MEDUZA Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1763,
         "votes":  0
     },
     {
         "artist":  "Sam Halabi \u0026 Jones Vendera",
         "title":  "Too Late",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1764,
         "votes":  0
     },
     {
         "artist":  "Tujamo \u0026 Kid Ink",
         "title":  "Drop That Low (When I Dip)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1765,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "You Can’t Change Me (feat. Raye)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1766,
         "votes":  0
     },
     {
         "artist":  "Lucas \u0026 Steve \u0026 DubVision",
         "title":  "Feel My Love (feat. Joe Taylor)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1767,
         "votes":  0
     },
     {
         "artist":  "Tungevaag \u0026 Xillions",
         "title":  "Dancing On My Own",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1768,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Bebe Rexha",
         "title":  "I\u0027m Good (Blue) [Tiësto Remix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1769,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz \u0026 David Guetta",
         "title":  "On Repeat",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1770,
         "votes":  0
     },
     {
         "artist":  "Tungevaag, STVW \u0026 Joe Jury",
         "title":  "Lovers On The Run",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1771,
         "votes":  0
     },
     {
         "artist":  "Mike Candys",
         "title":  "Eternity",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1772,
         "votes":  0
     },
     {
         "artist":  "PHANTOMA",
         "title":  "The Middle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1773,
         "votes":  0
     },
     {
         "artist":  "ItaloBrothers",
         "title":  "Creatures Of Tomorrow",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1774,
         "votes":  0
     },
     {
         "artist":  "Mother Mother",
         "title":  "Body",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1775,
         "votes":  0
     },
     {
         "artist":  "MÖWE",
         "title":  "4AM (feat. Sinikka Monte)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1776,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Ellie Goulding",
         "title":  "Miracle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1777,
         "votes":  0
     },
     {
         "artist":  "Klaas",
         "title":  "Night Is Dark",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1778,
         "votes":  0
     },
     {
         "artist":  "LIZOT",
         "title":  "On The Move (feat. PRISKA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1779,
         "votes":  0
     },
     {
         "artist":  "Sam Feldt, Jonas Blue, Endless Summer, and Violet Days",
         "title":  "Crying On The Dancefloor",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1780,
         "votes":  0
     },
     {
         "artist":  "R3HAB, INNA \u0026 Sash!",
         "title":  "Rock My Body",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1781,
         "votes":  0
     },
     {
         "artist":  "BUNT. \u0026 Nate Traveller",
         "title":  "Clouds",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1782,
         "votes":  0
     },
     {
         "artist":  "Marshmello \u0026 Farruko",
         "title":  "Esta Vida",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1783,
         "votes":  0
     },
     {
         "artist":  "LANNÉ, Marc Blou \u0026 X.o.anne",
         "title":  "Dark Side Of The Moon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1784,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Tungevaag",
         "title":  "La Danse",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1785,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "Sweet Goodbye",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1786,
         "votes":  0
     },
     {
         "artist":  "Agent Zed \u0026 Daniel Powter",
         "title":  "Bad Day",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1787,
         "votes":  0
     },
     {
         "artist":  "3 Are Legend \u0026 Blasterjaxx",
         "title":  "Nasty",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1788,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Anne-Marie \u0026 Coi Leray",
         "title":  "Baby Don\u0027t Hurt Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1789,
         "votes":  0
     },
     {
         "artist":  "Trinix \u0026 One-T",
         "title":  "The Magic Key",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1790,
         "votes":  0
     },
     {
         "artist":  "VIZE, Joris Sava \u0026 July",
         "title":  "Ghost Town",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1791,
         "votes":  0
     },
     {
         "artist":  "FAST BOY \u0026 Topic",
         "title":  "Forget You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1792,
         "votes":  0
     },
     {
         "artist":  "Neptunica",
         "title":  "Follow You (feat. Beks)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1793,
         "votes":  0
     },
     {
         "artist":  "MOGUAI, VIZE \u0026 Anna Grey",
         "title":  "You\u0027re Not Alone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1794,
         "votes":  0
     },
     {
         "artist":  "Niels Van Gogh",
         "title":  "Rave All Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1795,
         "votes":  0
     },
     {
         "artist":  "LUNAX",
         "title":  "Out Of Orbit",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1796,
         "votes":  0
     },
     {
         "artist":  "Oliver Heldens \u0026 Kate Ryan",
         "title":  "Désenchantée (Oli’s EuroRave Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1797,
         "votes":  0
     },
     {
         "artist":  "Scooter \u0026 Harris \u0026 Ford",
         "title":  "Techno Is Back",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1798,
         "votes":  0
     },
     {
         "artist":  "Mike Williams",
         "title":  "Living On Video (feat. Dtale)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1799,
         "votes":  0
     },
     {
         "artist":  "Crunkz",
         "title":  "Superlike",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1800,
         "votes":  0
     },
     {
         "artist":  "3 Are Legend, Justin Prime \u0026 Sandro Silva",
         "title":  "Raver Dome",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1801,
         "votes":  0
     },
     {
         "artist":  "Ilkay Sencan x Vintage Culture, Yoelle",
         "title":  "Superpowers (Dimitri Vegas Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1802,
         "votes":  0
     },
     {
         "artist":  "Dino Warriors \u0026 Polina Grace",
         "title":  "2 Times (Dimitri Vegas Edit) (feat. Sound Of Legend)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1803,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, R3HAB \u0026 Prezioso",
         "title":  "Shooting Darts",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1804,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Scooter",
         "title":  "We Love Hardcore (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1805,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Azteck \u0026 Hayley May",
         "title":  "Heaven",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1806,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, David Guetta, Daddy Yankee \u0026 Afro Bros",
         "title":  "Instagram",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1807,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Kim Loaiza",
         "title":  "Fuego",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1808,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Vitas",
         "title":  "The King",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1809,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Timmy Trumpet",
         "title":  "Anita",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1810,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 KSHMR",
         "title":  "The Prayer (feat. Zafrir)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1811,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Ben Nicky",
         "title":  "We Come 1 (Darren Styles Remix) (feat. Distorted Dreams)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1812,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Showtek",
         "title":  "Burn",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1813,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Cascada \u0026 Harris \u0026 Ford",
         "title":  "Never Let Me Go",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1814,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Timmy Trumpet",
         "title":  "Underwater Love (LA Vision Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1815,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "How To Save A Life (feat. loafers \u0026 The High)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1816,
         "votes":  0
     },
     {
         "artist":  "Royksopp",
         "title":  "Tricky Tricky w_ Fever Ray (Goddamn Electric Bill Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1817,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Life Like This",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1818,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Poltergst",
         "title":  "Tonight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1819,
         "votes":  0
     },
     {
         "artist":  "Lucas \u0026 Steve",
         "title":  "SICK",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1820,
         "votes":  0
     },
     {
         "artist":  "Tujamo",
         "title":  "Click",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1821,
         "votes":  0
     },
     {
         "artist":  "Gaspar \u0026 D\u0026M",
         "title":  "Ominous",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1822,
         "votes":  0
     },
     {
         "artist":  "Hardwell, Timmy Trumpet \u0026 Maddix",
         "title":  "Revolution",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1823,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Afrojack",
         "title":  "Stay Mine",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1824,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 DVBBS",
         "title":  "Synergy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1825,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "DOPAMINE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1826,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Timmy Trumpet \u0026 Edward Maya",
         "title":  "Feel Your Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1827,
         "votes":  0
     },
     {
         "artist":  "ACRAZE",
         "title":  "Do It To It (Tiësto Remix) (feat. Cherish)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1828,
         "votes":  0
     },
     {
         "artist":  "Mike Gudmann, Popcorn! \u0026 ggbeatss",
         "title":  "Voltage",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1829,
         "votes":  0
     },
     {
         "artist":  "TMW",
         "title":  "Get Louder!",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1830,
         "votes":  0
     },
     {
         "artist":  "Steff da Campo \u0026 David Puentez",
         "title":  "Fresh (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1831,
         "votes":  0
     },
     {
         "artist":  "71 Digits \u0026 Flo Rida",
         "title":  "Low",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1832,
         "votes":  0
     },
     {
         "artist":  "Klaas",
         "title":  "First Girl on the Moon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1833,
         "votes":  0
     },
     {
         "artist":  "Mike Candys",
         "title":  "Baby",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1834,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega",
         "title":  "Sambia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1835,
         "votes":  0
     },
     {
         "artist":  "Tungevaag \u0026 Bassjackers",
         "title":  "Written In The Stars",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1836,
         "votes":  0
     },
     {
         "artist":  "Project 98",
         "title":  "Super Charged",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1837,
         "votes":  0
     },
     {
         "artist":  "Mike Candys",
         "title":  "Boom",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1838,
         "votes":  0
     },
     {
         "artist":  "Showtek \u0026 Sevenn",
         "title":  "Pum Pum",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1839,
         "votes":  0
     },
     {
         "artist":  "Laidback Luke \u0026 Tribbs",
         "title":  "Whistle (feat. Bertie Scott)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1840,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 The Stickmen Project",
         "title":  "No Fun",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1841,
         "votes":  0
     },
     {
         "artist":  "Husman",
         "title":  "Cyberpunk",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1842,
         "votes":  0
     },
     {
         "artist":  "Carta",
         "title":  "Liang",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1843,
         "votes":  0
     },
     {
         "artist":  "Neitan \u0026 DJ Kuba",
         "title":  "Helicopter (VIP Edit) (feat. Kris Kiss)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1844,
         "votes":  0
     },
     {
         "artist":  "Jerome \u0026 Angemi",
         "title":  "Staring At The Bottle (feat. Mingue)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1845,
         "votes":  0
     },
     {
         "artist":  "Bassjackers",
         "title":  "Snatch",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1846,
         "votes":  0
     },
     {
         "artist":  "MATTN \u0026 Klaas",
         "title":  "The Logical Song",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1847,
         "votes":  0
     },
     {
         "artist":  "Reggio \u0026 Mykris",
         "title":  "Stellar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1848,
         "votes":  0
     },
     {
         "artist":  "B3nte \u0026 Mike Emilio",
         "title":  "6 Little Eggs",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1849,
         "votes":  0
     },
     {
         "artist":  "Bonka",
         "title":  "Bang Boom (feat. HELOGEN)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1850,
         "votes":  0
     },
     {
         "artist":  "Husman",
         "title":  "Victory For Earth (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1851,
         "votes":  0
     },
     {
         "artist":  "Maddix",
         "title":  "Superheroes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1852,
         "votes":  0
     },
     {
         "artist":  "Rocco",
         "title":  "Everybody (Arnold Palmer \u0026 Cj Stone Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1853,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 G-Sus",
         "title":  "Thunderdome",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1854,
         "votes":  0
     },
     {
         "artist":  "Mad Crow \u0026 ZIGGY X",
         "title":  "Derb",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1855,
         "votes":  0
     },
     {
         "artist":  "Jordiz",
         "title":  "Weekend!",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1856,
         "votes":  0
     },
     {
         "artist":  "Avao",
         "title":  "Text Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1857,
         "votes":  0
     },
     {
         "artist":  "Rave Republic \u0026 TBR",
         "title":  "D.N.A.",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1858,
         "votes":  0
     },
     {
         "artist":  "Neptunica \u0026 Corona",
         "title":  "The Rhythm of the Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1859,
         "votes":  0
     },
     {
         "artist":  "Tony Junior, Futuristic Polar Bears \u0026 Skazi",
         "title":  "Breathless",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1860,
         "votes":  0
     },
     {
         "artist":  "R3SPAWN \u0026 Nain",
         "title":  "I Got It 4 U (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1861,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 OUTRAGE \u0026 Machado",
         "title":  "Rave Control (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1862,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega",
         "title":  "Persia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1863,
         "votes":  0
     },
     {
         "artist":  "Vion Konger, Ken, \u0026 Rebetz",
         "title":  "Never Gonna Stop",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1864,
         "votes":  0
     },
     {
         "artist":  "HAVOQ \u0026 Max Adrian",
         "title":  "Fall In Love (feat. Katie Sky)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1865,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega",
         "title":  "Kingdom",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1866,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega x SEEQ",
         "title":  "Soundcontrol",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1867,
         "votes":  0
     },
     {
         "artist":  "NIVIRO",
         "title":  "Diamond",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1868,
         "votes":  0
     },
     {
         "artist":  "OUTRAGE \u0026 ALEJANDRO",
         "title":  "Move It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1869,
         "votes":  0
     },
     {
         "artist":  "Sandro Silva",
         "title":  "Forever",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1870,
         "votes":  0
     },
     {
         "artist":  "Bassjackers \u0026 MAKJ",
         "title":  "De La Sol (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1871,
         "votes":  0
     },
     {
         "artist":  "Bassjackers \u0026 ANG",
         "title":  "Olé Olé (L3N Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1872,
         "votes":  0
     },
     {
         "artist":  "Olly James",
         "title":  "Back To The Future",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1873,
         "votes":  0
     },
     {
         "artist":  "HYPELEZZ \u0026 Blondee",
         "title":  "The Logical Song",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1874,
         "votes":  0
     },
     {
         "artist":  "Bassjackers, Jaxx \u0026 Vega \u0026 Futuristic Polar Bears",
         "title":  "Run Away",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1875,
         "votes":  0
     },
     {
         "artist":  "TMW \u0026 BE.TH",
         "title":  "Boots",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1876,
         "votes":  0
     },
     {
         "artist":  "The Hitmen feat. Taia Dya",
         "title":  "Make You Mine (S.B.P Bootleg)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1877,
         "votes":  0
     },
     {
         "artist":  "R3SPAWN \u0026 Patrick Moreno",
         "title":  "VIP",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1878,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Hold You von Zombic Lunax (Musik Video)_  __Flash Warning__!",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1879,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 SaberZ",
         "title":  "Bumpin Hard",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1880,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx \u0026 KEVU",
         "title":  "Unchained",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1881,
         "votes":  0
     },
     {
         "artist":  "Husman \u0026 Justin Prime",
         "title":  "Ninja",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1882,
         "votes":  0
     },
     {
         "artist":  "B3nte, Mike Emilio \u0026 Hilaa",
         "title":  "Eternity",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1883,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega, Maikki \u0026 W\u0026W",
         "title":  "Rave Time (W\u0026W Edit) (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1884,
         "votes":  0
     },
     {
         "artist":  "Avancada vs Darius \u0026 Finlay \u0026 Darius \u0026 Finlay",
         "title":  "Xplode (ASOT 830)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1885,
         "votes":  0
     },
     {
         "artist":  "L\u0027Algérino \u0026 Soolking",
         "title":  "Roméo",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1886,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega",
         "title":  "Pump This Party",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1887,
         "votes":  0
     },
     {
         "artist":  "Mike Emilio, B3nte \u0026 Hilaa",
         "title":  "Drown",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1888,
         "votes":  0
     },
     {
         "artist":  "Neptunica, Pule \u0026 Crystal Rock",
         "title":  "World in Your Eyes (feat. Heleen)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1889,
         "votes":  0
     },
     {
         "artist":  "Zombic, Danimal \u0026 Influencerz",
         "title":  "Be My Lover",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1890,
         "votes":  0
     },
     {
         "artist":  "Husman",
         "title":  "Arrival (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1891,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 Husman",
         "title":  "Desperados (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1892,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Waste Your Youth",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1893,
         "votes":  0
     },
     {
         "artist":  "KAAZE",
         "title":  "End Of The World (Dr Phunk Remix) (feat. Jonathan Mendelsohn)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1894,
         "votes":  0
     },
     {
         "artist":  "Darren Styles \u0026 TNT aka Technoboy \u0027N\u0027 Tuneboy",
         "title":  "DLMD (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1895,
         "votes":  0
     },
     {
         "artist":  "TheFatRat",
         "title":  "The Calling (Da Tweekaz Remix) (feat. Laura Brehm)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1896,
         "votes":  0
     },
     {
         "artist":  "Delerium ft. Sarah McLachlan",
         "title":  "Silence (Brennan Heart Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1897,
         "votes":  0
     },
     {
         "artist":  "Showtek, Technoboy, Tuneboy, and TNT",
         "title":  "Mellow (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1898,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 Armin van Buuren",
         "title":  "Ready to Rave (Bass Modulators remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1899,
         "votes":  0
     },
     {
         "artist":  "D-Block \u0026 S-te-Fan \u0026 Dj Isaac",
         "title":  "Harder State Of Mind",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1900,
         "votes":  0
     },
     {
         "artist":  "Brennan Heart, Toneshifterz \u0026 Dailucia",
         "title":  "Time Is Now (I AM HARDSTYLE In Concert Theme)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1901,
         "votes":  0
     },
     {
         "artist":  "Gammer \u0026 Darren Styles",
         "title":  "DYSYLM",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1902,
         "votes":  0
     },
     {
         "artist":  "VINAI \u0026 VAMERO",
         "title":  "That Way (Raakmo Remix) (feat. Chris Crone)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1903,
         "votes":  0
     },
     {
         "artist":  "Withard \u0026 Quickdrop",
         "title":  "Coming Down",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1904,
         "votes":  0
     },
     {
         "artist":  "Brennan Heart \u0026 Harris \u0026 Ford",
         "title":  "Addicted to the Bass",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1905,
         "votes":  0
     },
     {
         "artist":  "MORTEN",
         "title":  "No Good",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1906,
         "votes":  0
     },
     {
         "artist":  "Faustix",
         "title":  "Happy Place [Refuzion Remix] (feat. Cathrine Lassen)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1907,
         "votes":  0
     },
     {
         "artist":  "Edward Maya",
         "title":  "Stereo Love (Dark Rehab Hardstyle Bootleg HD)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1908,
         "votes":  0
     },
     {
         "artist":  "Harris \u0026 Ford \u0026 Sound Rush",
         "title":  "Died In Your Arms (Reloaded)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1909,
         "votes":  0
     },
     {
         "artist":  "Jerome",
         "title":  "Jupiter (Brennan Heart Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1910,
         "votes":  0
     },
     {
         "artist":  "Da Tweekaz, Tony Junior \u0026 Sound Rush",
         "title":  "Lambada (Your Love)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1911,
         "votes":  0
     },
     {
         "artist":  "Special D \u0026 Mental Theo",
         "title":  "Rocket (Hard Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1912,
         "votes":  0
     },
     {
         "artist":  "Adrenalize",
         "title":  "Epic Sax Song",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1913,
         "votes":  0
     },
     {
         "artist":  "Jordiz",
         "title":  "Keep on Moving",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1914,
         "votes":  0
     },
     {
         "artist":  "Harris \u0026 Ford \u0026 ItaloBrothers",
         "title":  "Weekend Party",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1915,
         "votes":  0
     },
     {
         "artist":  "HBz, Pazoo \u0026 Schalldicht",
         "title":  "Geisterbahn",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1916,
         "votes":  0
     },
     {
         "artist":  "GAIA",
         "title":  "Stellar (Mixed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1917,
         "votes":  0
     },
     {
         "artist":  "Tungevaag",
         "title":  "Ride with Me (Brennan Heart Remix) (feat. Kid Ink)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1918,
         "votes":  0
     },
     {
         "artist":  "Harris \u0026 Ford, BassWar \u0026 CaoX \u0026 HARRY",
         "title":  "Apologize",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1919,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Brennan Heart",
         "title":  "Because The Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1920,
         "votes":  0
     },
     {
         "artist":  "SP3CTRUM \u0026 Beau James",
         "title":  "Creepin\u0027",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1921,
         "votes":  0
     },
     {
         "artist":  "Harris \u0026 Ford",
         "title":  "Survivors (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1922,
         "votes":  0
     },
     {
         "artist":  "Corti Organ",
         "title":  "Polarity (ASOT 1066)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1923,
         "votes":  0
     },
     {
         "artist":  "Drenchill",
         "title":  "Feels Like This (feat. Indiiana)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1924,
         "votes":  0
     },
     {
         "artist":  "Mindpunk, Dropgun, Treetalk",
         "title":  "Take Me To Church (feat. R3D 8)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1925,
         "votes":  0
     },
     {
         "artist":  "Jim Yosef",
         "title":  "Stamp On The Ground (Lyrics) feat. Scarlett",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1926,
         "votes":  0
     },
     {
         "artist":  "Jungle Jonsson \u0026 Mike Emilio",
         "title":  "Madhouse",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1927,
         "votes":  0
     },
     {
         "artist":  "Digital Mindz",
         "title":  "Our Sanctuary",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1928,
         "votes":  0
     },
     {
         "artist":  "SP3CTRUM",
         "title":  "Creep (feat. BELLA X)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1929,
         "votes":  0
     },
     {
         "artist":  "Younotus",
         "title":  "I Swear (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1930,
         "votes":  0
     },
     {
         "artist":  "LIZOT, Shibui \u0026 Barcode Brothers",
         "title":  "Dooh Dooh (Stereo Sound)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1931,
         "votes":  0
     },
     {
         "artist":  "Tujamo \u0026 Antoine Delvig",
         "title":  "Vida Loca",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1932,
         "votes":  0
     },
     {
         "artist":  "O\u0027Neal \u0026 FR3SH TrX",
         "title":  "You Got Me (Radio-Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1933,
         "votes":  0
     },
     {
         "artist":  "SICK LEGEND",
         "title":  "CHASING THE SUN (HARDSTYLE)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1934,
         "votes":  0
     },
     {
         "artist":  "Shogun \u0026 Neo Tokyo",
         "title":  "Gasoline (ASOT 1079)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1935,
         "votes":  0
     },
     {
         "artist":  "Ashley Wallbridge \u0026 Darude",
         "title":  "Surrender (Hixxy Remix) (feat. Foux)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1936,
         "votes":  0
     },
     {
         "artist":  "AXMO \u0026 DJ Junior",
         "title":  "I Like To Party",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1937,
         "votes":  0
     },
     {
         "artist":  "BTS",
         "title":  "ON",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1938,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 Husman",
         "title":  "Desperados",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1939,
         "votes":  0
     },
     {
         "artist":  "SP3CTRUM, DJSM, \u0026 ExtraGirl",
         "title":  "Slow Down",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1940,
         "votes":  0
     },
     {
         "artist":  "QUATTROTEQUE \u0026 Rayyea",
         "title":  "E.T.",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1941,
         "votes":  0
     },
     {
         "artist":  "Wildstylez",
         "title":  "Hero",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1942,
         "votes":  0
     },
     {
         "artist":  "Davey Asprey",
         "title":  "Fallout (Gaia-X Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1943,
         "votes":  0
     },
     {
         "artist":  "Bassjackers",
         "title":  "Wrong or Right (The Riddle)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1944,
         "votes":  0
     },
     {
         "artist":  "Special D., DJ Sammy \u0026 Loona",
         "title":  "Prince of Love 2023",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1945,
         "votes":  0
     },
     {
         "artist":  "Avao",
         "title":  "Whiskey Is My Holy Water",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1946,
         "votes":  0
     },
     {
         "artist":  "VINAI, Naeleck, \u0026 Raakmo",
         "title":  "The Sinner",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1947,
         "votes":  0
     },
     {
         "artist":  "KDDK \u0026 Alexander Popov",
         "title":  "Harder Than Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1948,
         "votes":  0
     },
     {
         "artist":  "Rub!k",
         "title":  "Orbit 37 (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1949,
         "votes":  0
     },
     {
         "artist":  "The Prophet",
         "title":  "\u0026 Dutch Movement  - Fiyaaah!!! (Defqon 2022 Edit) l Official Hardstyle Video",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1950,
         "votes":  0
     },
     {
         "artist":  "Galwaro \u0026 Behmer",
         "title":  "Supernova",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1951,
         "votes":  0
     },
     {
         "artist":  "Tobu",
         "title":  "Hope",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1952,
         "votes":  0
     },
     {
         "artist":  "Lawstylez \u0026 Zombic",
         "title":  "Free Fall",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1953,
         "votes":  0
     },
     {
         "artist":  "Audiotricz \u0026 Bass Modulators",
         "title":  "Thriller",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1954,
         "votes":  0
     },
     {
         "artist":  "3GUNZ \u0026 FiFi",
         "title":  "Pepas",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1955,
         "votes":  0
     },
     {
         "artist":  "KUTE",
         "title":  "AVOID ME",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1956,
         "votes":  0
     },
     {
         "artist":  "NIVIRO \u0026 KEVU",
         "title":  "Unity",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1957,
         "votes":  0
     },
     {
         "artist":  "Tungevaag",
         "title":  "Ride With Me [Blasterjaxx \u0026 Tungevaag Remix] (feat. Kid Ink)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1958,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx",
         "title":  "He\u0027s A Pirate",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1959,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "No Time",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1960,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Timmy Trumpet \u0026 Edward Maya",
         "title":  "Feel Your Love (Tomorrowland Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1961,
         "votes":  0
     },
     {
         "artist":  "LUM!X, D.T.E \u0026 Gabry Ponte",
         "title":  "The Passenger (LaLaLa) [Gabry Ponte Festival Mix] (feat. MOKABY)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1962,
         "votes":  0
     },
     {
         "artist":  "Bassjackers \u0026 Diètro",
         "title":  "Arabian Nights",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1963,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "Keep Moving",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1964,
         "votes":  0
     },
     {
         "artist":  "Ben Nicky",
         "title":  "Raindrops (Avao Remix) (feat. Stunt)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1965,
         "votes":  0
     },
     {
         "artist":  "KAAZE \u0026 Jordan Grace",
         "title":  "Paradise",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1966,
         "votes":  0
     },
     {
         "artist":  "Nicky Romero \u0026 Third Party",
         "title":  "For The People",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1967,
         "votes":  0
     },
     {
         "artist":  "Fedde Le Grand \u0026 Robert Falcon",
         "title":  "Heaven [Club Mix] (feat. Sofia Quinn)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1968,
         "votes":  0
     },
     {
         "artist":  "Shouse",
         "title":  "Won\u0027t Forget You (Felix Jaehn Remix Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1969,
         "votes":  0
     },
     {
         "artist":  "Olly James, SkyLights \u0026 Kris Kiss",
         "title":  "Old School (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1970,
         "votes":  0
     },
     {
         "artist":  "Rave Republic, Justin Prime \u0026 EMKR",
         "title":  "Missing You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1971,
         "votes":  0
     },
     {
         "artist":  "NWYR \u0026 Wiwek",
         "title":  "Cocoon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1972,
         "votes":  0
     },
     {
         "artist":  "Maddix, Linka \u0026 Gregor Potter",
         "title":  "Thrill",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1973,
         "votes":  0
     },
     {
         "artist":  "Hardwell, Maddix \u0026 4 Strings",
         "title":  "Take Me Away Again",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1974,
         "votes":  0
     },
     {
         "artist":  "Hardwell feat. Lee Grant",
         "title":  "REMINISCE (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1975,
         "votes":  0
     },
     {
         "artist":  "Tujamo, VINNE, \u0026 Murotani",
         "title":  "Techno Party",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1976,
         "votes":  0
     },
     {
         "artist":  "KXXMA",
         "title":  "Herz an Herz",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1977,
         "votes":  0
     },
     {
         "artist":  "Sick Individuals",
         "title":  "MAKI",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1978,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Vini Vici \u0026 MATTN",
         "title":  "Cafe Del Mar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1979,
         "votes":  0
     },
     {
         "artist":  "La Fuente",
         "title":  "I Want You (Hardwell Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1980,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx",
         "title":  "Burn It To The Ground (feat. Jay Mason)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1981,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte \u0026 Sash!",
         "title":  "Never Be Alone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1982,
         "votes":  0
     },
     {
         "artist":  "Sick Individuals",
         "title":  "I Want You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1983,
         "votes":  0
     },
     {
         "artist":  "KSHMR \u0026 Azteck",
         "title":  "Maria Maria",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1984,
         "votes":  0
     },
     {
         "artist":  "Reinier Zonneveld \u0026 D-Devils",
         "title":  "Dance With The Devil (The 6th Gate) (Reinier Zonneveld Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1985,
         "votes":  0
     },
     {
         "artist":  "Will Sparks",
         "title":  "Annihilate (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1986,
         "votes":  0
     },
     {
         "artist":  "W\u0026W, AXMO \u0026 SONJA",
         "title":  "StarShine (I Don\u0027t Want This Night To End) (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1987,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Bassjackers \u0026 John Dahlbäck",
         "title":  "Blink 2022",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1988,
         "votes":  0
     },
     {
         "artist":  "W\u0026W, AXMO \u0026 Haley Maze",
         "title":  "Rave Superstar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1989,
         "votes":  0
     },
     {
         "artist":  "Prezioso, Vini Vici \u0026 Shibui",
         "title":  "Drink And Shout",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1990,
         "votes":  0
     },
     {
         "artist":  "Quintino \u0026 Thomas Gold",
         "title":  "Quechua (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1991,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx, Prezioso \u0026 LIZOT",
         "title":  "Hurricane [Festival Mix] (feat. SHIBUI)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1992,
         "votes":  0
     },
     {
         "artist":  "VINAI \u0026 Olly James",
         "title":  "Eternal",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1993,
         "votes":  0
     },
     {
         "artist":  "Bassjackers \u0026 SaberZ",
         "title":  "Lose It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1994,
         "votes":  0
     },
     {
         "artist":  "R3HAB \u0026 Afrojack",
         "title":  "Shockwave",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1995,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Quintino",
         "title":  "Sloopkogel",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1996,
         "votes":  0
     },
     {
         "artist":  "Alle Farben",
         "title":  "Freedom",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1997,
         "votes":  0
     },
     {
         "artist":  "Loud Luxury \u0026 Hook N Sling",
         "title":  "Afterparty",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1998,
         "votes":  0
     },
     {
         "artist":  "Ummet Ozcan \u0026 le Shuuk",
         "title":  "Toast Hawaii",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  1999,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Lay Low",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2000,
         "votes":  0
     },
     {
         "artist":  "Jerome \u0026 KYANU",
         "title":  "Break the Silence",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2001,
         "votes":  0
     },
     {
         "artist":  "FORTELLA",
         "title":  "Get Up Off The Floor",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2002,
         "votes":  0
     },
     {
         "artist":  "TurboKevin",
         "title":  "CHASE THE SUN",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2003,
         "votes":  0
     },
     {
         "artist":  "3 Are Legend x Tujamo x Jaxx \u0026 Vega",
         "title":  "Pump It Up (feat. Black \u0026 White Brothers) [Extended Mix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2004,
         "votes":  0
     },
     {
         "artist":  "KXXMA \u0026 TurboKevin",
         "title":  "Get Shaky",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2005,
         "votes":  0
     },
     {
         "artist":  "Neptunica \u0026 Marc Blou",
         "title":  "Never Walk Alone (feat. Rebecca Helena)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2006,
         "votes":  0
     },
     {
         "artist":  "Zombic, Danimal \u0026 Influencerz",
         "title":  "Human Error",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2007,
         "votes":  0
     },
     {
         "artist":  "LUNAX, Wasback \u0026 Edward V",
         "title":  "Cups (Drunk in Love Pt. 2)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2008,
         "votes":  0
     },
     {
         "artist":  "Restricted",
         "title":  "Big Jet Plane",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2009,
         "votes":  0
     },
     {
         "artist":  "LUM!X, Alida \u0026 Gabry Ponte",
         "title":  "Forget You (with Gabry Ponte)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2010,
         "votes":  0
     },
     {
         "artist":  "Elley Duhé \u0026 Whethan",
         "title":  "MONEY ON THE DASH",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2011,
         "votes":  0
     },
     {
         "artist":  "Jonas Blue \u0026 Felix Jaehn",
         "title":  "Weekends",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2012,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "The Pattern",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2013,
         "votes":  0
     },
     {
         "artist":  "Mike Candys",
         "title":  "Body Rock",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2014,
         "votes":  0
     },
     {
         "artist":  "Alle Farben \u0026 Maurice Lessing",
         "title":  "Apollo",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2015,
         "votes":  0
     },
     {
         "artist":  "Bloody Mary",
         "title":  "TMW, BE.TH - Music Visualization - Trippy - 4K",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2016,
         "votes":  0
     },
     {
         "artist":  "Drenchill",
         "title":  "Starlight (feat. Jorik Burema)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2017,
         "votes":  0
     },
     {
         "artist":  "NWYR",
         "title":  "Oblivion",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2018,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 89ers",
         "title":  "Party PPL",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2019,
         "votes":  0
     },
     {
         "artist":  "Mike Candys",
         "title":  "For The People",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2020,
         "votes":  0
     },
     {
         "artist":  "Yves V, Robert Falcon \u0026 Jimmy Clash",
         "title":  "Forget You (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2021,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Mariana BO",
         "title":  "Vivaldi",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2022,
         "votes":  0
     },
     {
         "artist":  "Empire Of The Sun \u0026 southstar",
         "title":  "We Are The People (Southstar Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2023,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx \u0026 Harris \u0026 Ford",
         "title":  "Bassman",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2024,
         "votes":  0
     },
     {
         "artist":  "BLK RSE \u0026 KAAZE",
         "title":  "Silence (KAAZE Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2025,
         "votes":  0
     },
     {
         "artist":  "Supermode \u0026 Maddix",
         "title":  "Tell Me Why (Maddix Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2026,
         "votes":  0
     },
     {
         "artist":  "Dxrk ダーク",
         "title":  "RAVE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2027,
         "votes":  0
     },
     {
         "artist":  "Keanu Silva",
         "title":  "Hardcore Vibes (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2028,
         "votes":  0
     },
     {
         "artist":  "Tujamo",
         "title":  "Drop That Low (Tujamo\u0027s Secret Weapon 2022)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2029,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte \u0026 Justus",
         "title":  "Lightning Strikes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2030,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 AXMO",
         "title":  "Rave Love (feat. SONJA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2031,
         "votes":  0
     },
     {
         "artist":  "Quintino \u0026 RYVM",
         "title":  "Empty City",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2032,
         "votes":  0
     },
     {
         "artist":  "Liquido",
         "title":  "Narcotic (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2033,
         "votes":  0
     },
     {
         "artist":  "Gigi D\u0027Agostino",
         "title":  "L\u0027amour Toujours(Small Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2034,
         "votes":  0
     },
     {
         "artist":  "AXMO \u0026 Sandro Silva",
         "title":  "The Soulcatcher",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2035,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Nothing Else Matters vs F_CKING SOCIETY (Hardwell Mashup) (feat. Metallica)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2036,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 AXMO",
         "title":  "Heaven Is A Place On Earth",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2037,
         "votes":  0
     },
     {
         "artist":  "Tungevaag, 22Bullets \u0026 Mentum",
         "title":  "Toxic",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2038,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Moonshine \u0026 Marnik",
         "title":  "Mas Que Nada",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2039,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "Mumbet",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2040,
         "votes":  0
     },
     {
         "artist":  "Nathan Dawe",
         "title":  "21 Reasons (feat. Ella Henderson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2041,
         "votes":  0
     },
     {
         "artist":  "Dillon Francis",
         "title":  "Goodies",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2042,
         "votes":  0
     },
     {
         "artist":  "twocolors",
         "title":  "Lovefool",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2043,
         "votes":  0
     },
     {
         "artist":  "HVME",
         "title":  "Goosebumps",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2044,
         "votes":  0
     },
     {
         "artist":  "James Hype \u0026 Miggy Dela Rosa",
         "title":  "Ferrari",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2045,
         "votes":  0
     },
     {
         "artist":  "David Puentez \u0026 Albert Neve",
         "title":  "Superstar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2046,
         "votes":  0
     },
     {
         "artist":  "Avicii \u0026 Sebastien Drums",
         "title":  "My Feelings For You (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2047,
         "votes":  0
     },
     {
         "artist":  "The Disco Boys",
         "title":  "For You (Deeperlove Remix) (feat. Manfred Mann\u0027s Earth Band)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2048,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Cardio",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2049,
         "votes":  0
     },
     {
         "artist":  "YouNotUs \u0026 bryska",
         "title":  "Samba (bryska Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2050,
         "votes":  0
     },
     {
         "artist":  "LMFAO",
         "title":  "Party Rock Anthem (feat. Lauren Bennett \u0026 GoonRock)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2051,
         "votes":  0
     },
     {
         "artist":  "Eric Prydz",
         "title":  "Call on Me (Radio Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2052,
         "votes":  0
     },
     {
         "artist":  "Endor",
         "title":  "Pump It Up (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2053,
         "votes":  0
     },
     {
         "artist":  "Babert \u0026 Mell Hall",
         "title":  "Can\u0027t Stop Now",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2054,
         "votes":  0
     },
     {
         "artist":  "Slushii",
         "title":  "LUV U NEED U",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2055,
         "votes":  0
     },
     {
         "artist":  "Parx",
         "title":  "Feel Right Now (feat. Nonô)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2056,
         "votes":  0
     },
     {
         "artist":  "HBz \u0026 Jamyx",
         "title":  "Spirit Of The Hawk",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2057,
         "votes":  0
     },
     {
         "artist":  "Rnbstylerz",
         "title":  "Like Wooh Wooh (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2058,
         "votes":  0
     },
     {
         "artist":  "Tobu",
         "title":  "Nostalgia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2059,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Animals",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2060,
         "votes":  0
     },
     {
         "artist":  "RudeLies \u0026 Facading",
         "title":  "Arabian Nights",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2061,
         "votes":  0
     },
     {
         "artist":  "ZIGGY X",
         "title":  "Keeps Me High",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2062,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Dumb (feat. BOSS)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2063,
         "votes":  0
     },
     {
         "artist":  "Tommy Tran \u0026 Astronold",
         "title":  "Alarm",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2064,
         "votes":  0
     },
     {
         "artist":  "Aurora B.Polaris",
         "title":  "ANYTH1NG (feat. LXST ANGELES)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2065,
         "votes":  0
     },
     {
         "artist":  "DJ Thera",
         "title":  "Live Hard Now (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2066,
         "votes":  0
     },
     {
         "artist":  "Froidz",
         "title":  "Apologize (Bodybangers Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2067,
         "votes":  0
     },
     {
         "artist":  "Dj Thera \u0026 T.C.C.",
         "title":  "Love Feels Right",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2068,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Cardio (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2069,
         "votes":  0
     },
     {
         "artist":  "Dj Thera \u0026 T.C.C.",
         "title":  "History 303",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2070,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "Lost In Trance L.A. tion",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2071,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "Till The Dawn",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2072,
         "votes":  0
     },
     {
         "artist":  "Geck-o",
         "title":  "Bonjour (Dj Thera Hardertrance Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2073,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "Better Now",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2074,
         "votes":  0
     },
     {
         "artist":  "DJ Thera \u0026 Sjammienators",
         "title":  "Counting Sheep",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2075,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "Speak In Silence",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2076,
         "votes":  0
     },
     {
         "artist":  "Dj Thera \u0026 Myke",
         "title":  "Until We Meet Again",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2077,
         "votes":  0
     },
     {
         "artist":  "Braaheim, ILYAA \u0026 Dani Vidi",
         "title":  "Save Tonight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2078,
         "votes":  0
     },
     {
         "artist":  "Sam Smith \u0026 Kim Petras",
         "title":  "Unholy (ACRAZE Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2079,
         "votes":  0
     },
     {
         "artist":  "Arem Ozguc, Arman Aydin \u0026 Jordan Rys",
         "title":  "Astronaut in the Ocean",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2080,
         "votes":  0
     },
     {
         "artist":  "Topic \u0026 A7S",
         "title":  "Kernkraft 400 (A Better Day)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2081,
         "votes":  0
     },
     {
         "artist":  "Olly James",
         "title":  "The Age Of Rave",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2082,
         "votes":  0
     },
     {
         "artist":  "Maddix",
         "title":  "No Escape",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2083,
         "votes":  0
     },
     {
         "artist":  "Dirty Rush \u0026 Gregor Es",
         "title":  "EVRBDY",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2084,
         "votes":  0
     },
     {
         "artist":  "Autoerotique",
         "title":  "I Get Up",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2085,
         "votes":  0
     },
     {
         "artist":  "Sigala, Gabry Ponte \u0026 Alex Gaudino",
         "title":  "Rely On Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2086,
         "votes":  0
     },
     {
         "artist":  "Agatino Romero \u0026 HUTS",
         "title":  "Alive (HUTS Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2087,
         "votes":  0
     },
     {
         "artist":  "ItaloBrothers",
         "title":  "Stamp On The Ground",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2088,
         "votes":  0
     },
     {
         "artist":  "Jeonghyeon \u0026 KDH feat. Jaime Deraz",
         "title":  "Holding On",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2089,
         "votes":  0
     },
     {
         "artist":  "Lucky Luke",
         "title":  "Lyd (Like You Do)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2090,
         "votes":  0
     },
     {
         "artist":  "HEADER \u0026 Justus",
         "title":  "Untouchable",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2091,
         "votes":  0
     },
     {
         "artist":  "Gaullin",
         "title":  "All the Things",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2092,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Who\u0027s That Chick_ (feat. Rihanna)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2093,
         "votes":  0
     },
     {
         "artist":  "Sandro Silva \u0026 STVW",
         "title":  "Lost Soul",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2094,
         "votes":  0
     },
     {
         "artist":  "ThomTree, Marc Kiss, \u0026 Crystal Rock",
         "title":  "Riverside",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2095,
         "votes":  0
     },
     {
         "artist":  "Tujamo x Taio Cruz",
         "title":  "Booty Bounce (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2096,
         "votes":  0
     },
     {
         "artist":  "DJ Thera",
         "title":  "Far Away (feat. Marissa)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2097,
         "votes":  0
     },
     {
         "artist":  "Marshmello \u0026 Lil Peep",
         "title":  "Spotlight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2098,
         "votes":  0
     },
     {
         "artist":  "Sander van Doorn, Martin Garrix \u0026 DVBBS",
         "title":  "Gold Skies (feat. Aleesia)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2099,
         "votes":  0
     },
     {
         "artist":  "LUM!X",
         "title":  "Halo (feat. PIA MARIA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2100,
         "votes":  0
     },
     {
         "artist":  "DJ Gollum Vs Empyre One",
         "title":  "The Bad Touch (Empyre One Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2101,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Savage",
         "title":  "Freaks (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2102,
         "votes":  0
     },
     {
         "artist":  "DJ Antoine \u0026 Jerome",
         "title":  "Hardcore Life",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2103,
         "votes":  0
     },
     {
         "artist":  "Dj Thera, Jiyagi, \u0026 Sjammienators",
         "title":  "Lost Control (Jiyagi Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2104,
         "votes":  0
     },
     {
         "artist":  "Coone, Da Tweekaz \u0026 Hard Driver",
         "title":  "The Elite (LQ Rip)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2105,
         "votes":  0
     },
     {
         "artist":  "Carta",
         "title":  "EDM",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2106,
         "votes":  0
     },
     {
         "artist":  "LUNAX",
         "title":  "Rooftop",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2107,
         "votes":  0
     },
     {
         "artist":  "W\u0026W, AXMO \u0026 Giin",
         "title":  "Skydance",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2108,
         "votes":  0
     },
     {
         "artist":  "VINAI \u0026 VAMERO",
         "title":  "That Way (feat. Chris Crone)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2109,
         "votes":  0
     },
     {
         "artist":  "The Underdog Project",
         "title":  "Summer Jam (Jerome Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2110,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Just In Case",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2111,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Summer",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2112,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki, Timmy Trumpet \u0026 DJ Aligator",
         "title":  "The Whistle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2113,
         "votes":  0
     },
     {
         "artist":  "R3hab \u0026 VINAI",
         "title":  "How We Party",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2114,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte, DJs From Mars \u0026 Charla K",
         "title":  "Killing Me Softly",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2115,
         "votes":  0
     },
     {
         "artist":  "KSHMR \u0026 Stefy De Cicco",
         "title":  "Kids (feat. MKLA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2116,
         "votes":  0
     },
     {
         "artist":  "71Digits \u0026 Flo Rida",
         "title":  "Low (LUNAX Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2117,
         "votes":  0
     },
     {
         "artist":  "VINAI \u0026  Le Pedre",
         "title":  "I Was Made",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2118,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Vini Vici",
         "title":  "Get in Trouble. So What. (Audiotricz Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2119,
         "votes":  0
     },
     {
         "artist":  "KONGOS",
         "title":  "Come with Me Now",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2120,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, KSHMR \u0026 Mildenhaus",
         "title":  "Ininna Tora",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2121,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Gabry Ponte",
         "title":  "Mad World",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2122,
         "votes":  0
     },
     {
         "artist":  "Paul Kalkbrenner",
         "title":  "Feed Your Head Live at Tomorrowland",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2123,
         "votes":  0
     },
     {
         "artist":  "Faul \u0026 Wad \u0026 PNAU",
         "title":  "Changes (Timmy Trumpet Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2124,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte \u0026 LUM!X",
         "title":  "We Could Be Together (feat. Daddy DJ)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2125,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "E-rotic- Moonlight Shadow w_Lyrics",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2126,
         "votes":  0
     },
     {
         "artist":  "Edward Maya \u0026 Vika Jigulina",
         "title":  "Stereo Love (Timmy Trumpet Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2127,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Savage",
         "title":  "Freaks",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2128,
         "votes":  0
     },
     {
         "artist":  "Mangoo \u0026 Dimatik",
         "title":  "EURODANCER 2020",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2129,
         "votes":  0
     },
     {
         "artist":  "Imanbek \u0026 BYOR",
         "title":  "Belly Dancer (LUM!X Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2130,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte, R3HAB \u0026 Timmy Trumpet",
         "title":  "Call Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2131,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte, LUM!X \u0026 Prezioso",
         "title":  "Thunder",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2132,
         "votes":  0
     },
     {
         "artist":  "Carta",
         "title":  "Big Beat",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2133,
         "votes":  0
     },
     {
         "artist":  "Klaas, Freischwimmer \u0026 Sary",
         "title":  "Take My Hand",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2134,
         "votes":  0
     },
     {
         "artist":  "R3HAB, Timmy Trumpet \u0026 W\u0026W",
         "title":  "Distant Memory",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2135,
         "votes":  0
     },
     {
         "artist":  "Dimatik \u0026 LibeDime",
         "title":  "Blackjack (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2136,
         "votes":  0
     },
     {
         "artist":  "Maddix",
         "title":  "Activating",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2137,
         "votes":  0
     },
     {
         "artist":  "Gaspar",
         "title":  "Born For EDM",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2138,
         "votes":  0
     },
     {
         "artist":  "Shouse",
         "title":  "Love Tonight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2139,
         "votes":  0
     },
     {
         "artist":  "Jaxx \u0026 Vega \u0026 VSNS",
         "title":  "Jaipur (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2140,
         "votes":  0
     },
     {
         "artist":  "Mike Williams \u0026 RetroVision",
         "title":  "Supernova",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2141,
         "votes":  0
     },
     {
         "artist":  "Sandro Silva \u0026 Outsiders",
         "title":  "One More Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2142,
         "votes":  0
     },
     {
         "artist":  "Bonka, Rave Republic \u0026 Maikki",
         "title":  "Brakes On",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2143,
         "votes":  0
     },
     {
         "artist":  "LUNAX \u0026 ZANA",
         "title":  "Rabbit Hole",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2144,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Arrow \u0026 Rave Republic",
         "title":  "Ole Ole",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2145,
         "votes":  0
     },
     {
         "artist":  "Mike Emilio, B3nte \u0026 Jungle Jonsson",
         "title":  "Take Over The World",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2146,
         "votes":  0
     },
     {
         "artist":  "CARTA x Luminn",
         "title":  "Reload",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2147,
         "votes":  0
     },
     {
         "artist":  "Dirty Palm",
         "title":  "Diamonds",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2148,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Weekend!",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2149,
         "votes":  0
     },
     {
         "artist":  "Hinkik",
         "title":  "Skystrike",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2150,
         "votes":  0
     },
     {
         "artist":  "BODYWORX \u0026 MOTi",
         "title":  "Everybody",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2151,
         "votes":  0
     },
     {
         "artist":  "Braaheim",
         "title":  "Rhythm Is A Dancer",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2152,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Inna \u0026 Love Harder",
         "title":  "Blow It Up",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2153,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Afrojack",
         "title":  "Stay Mine (Gabry Ponte Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2154,
         "votes":  0
     },
     {
         "artist":  "AZ2A",
         "title":  "Rude Boy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2155,
         "votes":  0
     },
     {
         "artist":  "Dimatik \u0026 Und3rsound",
         "title":  "My Mother Told Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2156,
         "votes":  0
     },
     {
         "artist":  "The Highstreet Allstars",
         "title":  "Rock That Beat",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2157,
         "votes":  0
     },
     {
         "artist":  "La Bouche",
         "title":  "Be My Lover (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2158,
         "votes":  0
     },
     {
         "artist":  "Shouse",
         "title":  "Love Tonight (David Guetta Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2159,
         "votes":  0
     },
     {
         "artist":  "Age of Love",
         "title":  "The Age Of Love (Cosmic Gate Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2160,
         "votes":  0
     },
     {
         "artist":  "Jaymes Young",
         "title":  "Infinity",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2161,
         "votes":  0
     },
     {
         "artist":  "Darude",
         "title":  "Feel the Beat",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2162,
         "votes":  0
     },
     {
         "artist":  "Scooter \u0026 Timmy Trumpet",
         "title":  "Paul Is Dead",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2163,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "Switch Back",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2164,
         "votes":  0
     },
     {
         "artist":  "Danko \u0026 Dastic",
         "title":  "Pump It Up (Dastic Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2165,
         "votes":  0
     },
     {
         "artist":  "Axwell __ Ingrosso",
         "title":  "More Than You Know",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2166,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Head Shoulders Knees \u0026 Toes (Speeding Up) _ Nursery Rhyme _ Super Simple Songs",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2167,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Memories [2021 Remix] (feat. Kid Cudi)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2168,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "Temperature",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2169,
         "votes":  0
     },
     {
         "artist":  "Lil Nas X",
         "title":  "MONTERO_ Call Me By Your Name (SATAN\u0027S EXTENDED VERSION)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2170,
         "votes":  0
     },
     {
         "artist":  "Hoaprox, YUAN, \u0026 Haneri",
         "title":  "Saviour",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2171,
         "votes":  0
     },
     {
         "artist":  "Alok",
         "title":  "Love Again (feat. Alida)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2172,
         "votes":  0
     },
     {
         "artist":  "ATB, Topic, A7S \u0026 Tiësto",
         "title":  "Your Love (9PM) (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2173,
         "votes":  0
     },
     {
         "artist":  "Travis Scott \u0026 HVME",
         "title":  "Goosebumps (Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2174,
         "votes":  0
     },
     {
         "artist":  "Riton \u0026 Nightcrawlers",
         "title":  "Friday (Dopamine Re-Edit) (feat. Mufasa  \u0026 Hypeman)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2175,
         "votes":  0
     },
     {
         "artist":  "DJ Jason Medallion",
         "title":  "Work Hard, Play Hard",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2176,
         "votes":  0
     },
     {
         "artist":  "Culture Beat",
         "title":  "Mr. Vain (Original Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2177,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "International Love (feat. Chris Brown)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2178,
         "votes":  0
     },
     {
         "artist":  "Tim Berg",
         "title":  "Bromance (Avicii\u0027s Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2179,
         "votes":  0
     },
     {
         "artist":  "Pitbull, Afrojack \u0026 Ne-Yo",
         "title":  "Give Me Everything (feat. Nayer)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2180,
         "votes":  0
     },
     {
         "artist":  "Pitbull \u0026 Ne-Yo",
         "title":  "Time of Our Lives",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2181,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Ma chérie (DJ Antoine vs. Mad Mark 2k12 Radio Edit) Fan Video",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2182,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "It\u0027s Going Down For Real (Fun With Emma Kate)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2183,
         "votes":  0
     },
     {
         "artist":  "SNAP!",
         "title":  "Rhythm Is a Dancer (7 Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2184,
         "votes":  0
     },
     {
         "artist":  "Guru Josh Project",
         "title":  "Infinity 2008 (Klaas Vocal Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2185,
         "votes":  0
     },
     {
         "artist":  "Kaskade",
         "title":  "Solid Ground",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2186,
         "votes":  0
     },
     {
         "artist":  "Gym Class Heroes",
         "title":  "Stereo Hearts (feat. Adam Levine)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2187,
         "votes":  0
     },
     {
         "artist":  "Chris Brown \u0026 Tyga",
         "title":  "Ayo",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2188,
         "votes":  0
     },
     {
         "artist":  "Basshunter",
         "title":  "Boten Anna (Club Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2189,
         "votes":  0
     },
     {
         "artist":  "Krayvent \u0026 Renzo Monteleone",
         "title":  "Can\u0027t Get You Out Of My Head",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2190,
         "votes":  0
     },
     {
         "artist":  "le Shuuk",
         "title":  "Sandmann",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2191,
         "votes":  0
     },
     {
         "artist":  "KnightTheProducer!",
         "title":  "Dream Dream Dream Sharkboy LavaGirl (Jersey Club)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2192,
         "votes":  0
     },
     {
         "artist":  "Edward Maya \u0026 Vika Jigulina",
         "title":  "Stereo Love (Zuffo Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2193,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Bigroom Blitz (feat. Wiz Khalifa)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2194,
         "votes":  0
     },
     {
         "artist":  "Matisse \u0026 Sadko",
         "title":  "Strings Again",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2195,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "FCK 2020",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2196,
         "votes":  0
     },
     {
         "artist":  "Deorro \u0026 Krunk!",
         "title":  "I Like This F’n Song",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2197,
         "votes":  0
     },
     {
         "artist":  "Yves V \u0026 Ilkay Sencan",
         "title":  "Not So Bad (feat. Emie)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2198,
         "votes":  0
     },
     {
         "artist":  "Maddix \u0026 SaberZ",
         "title":  "Follow Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2199,
         "votes":  0
     },
     {
         "artist":  "YouNotUs \u0026 Amber Van Day",
         "title":  "Papa",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2200,
         "votes":  0
     },
     {
         "artist":  "W\u0026W",
         "title":  "Rave After Rave",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2201,
         "votes":  0
     },
     {
         "artist":  "VINAI",
         "title":  "Rise Up (feat. Vamero)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2202,
         "votes":  0
     },
     {
         "artist":  "FISHER",
         "title":  "Losing It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2203,
         "votes":  0
     },
     {
         "artist":  "Lost Sky \u0026 Chris Linton",
         "title":  "Fearless Pt. II",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2204,
         "votes":  0
     },
     {
         "artist":  "Steve Cypress",
         "title":  "Take Me Away (Empyre One \u0026 Enerdizer Bounce Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2205,
         "votes":  0
     },
     {
         "artist":  "Dynoro \u0026 Gigi D\u0027Agostino",
         "title":  "In My Mind",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2206,
         "votes":  0
     },
     {
         "artist":  "Dzeko \u0026 F4ST",
         "title":  "Blue",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2207,
         "votes":  0
     },
     {
         "artist":  "Razihel \u0026 Aero Chord",
         "title":  "Titans",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2208,
         "votes":  0
     },
     {
         "artist":  "Killrude",
         "title":  "Walking Soldier",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2209,
         "votes":  0
     },
     {
         "artist":  "Alan Walker",
         "title":  "The Spectre",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2210,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz \u0026 Wes",
         "title":  "Alane",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2211,
         "votes":  0
     },
     {
         "artist":  "Macklemore \u0026 Ryan Lewis",
         "title":  "Can\u0027t Hold Us (feat. Ray Dalton)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2212,
         "votes":  0
     },
     {
         "artist":  "Dance Fruits Music",
         "title":  "Better Off Alone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2213,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "Endless Nights (feat. MC Instinct)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2214,
         "votes":  0
     },
     {
         "artist":  "Tujamo \u0026 Sidney Samson",
         "title":  "Riverside (Reloaded)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2215,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Therapy (feat. BOSS)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2216,
         "votes":  0
     },
     {
         "artist":  "Oliver Heldens \u0026 Sidney Samson",
         "title":  "Riverside 2099 (Mixed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2217,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, MATTN \u0026 Wolfpack",
         "title":  "Carnival (Dimitri Vegas \u0026 Like Mike Edit) (feat. X-Tof)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2218,
         "votes":  0
     },
     {
         "artist":  "Alice DJ",
         "title":  "Better Off Alone (UK Short Cut)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2219,
         "votes":  0
     },
     {
         "artist":  "O-Zone",
         "title":  "Dragostea din tei (DJ Ross Radio Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2220,
         "votes":  0
     },
     {
         "artist":  "Soupandreas \u0026 inverness",
         "title":  "Hours",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2221,
         "votes":  0
     },
     {
         "artist":  "Take_Five",
         "title":  "Pompeii",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2222,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Dumb (ft. Charlotte Boss)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2223,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 The Golden Army",
         "title":  "Mufasa",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2224,
         "votes":  0
     },
     {
         "artist":  "grandson",
         "title":  "Blood __ Water",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2225,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Hey Brother",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2226,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Dimatik",
         "title":  "Punjabi",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2227,
         "votes":  0
     },
     {
         "artist":  "R.I.O. Feat. U-Jean",
         "title":  "Summer Jam",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2228,
         "votes":  0
     },
     {
         "artist":  "MAKJ \u0026 Timmy Trumpet",
         "title":  "Party Till We Die (feat. Andrew W.K.)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2229,
         "votes":  0
     },
     {
         "artist":  "Marc Korn \u0026 Chavano – I Want It That Way",
         "title":  "Dance \u0026 Trance 2000 - Euro Dance",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2230,
         "votes":  0
     },
     {
         "artist":  "Darude",
         "title":  "Look Away (Super8 \u0026 Tab Extended Remix) (feat. Sebastian Rejman)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2231,
         "votes":  0
     },
     {
         "artist":  "Głowa PMM",
         "title":  "10 LAT ULTRAS POGOŃ SZCZECIN (prod. Remazz)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2232,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 Blasterjaxx",
         "title":  "Let The Music Take Control (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2233,
         "votes":  0
     },
     {
         "artist":  "Warriyo",
         "title":  "Mortals",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2234,
         "votes":  0
     },
     {
         "artist":  "Darude",
         "title":  "Sandstorm (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2235,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Devil\u0027s Symphony (Harris \u0026 Ford Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2236,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "J\u0027adore Hardcore (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2237,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Which Light Switch Is Which_",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2238,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Jumping All Over The World",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2239,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Move Your Ass! (Video Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2240,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Move Your Ass! (Noisecontrollers Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2241,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Devil\u0027s Symphony",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2242,
         "votes":  0
     },
     {
         "artist":  "Scooter \u0026 Xillions",
         "title":  "Rave Teacher (Somebody Like Me)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2243,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "The Logical Song",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2244,
         "votes":  0
     },
     {
         "artist":  "Scooter \u0026 FiNCH",
         "title":  "Bassdrum",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2245,
         "votes":  0
     },
     {
         "artist":  "Atmozfears",
         "title":  "Release (Qlimax Edit) (#SCAN209)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2246,
         "votes":  0
     },
     {
         "artist":  "Scooter \u0026 Harris \u0026 Ford",
         "title":  "God Save The Rave",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2247,
         "votes":  0
     },
     {
         "artist":  "LUM!X \u0026 Gabry Ponte",
         "title":  "Monster",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2248,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 KSHMR",
         "title":  "Opa",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2249,
         "votes":  0
     },
     {
         "artist":  "More Plastic",
         "title":  "Champion",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2250,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Nazara x We Are Legends Mashup",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2251,
         "votes":  0
     },
     {
         "artist":  "Laidback Luke \u0026 Mark Bale",
         "title":  "Party Starter",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2252,
         "votes":  0
     },
     {
         "artist":  "DJ Maz",
         "title":  "I Got a Hangover",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2253,
         "votes":  0
     },
     {
         "artist":  "Otto Knows",
         "title":  "Million Voices - Radio Edit",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2254,
         "votes":  0
     },
     {
         "artist":  "Don Diablo",
         "title":  "Congratulations (Don Diablo VIP Mix Extended Version) (feat. Brando)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2255,
         "votes":  0
     },
     {
         "artist":  "MOTi",
         "title":  "Turn Me Up (ViP Mix) (feat. Nabiha)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2256,
         "votes":  0
     },
     {
         "artist":  "Galantis \u0026 Hook N Sling",
         "title":  "Love on Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2257,
         "votes":  0
     },
     {
         "artist":  "DVBBS \u0026 Borgeous",
         "title":  "Tsunami (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2258,
         "votes":  0
     },
     {
         "artist":  "Dj Analyzer Vs. Cary August",
         "title":  "Insomnia 2k13 (Gimbal \u0026 Sinan Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2259,
         "votes":  0
     },
     {
         "artist":  "Faithless",
         "title":  "Insomnia 2.0 (Avicii Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2260,
         "votes":  0
     },
     {
         "artist":  "Jebroer Ft. DJ Paul Elstak \u0026 Dr. Phunk",
         "title":  "Engeltje (Happy Hardcore Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2261,
         "votes":  0
     },
     {
         "artist":  "DVBBS \u0026 Borgeous",
         "title":  "Tsunami (Blasterjaxx Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2262,
         "votes":  0
     },
     {
         "artist":  "Audiomachine",
         "title":  "Equinox",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2263,
         "votes":  0
     },
     {
         "artist":  "EARGASM GOD",
         "title":  "SOÑAR",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2264,
         "votes":  0
     },
     {
         "artist":  "R.I.O.",
         "title":  "Party Shaker (Bass Prototype \u0026 Corevin Remix) (feat. NICCO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2265,
         "votes":  0
     },
     {
         "artist":  "Scooter, Marc Acardipane \u0026 Dick Rules",
         "title":  "Maria (I Like It Loud)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2266,
         "votes":  0
     },
     {
         "artist":  "Andrew Spencer \u0026 Ron Rockwell",
         "title":  "Axel F. (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2267,
         "votes":  0
     },
     {
         "artist":  "Scooter",
         "title":  "Maria (I Like It Loud) (R.I.O. Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2268,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Poison",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2269,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "In Your Eyes (LUM!X Remix) (feat. Alida)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2270,
         "votes":  0
     },
     {
         "artist":  "Klaas",
         "title":  "Wonderful Days (Averro Remix) (feat. Tony Ronald)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2271,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "No Sleep (DubVision Remix) (feat. Bonn)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2272,
         "votes":  0
     },
     {
         "artist":  "SAINt JHN",
         "title":  "Roses (Imanbek Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2273,
         "votes":  0
     },
     {
         "artist":  "Marshmello",
         "title":  "Alone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2274,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "The Nights",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2275,
         "votes":  0
     },
     {
         "artist":  "MaxRiven",
         "title":  "Rhythm Is a Dancer (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2276,
         "votes":  0
     },
     {
         "artist":  "Rebourne",
         "title":  "N01ZE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2277,
         "votes":  0
     },
     {
         "artist":  "Eiffel 65",
         "title":  "Blue (Da Ba Dee) (DJ Ponte Ice Pop Radio)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2278,
         "votes":  0
     },
     {
         "artist":  "Code Black",
         "title":  "Pandora",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2279,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Levels (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2280,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Waiting For Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2281,
         "votes":  0
     },
     {
         "artist":  "jaakob",
         "title":  "Mind CNTRL",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2282,
         "votes":  0
     },
     {
         "artist":  "Avicii ft. Aloe Blacc",
         "title":  "SOS (Pascal Junior Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2283,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Lonely Together (feat. Rita Ora)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2284,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Without You (Rob Adans remix) (feat. Sandro Cavazza)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2285,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Heading Up High (First State Extended Remix) (feat. Kensington)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2286,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Quintino",
         "title":  "Reckless",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2287,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Live at Tomorrowland 2023 (Intro)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2288,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Live at Live at Ultra Music Festival Miami 2024 (Intro) [Live] (Mixed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2289,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren ft. Trevor Guthrie",
         "title":  "This Is What It Feels Like (AVB  2023 Remix) (Tomorrowland)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2290,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Motive (7 Skies Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2291,
         "votes":  0
     },
     {
         "artist":  "7 Skies",
         "title":  "Tokyo777 (Mixed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2292,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Inevitable (Extended Mix) (feat. GREYLEE)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2293,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Justus",
         "title":  "Make It Count",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2294,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "I Live For That Energy (ASOT 800 Anthem)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2295,
         "votes":  0
     },
     {
         "artist":  "Hi Profile",
         "title":  "The Ghost (Mixed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2296,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Blah Blah Blah (Brennan Heart \u0026 Toneshifterz Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2297,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Lose This Feeling (Dimension Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2298,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren feat. Sam Martin",
         "title":  "Wild Wild Son (Devin Wild Remix) [HQ Edit]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2299,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Space Case (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2300,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Feel Again (LÜRUM Remix) (feat. Wrabel)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2301,
         "votes":  0
     },
     {
         "artist":  "Armin Van Buuren",
         "title":  "Blah Blah Blah (Zany Remix) (Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2302,
         "votes":  0
     },
     {
         "artist":  "Giuseppe Ottaviani \u0026 ilan Bluestone",
         "title":  "Futuro (Mixed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2303,
         "votes":  0
     },
     {
         "artist":  "Eelke Kleijn",
         "title":  "Transmission (Armin van Buuren Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2304,
         "votes":  0
     },
     {
         "artist":  "Achilles, Semblance Smile, \u0026 Sharon Valerona",
         "title":  "Never Lost",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2305,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Dayglow (feat. Stuart Crichton)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2306,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "In And Out Of Love (Innellea Remix) (feat. Sharon Den Adel)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2307,
         "votes":  0
     },
     {
         "artist":  "Sam Gray \u0026 Armin van Buuren",
         "title":  "Human Touch",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2308,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Nicky Romero",
         "title":  "Here We Go (Hey Boy, Hey Girl)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2309,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Armin Van buuren feat. Vanessa Campagna  Vulnerable (Bogdan Vix \u0026 UUFO Remix) (Armind)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2310,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Need You Now (Extended Mix) (feat. Jake Reese)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2311,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Wake Me Up (EDX Miami Sunset Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2312,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "When I Grow Up (DVLM X Brennan Heart VIP MIX) (feat. Wiz Khalifa)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2313,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "Inferno",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2314,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, W\u0026W \u0026 Moguai",
         "title":  "Arcade Mammoth",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2315,
         "votes":  0
     },
     {
         "artist":  "Marshmello, Khalid \u0026 Illenium",
         "title":  "Silence (Illenium Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2316,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies \u0026 Zonderling",
         "title":  "Crazy (Tomorrowland Intro Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2317,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "In And Out Of Love (Lost Frequencies Remix) (feat. Sharon den Adel)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2318,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "TUTUTU",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2319,
         "votes":  0
     },
     {
         "artist":  "Kygo \u0026 Justin Jesso",
         "title":  "Stargazing",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2320,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Dua Lipa",
         "title":  "One Kiss",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2321,
         "votes":  0
     },
     {
         "artist":  "Faux Tales",
         "title":  "Atlas (Alpha 9 Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2322,
         "votes":  0
     },
     {
         "artist":  "Song And The Moon \u0026 Alex M.O.R.P.H.",
         "title":  "Alex M.O.R.P.H. \u0026 Song And The Moon - Don\u0027t Talk Away The Magic (Heatbeat Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2323,
         "votes":  0
     },
     {
         "artist":  "The Prodigy",
         "title":  "Voodoo People",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2324,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Max Vangeli",
         "title":  "Booty Shake - Radio Edit",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2325,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Savage",
         "title":  "Deja-Vu",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2326,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Junkie Kid",
         "title":  "Toro",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2327,
         "votes":  0
     },
     {
         "artist":  "Technoboy, Tuneboy \u0026 DJ Isaac",
         "title":  "Power Hour",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2328,
         "votes":  0
     },
     {
         "artist":  "Dj Galfly",
         "title":  "Timmy Trumpet \u0026 TNT - Scarborough Fair",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2329,
         "votes":  0
     },
     {
         "artist":  "Felguk",
         "title":  "Galaxy Traveller (Neelix Remix _ Fast Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2330,
         "votes":  0
     },
     {
         "artist":  "J Balvin \u0026 Willy William",
         "title":  "Mi Gente",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2331,
         "votes":  0
     },
     {
         "artist":  "Francesco Zeta \u0026 Lacer",
         "title":  "This Is Classic (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2332,
         "votes":  0
     },
     {
         "artist":  "R3hab \u0026 Deorro",
         "title":  "Flashlight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2333,
         "votes":  0
     },
     {
         "artist":  "VINAI \u0026 Hardwell",
         "title":  "Out of This Town (feat. Cam Meekins)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2334,
         "votes":  0
     },
     {
         "artist":  "Evil Activities",
         "title":  "Nobody Said It Was Easy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2335,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Being Alive (Extended Mix) (feat. JGUAR)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2336,
         "votes":  0
     },
     {
         "artist":  "GAIA",
         "title":  "Euporie",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2337,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Afrojack",
         "title":  "Hands Up (feat. MC Ambush)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2338,
         "votes":  0
     },
     {
         "artist":  "Sidney Samson \u0026 G Wise",
         "title":  "Soldier (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2339,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Maddix",
         "title":  "Bella Ciao (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2340,
         "votes":  0
     },
     {
         "artist":  "Splinta",
         "title":  "Shock Therapy (Rising Altitude Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2341,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Metropole Orkest",
         "title":  "Conquerors (Full Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2342,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 Armin van Buuren",
         "title":  "Ready to Rave (extended mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2343,
         "votes":  0
     },
     {
         "artist":  "Mark Sixma",
         "title":  "The Clock (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2344,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, Vini Vici \u0026 Alok",
         "title":  "United (Extended Mix) (feat. Zafrir)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2345,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Sunnery James \u0026 Ryan Marciano",
         "title":  "You Are Too (ASOT 870)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2346,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Therapy (Leo Reyes remix) (feat. James Newman)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2347,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "Les Lacs du Connemara",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2348,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Like Mike \u0026 W\u0026W",
         "title":  "Arcade",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2349,
         "votes":  0
     },
     {
         "artist":  "Showtek",
         "title":  "Booyah (TNT aka Technoboy \u0026 Tuneboy Remix) (feat. We Are Loud \u0026 Sonny Wilson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2350,
         "votes":  0
     },
     {
         "artist":  "Afrojack \u0026 MC Ambush",
         "title":  "Step Back",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2351,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Julian Banks \u0026 Bassjackers",
         "title":  "Bounce (feat. Snoop Dogg)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2352,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Shapov",
         "title":  "Our Origin (Mix Cut)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2353,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Bassjackers",
         "title":  "The Jungle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2354,
         "votes":  0
     },
     {
         "artist":  "Tim Berg",
         "title":  "Bromance (Avicii\u0027s Arena mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2355,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Save The World (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2356,
         "votes":  0
     },
     {
         "artist":  "S",
         "title":  "A, AN21 \u0026 Sebjak - GODS",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2357,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Martin Garrix \u0026 Brooks",
         "title":  "Like I Do",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2358,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vangelis \u0026 Wyman \u0026 Steve Angello",
         "title":  "Payback",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2359,
         "votes":  0
     },
     {
         "artist":  "Major Lazer",
         "title":  "Watch Out For This (Bumaye) (Dimitri Vegas \u0026 Like Mike Tomorrowland 2013 Remix) + DL",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2360,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Blinders",
         "title":  "Breach (Walk Alone)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2361,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Dua Lipa",
         "title":  "Scared To Be Lonely (DubVision Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2362,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Brooks",
         "title":  "Byte",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2363,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Yottabyte",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2364,
         "votes":  0
     },
     {
         "artist":  "Wolfpack \u0026 Futuristic Polar Bears",
         "title":  "Derb (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2365,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Dyro",
         "title":  "Latency",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2366,
         "votes":  0
     },
     {
         "artist":  "BORA \u0026 Rodrigo Howell",
         "title":  "UMAGA",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2367,
         "votes":  0
     },
     {
         "artist":  "Klaas, MATTN \u0026 Roland Clark",
         "title":  "Children (John Christian Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2368,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Quintino",
         "title":  "Mayhem",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2369,
         "votes":  0
     },
     {
         "artist":  "Bob Marley",
         "title":  "Could You Be Loved",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2370,
         "votes":  0
     },
     {
         "artist":  "J Balvin, Steve Aoki \u0026 Willy William",
         "title":  "Mi Gente (Steve Aoki Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2371,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Ocean (feat. Khalid)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2372,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Zedd",
         "title":  "Follow",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2373,
         "votes":  0
     },
     {
         "artist":  "Öwnboss \u0026 Sevek",
         "title":  "Move Your Body (SUBB \u0026 CAJUN Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2374,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki",
         "title":  "Lie To Me (feat. Ina Wroldsen) (Blue Brains Steve Aoki Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2375,
         "votes":  0
     },
     {
         "artist":  "Nadia Ali, Starkillers \u0026 Alex Kenji",
         "title":  "Pressure (Alesso Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2376,
         "votes":  0
     },
     {
         "artist":  "FISHER \u0026 Kita Alexander",
         "title":  "Atmosphere",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2377,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Higher Ground (feat. John Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2378,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Words (Sentinel Remix) (feat. Zara Larsson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2379,
         "votes":  0
     },
     {
         "artist":  "TV Noise",
         "title":  "Can You Feel It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2380,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Monsta X",
         "title":  "Play It Cool (Quintino Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2381,
         "votes":  0
     },
     {
         "artist":  "Jay Cosmic",
         "title":  "Ascend",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2382,
         "votes":  0
     },
     {
         "artist":  "MOTi",
         "title":  "Valencia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2383,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Alok",
         "title":  "Do It Again",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2384,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki",
         "title":  "Terra Incognita (feat. Bryan Johnson) (Bear Grillz Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2385,
         "votes":  0
     },
     {
         "artist":  "MATTN , Stavros Martina \u0026 Kevin D",
         "title":  "Girlz Wanna Have Fun (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2386,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Paris Hilton",
         "title":  "Best Friend\u0027s Ass (Dimitri Vegas \u0026 Like Mike Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2387,
         "votes":  0
     },
     {
         "artist":  "Shawn Mendes \u0026 Camila Cabello",
         "title":  "Señorita",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2388,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Timmy Trumpet",
         "title":  "The Underground (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2389,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Plastik Funk",
         "title":  "Raveille",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2390,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "World At Our Feet (FREAKSHOW Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2391,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "World At Our Feet",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2392,
         "votes":  0
     },
     {
         "artist":  "deadmau5 \u0026 Eric Prydz",
         "title":  "The Veldt (Edit) (feat. Chris James)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2393,
         "votes":  0
     },
     {
         "artist":  "Mark Ronson",
         "title":  "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2394,
         "votes":  0
     },
     {
         "artist":  "The M Machine",
         "title":  "Luma",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2395,
         "votes":  0
     },
     {
         "artist":  "Deorro \u0026 SCNDL",
         "title":  "Sonar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2396,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Oracle (TNT Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2397,
         "votes":  0
     },
     {
         "artist":  "Kanine",
         "title":  "Escape",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2398,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Bassjackers",
         "title":  "You\u0027re Next",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2399,
         "votes":  0
     },
     {
         "artist":  "Silk City \u0026 Dua Lipa",
         "title":  "Electricity (feat. Diplo \u0026 Mark Ronson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2400,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Armin van Buuren   Lifting You Higher ASOT 900 Anthem Avao Remix",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2401,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Grapevine",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2402,
         "votes":  0
     },
     {
         "artist":  "Richard Durand \u0026 Marco V",
         "title":  "Vortex",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2403,
         "votes":  0
     },
     {
         "artist":  "NLW",
         "title":  "Moombah 22",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2404,
         "votes":  0
     },
     {
         "artist":  "Allen Watts \u0026 Steve Dekay",
         "title":  "Hologram (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2405,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Shapov",
         "title":  "La Résistance De L\u0027Amour",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2406,
         "votes":  0
     },
     {
         "artist":  "Exis",
         "title":  "The Count (extended mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2407,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 AXMO",
         "title":  "Rave Love (Extended Mix) (feat. SONJA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2408,
         "votes":  0
     },
     {
         "artist":  "Dropkick Murphys",
         "title":  "I\u0027m Shipping Up To Boston",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2409,
         "votes":  0
     },
     {
         "artist":  "Maarten De Jong \u0026 John Allen Watts",
         "title":  "Caffeine (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2410,
         "votes":  0
     },
     {
         "artist":  "Fatboy Slim",
         "title":  "Eat Sleep Rave Repeat (Calvin Harris Remix) (feat. Beardyman)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2411,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "GODD",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2412,
         "votes":  0
     },
     {
         "artist":  "Showtek",
         "title":  "We Like to Party",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2413,
         "votes":  0
     },
     {
         "artist":  "NWYR",
         "title":  "The Lone Ranger (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2414,
         "votes":  0
     },
     {
         "artist":  "W \u0026 W X Vini Vici",
         "title":  "Chakra [Extended Mix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2415,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 Groove Coverage",
         "title":  "Moonlight Shadow (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2416,
         "votes":  0
     },
     {
         "artist":  "Cari \u0026 Roman Messer",
         "title":  "Roman Messer \u0026 Cari - Serenity (Alex M.O.R.P.H. Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2417,
         "votes":  0
     },
     {
         "artist":  "Wiwek \u0026 Mike Cervello",
         "title":  "Stop the Madness (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2418,
         "votes":  0
     },
     {
         "artist":  "Etta James",
         "title":  "Something’s Got a Hold on Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2419,
         "votes":  0
     },
     {
         "artist":  "Loreen",
         "title":  "Euphoria (Alex Moreno Remix Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2420,
         "votes":  0
     },
     {
         "artist":  "Goodscandal, Nito-Onna \u0026 Slap Mage",
         "title":  "Unholy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2421,
         "votes":  0
     },
     {
         "artist":  "Age of Love",
         "title":  "The Age Of Love (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2422,
         "votes":  0
     },
     {
         "artist":  "Tungevaag",
         "title":  "Peru",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2423,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "BLACK MAGIC",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2424,
         "votes":  0
     },
     {
         "artist":  "Reija Lee \u0026 Metrik",
         "title":  "Cadence (VIP)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2425,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Sam Smith",
         "title":  "Desire (MEDUZA Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2426,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 KSHMR",
         "title":  "Reunion (Free Fire 4th Anniversary Theme Song) [with Alok \u0026 Zafrir] (feat. Alok \u0026 Zafrir)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2427,
         "votes":  0
     },
     {
         "artist":  "Sash! \u0026 Olly James",
         "title":  "Ecuador (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2428,
         "votes":  0
     },
     {
         "artist":  "S.O. Project",
         "title":  "Direct Dizko (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2429,
         "votes":  0
     },
     {
         "artist":  "Sash!",
         "title":  "Ecuador (Original Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2430,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Higher Place (feat. Ne-Yo)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2431,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Cristobal Tapia De Veer",
         "title":  "Renaissance (The White Lotus) [Tiësto Remix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2432,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Coone",
         "title":  "Madness (Radio Edit) (feat. Lil Jon)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2433,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 W\u0026W",
         "title":  "Crowd Control",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2434,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Fedde Le Grand",
         "title":  "Tales of Tomorrow (feat. Julian Perretta)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2435,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Generation X",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2436,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "HIGH\u0026LOW-HIGHER GROUND (EXILE TRIBE ft  Dimitri Vegas \u0026 Like Mike )(Movie ver.2)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2437,
         "votes":  0
     },
     {
         "artist":  "Feedback (Kill FM Remix)",
         "title":  "Steve Aoki \u0026 Autoerotique VS Dimitri Vegas \u0026 Like Mike",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2438,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Stay A While (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2439,
         "votes":  0
     },
     {
         "artist":  "Gordo \u0026 Adriatique",
         "title":  "With You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2440,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki, Angger Dimas \u0026 Dimitri Vegas \u0026 Like Mike",
         "title":  "Phat Brahms (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2441,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Felix",
         "title":  "Don\u0027t You Want Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2442,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Ellie Goulding",
         "title":  "Miracle (David Guetta Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2443,
         "votes":  0
     },
     {
         "artist":  "Davina Michelle \u0026 Armin van Buuren",
         "title":  "Hold On (ASOT 1033)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2444,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Bebe Rexha",
         "title":  "I\u0027m Good (Blue) [Cedric Gervais Extended Remix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2445,
         "votes":  0
     },
     {
         "artist":  "Cash Cash",
         "title":  "Take Me Home (feat. Bebe Rexha)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2446,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren feat. Trevor Guthrie",
         "title":  "This Is What It Feels Like",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2447,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso, Tommy Trash \u0026 John Martin",
         "title":  "Reload (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2448,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "One (Your Name) (feat. Pharrell)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2449,
         "votes":  0
     },
     {
         "artist":  "Zedd feat. Matthew Koma",
         "title":  "Spectrum (Radio Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2450,
         "votes":  0
     },
     {
         "artist":  "Zedd",
         "title":  "Clarity (feat. Foxes)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2451,
         "votes":  0
     },
     {
         "artist":  "Dirty South \u0026 Alesso",
         "title":  "City Of Dreams (Radio Edit) (feat. Ruben Haze)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2452,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 KSHMR",
         "title":  "Secrets (feat. Vassy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2453,
         "votes":  0
     },
     {
         "artist":  "Coldplay \u0026 Swedish House Mafia",
         "title":  "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2454,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Forbidden Voices",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2455,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 MOTi",
         "title":  "Virus (How About Now)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2456,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Titanium [Alesso Remix] (feat. Sia)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2457,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Dimitri Vegas MOGUAI  Like Mike   Mammoth Original Mix 432 Hz",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2458,
         "votes":  0
     },
     {
         "artist":  "Young Again",
         "title":  "Hardwell ft. Chris Jones [realJan Remix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2459,
         "votes":  0
     },
     {
         "artist":  "The Chainsmokers \u0026 Tiësto",
         "title":  "Split (Only U)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2460,
         "votes":  0
     },
     {
         "artist":  "Ran-D",
         "title":  "Zombie (Bassjackers Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2461,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia \u0026 Tiësto",
         "title":  "Ray Of Solar (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2462,
         "votes":  0
     },
     {
         "artist":  "Ran-D",
         "title":  "Zombie (Mix Cut)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2463,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso \u0026 Alesso",
         "title":  "Calling (Original Instrumental Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2464,
         "votes":  0
     },
     {
         "artist":  "The Hitmen",
         "title":  "Like I Love You (Vocal Club Cut)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2465,
         "votes":  0
     },
     {
         "artist":  "OneRepublic",
         "title":  "Run",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2466,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso \u0026 Alesso",
         "title":  "Calling (Lose My Mind) (Extended Club Mix) (feat. Ryan Tedder)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2467,
         "votes":  0
     },
     {
         "artist":  "TheFatRat, Slaydit \u0026 Anjulie",
         "title":  "Stronger",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2468,
         "votes":  0
     },
     {
         "artist":  "Dr Phunk",
         "title":  "Just Say Yeah",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2469,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Bright Lights",
         "title":  "Shotgun (It Ain\u0027t Over) (Intro Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2470,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "F_CKING SOCIETY",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2471,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "LASER",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2472,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "OH GOSH",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2473,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "MIND CONTROL",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2474,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "ZERO GRAVITY",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2475,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "REBELS NEVER DIE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2476,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Remedy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2477,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "RETROGRADE (REBELS NEVER DIE REWORK)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2478,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "SPACEMAN (REBELS NEVER DIE REWORK)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2479,
         "votes":  0
     },
     {
         "artist":  "Hardwell, Amba Shepherd \u0026 Trey Pearce",
         "title":  "Apollo Something (Hardwell Mashup)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2480,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 KSHMR",
         "title":  "Power",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2481,
         "votes":  0
     },
     {
         "artist":  "Hardwell_Space92",
         "title":  "The Abyss",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2482,
         "votes":  0
     },
     {
         "artist":  "W\u0026W, Hardwell \u0026 Lil Jon",
         "title":  "Live The Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2483,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Apollo (feat. Amba Shepherd)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2484,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Blasterjaxx",
         "title":  "Bigroom Never Dies (feat. Mitch Crown)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2485,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Wildstylez",
         "title":  "Shine A Light (feat. KiFi)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2486,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Armin van Buuren",
         "title":  "Off The Hook",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2487,
         "votes":  0
     },
     {
         "artist":  "TEKKNO",
         "title":  "relax my eyes tekkno",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2488,
         "votes":  0
     },
     {
         "artist":  "Natti Natasha x Dimitri Vegas \u0026 Like Mike x Bassjackers",
         "title":  "Noches En Miami Remix(Letra_Lyric)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2489,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Armin van Buuren \u0026 Brennan Heart",
         "title":  "Christmas Time (feat. Jeremy Oceans)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2490,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Kim Loaiza \u0026 Azteck",
         "title":  "Do It! (Dimitri Vegas Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2491,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, W\u0026W \u0026 Fedde Le Grand",
         "title":  "Clap Your Hands",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2492,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Selfish (Tomorrowland 2013 Aftermovie Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2493,
         "votes":  0
     },
     {
         "artist":  "MAD M.A.C. \u0026 Jamis",
         "title":  "Renegade Master (Dimitri Vegas \u0026 Like Mike Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2494,
         "votes":  0
     },
     {
         "artist":  "The Chainsmokers \u0026 Coldplay",
         "title":  "Something Just Like This (Dimitri Vegas \u0026 Like Mike Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2495,
         "votes":  0
     },
     {
         "artist":  "Wolfpack vs Avancada",
         "title":  "GO! (Dimitri Vegas \u0026 Like Mike Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2496,
         "votes":  0
     },
     {
         "artist":  "Bassjackers",
         "title":  "F_CK (Dimitri Vegas \u0026 Like Mike Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2497,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Like Mike \u0026 VINAI",
         "title":  "Louder (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2498,
         "votes":  0
     },
     {
         "artist":  "FEEDBACK (AUDIO)",
         "title":  "STEVE AOKI \u0026 AUTOEROTIQUE VS. DIMITRI VEGAS \u0026 LIKE MIKE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2499,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "dimitri vegas \u0026 like mike vs felguk \u0026 tujamo-nova(original mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2500,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Ocarina (feat. Wolfpack)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2501,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Like Mike \u0026 Sander van Doorn",
         "title":  "Project T (Martin Garrix Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2502,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Miracle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2503,
         "votes":  0
     },
     {
         "artist":  "Tomorrowland 2013 anthem Dimitri Vegas \u0026 Like Mike",
         "title":  "CHATTAHOOCHEE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2504,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Coone",
         "title":  "Madness (feat. Lil Jon)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2505,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Like Mike, Yves V \u0026 Angger Dimas",
         "title":  "Madagascar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2506,
         "votes":  0
     },
     {
         "artist":  "Afrojack, NERVO, Dimitri Vegas \u0026 Like Mike",
         "title":  "The Way We See the World (Instrumental)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2507,
         "votes":  0
     },
     {
         "artist":  "Dada Life, Like Mike, Dimitri Vegas \u0026 Like Mike \u0026 Tara McDonald",
         "title":  "Give Into The Night_Tomorrow Tomorrowlands 2010 anthem",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2508,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Vini Vici \u0026 Armin van Buuren",
         "title":  "Universal Nation (feat. Push)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2509,
         "votes":  0
     },
     {
         "artist":  "Eva Shaw",
         "title":  "Space Jungle (Showtek Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2510,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Poker Face",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2511,
         "votes":  0
     },
     {
         "artist":  "Ummet Ozcan",
         "title":  "Raise Your Hands (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2512,
         "votes":  0
     },
     {
         "artist":  "Majki \u0026 Endriu",
         "title":  "Tricky Disco",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2513,
         "votes":  0
     },
     {
         "artist":  "Eric Prydz",
         "title":  "Pjanoo (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2514,
         "votes":  0
     },
     {
         "artist":  "LIZOT \u0026 KYANU",
         "title":  "This Is The Life",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2515,
         "votes":  0
     },
     {
         "artist":  "Eric Prydz",
         "title":  "Pjanoo (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2516,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "There She Goes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2517,
         "votes":  0
     },
     {
         "artist":  "Bingo Players",
         "title":  "Get Up (Rattle) [Vocal Edit] (feat. Far East Movement)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2518,
         "votes":  0
     },
     {
         "artist":  "Snoop Dogg",
         "title":  "Wet (Snoop Dogg vs David Guetta Remix) (feat. David Guetta)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2519,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Heroes (we could be) (feat. Tove Lo)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2520,
         "votes":  0
     },
     {
         "artist":  "Gigi D\u0027Agostino",
         "title":  "L\u0027amour Toujours(Tanzen Vision Rmx)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2521,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Alesso",
         "title":  "Under Control (feat. Hurts)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2522,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Sweet Escape (feat. Sirena)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2523,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "I Wanna Know (feat. Nico \u0026 Vinz)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2524,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Cool (feat. Roy English)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2525,
         "votes":  0
     },
     {
         "artist":  "Polarkreis 18",
         "title":  "Allein Allein",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2526,
         "votes":  0
     },
     {
         "artist":  "Maurice West",
         "title":  "The Kick",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2527,
         "votes":  0
     },
     {
         "artist":  "Keane",
         "title":  "Silenced By The Night (Alesso Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2528,
         "votes":  0
     },
     {
         "artist":  "Showtek",
         "title":  "We Like to Party (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2529,
         "votes":  0
     },
     {
         "artist":  "M83",
         "title":  "Midnight City (Eric Prydz Private Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2530,
         "votes":  0
     },
     {
         "artist":  "JKRS",
         "title":  "It\u0027s a Fine Day",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2531,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vangelis \u0026 Wyman",
         "title":  "ID2 (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2532,
         "votes":  0
     },
     {
         "artist":  "Nadia Ali, Starkillers \u0026 Alex Kenji",
         "title":  "Pressure (Alesso Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2533,
         "votes":  0
     },
     {
         "artist":  "Loud Luxury",
         "title":  "Body (Dzeko Remix) (feat. brando)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2534,
         "votes":  0
     },
     {
         "artist":  "Showtek \u0026 Justin Prime",
         "title":  "Cannonball",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2535,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "She Doesn\u0027t Mind",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2536,
         "votes":  0
     },
     {
         "artist":  "DJ Shog",
         "title":  "Live 4 Music",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2537,
         "votes":  0
     },
     {
         "artist":  "Showtek",
         "title":  "Booyah (Radio Edit) (feat. We Are Loud \u0026 Sonny Wilson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2538,
         "votes":  0
     },
     {
         "artist":  "Jax Jones \u0026 MNEK",
         "title":  "Where Did You Go_",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2539,
         "votes":  0
     },
     {
         "artist":  "Brooks",
         "title":  "If Only I Could (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2540,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Blame (feat. John Newman)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2541,
         "votes":  0
     },
     {
         "artist":  "Alan Walker \u0026 Imanbek",
         "title":  "Sweet Dreams",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2542,
         "votes":  0
     },
     {
         "artist":  "OneRepublic",
         "title":  "I Ain\u0027t Worried",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2543,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Outside (feat. Ellie Goulding)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2544,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vangelis \u0026 Wyman \u0026 Mike Perry",
         "title":  "Coming Home",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2545,
         "votes":  0
     },
     {
         "artist":  "Steve Angello",
         "title":  "Yeah",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2546,
         "votes":  0
     },
     {
         "artist":  "Axwell __ Ingrosso \u0026 RØMANS",
         "title":  "Dancing Alone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2547,
         "votes":  0
     },
     {
         "artist":  "John Martin",
         "title":  "Don\u0027t You Worry Child",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2548,
         "votes":  0
     },
     {
         "artist":  "OneRepublic",
         "title":  "If I Lose Myself",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2549,
         "votes":  0
     },
     {
         "artist":  "Axwell __ Ingrosso \u0026 Sebastian Ingrosso",
         "title":  "Dreamer",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2550,
         "votes":  0
     },
     {
         "artist":  "Axwell __ Ingrosso \u0026 Sebastian Ingrosso",
         "title":  "Dreamer (Matisse \u0026 Sadko Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2551,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "Get Busy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2552,
         "votes":  0
     },
     {
         "artist":  "Dj Thera",
         "title":  "About To Go Down",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2553,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 BIA",
         "title":  "BOTH (with 21 Savage) (feat. 21 Savage)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2554,
         "votes":  0
     },
     {
         "artist":  "Tiësto, Mabel",
         "title":  "God Is A Dancer (Lyrics)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2555,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Tiësto",
         "title":  "The Only Way Is Up",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2556,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Lethal Industry (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2557,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Heart Is King _ Sacrifice _ Knas (Live from Miami) (feat. The Weeknd)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2558,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Adagio For Strings (Original LP Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2559,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Young Again (feat. Chris Jones)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2560,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Spaceman (Carnage Festival Trap Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2561,
         "votes":  0
     },
     {
         "artist":  "Axwell, Ingrosso, Angello, Laidback Luke ft. Deborah Cox",
         "title":  "Leave The World Behind (Original)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2562,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "INTO THE UNKNOWN",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2563,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Jason Derulo",
         "title":  "Follow Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2564,
         "votes":  0
     },
     {
         "artist":  "Hardwell, KAAZE \u0026 Jonathan Mendelsohn",
         "title":  "We Are Legends",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2565,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Jay Sean",
         "title":  "Thinking About You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2566,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Suyano",
         "title":  "Go To War",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2567,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Mike Williams",
         "title":  "I\u0027m Not Sorry",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2568,
         "votes":  0
     },
     {
         "artist":  "Sevenn \u0026 Alok",
         "title":  "Byob",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2569,
         "votes":  0
     },
     {
         "artist":  "Hardwell Dyro feat. Bright Lights",
         "title":  "Never Say Goodbye [Radio Edit]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2570,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Mad World (feat. Jake Reese)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2571,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Hardwell",
         "title":  "Written In Reverse (feat. Matthew Koma)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2572,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Earthquake (feat. Harrison)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2573,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Dare You (feat. Matthew Koma)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2574,
         "votes":  0
     },
     {
         "artist":  "Dash Berlin, Dubvision \u0026 Emma Hewitt",
         "title":  "Time After Time (Festival Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2575,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Retrograde (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2576,
         "votes":  0
     },
     {
         "artist":  "Florence + The Machine",
         "title":  "Spectrum (Say My Name) (Calvin Harris Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2577,
         "votes":  0
     },
     {
         "artist":  "Afrojack \u0026 R3HAB",
         "title":  "Worlds On Fire (feat. Au_Ra)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2578,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte, HEADER, \u0026 Bertie Scott",
         "title":  "Body Talk",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2579,
         "votes":  0
     },
     {
         "artist":  "Faithless \u0026 David Guetta",
         "title":  "God is A DJ",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2580,
         "votes":  0
     },
     {
         "artist":  "Mike Candys \u0026 Jack Holiday",
         "title":  "Insomnia (Rework)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2581,
         "votes":  0
     },
     {
         "artist":  "Afrojack \u0026 Steve Aoki",
         "title":  "No Beef [R3HAB Remix] (feat. Miss Palmer)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2582,
         "votes":  0
     },
     {
         "artist":  "MEDUZA",
         "title":  "Tell It To My Heart (Tiësto Remix) (feat. Hozier)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2583,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "Hotel Room Service",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2584,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "I Know You Want Me (Calle Ocho)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2585,
         "votes":  0
     },
     {
         "artist":  "Usher",
         "title":  "DJ Got Us Fallin\u0027 In Love (feat. Pitbull)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2586,
         "votes":  0
     },
     {
         "artist":  "Showtek ft. We Are Loud \u0026 Sonny Wilson",
         "title":  "Booyah (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2587,
         "votes":  0
     },
     {
         "artist":  "Joe Kox \u0026 2am",
         "title":  "Can\u0027t Get You Out Of My Head",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2588,
         "votes":  0
     },
     {
         "artist":  "Basswell",
         "title":  "Massive Attack",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2589,
         "votes":  0
     },
     {
         "artist":  "Öwnboss \u0026 Sevek",
         "title":  "Move Your Body",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2590,
         "votes":  0
     },
     {
         "artist":  "The Obsessed",
         "title":  "Free Yourself",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2591,
         "votes":  0
     },
     {
         "artist":  "Öwnboss \u0026 Sevek",
         "title":  "Move Your Body (RAIZHELL Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2592,
         "votes":  0
     },
     {
         "artist":  "Dj Ramezz Feat. Pete D Moore \u0026 Nastya",
         "title":  "Let\u0027s All Chant (Cover) 2023",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2593,
         "votes":  0
     },
     {
         "artist":  "DJ Sequenza",
         "title":  "Tricky Tricky (Jens O. Remix Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2594,
         "votes":  0
     },
     {
         "artist":  "DJ Shog",
         "title":  "Another World Part Ii (Club Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2595,
         "votes":  0
     },
     {
         "artist":  "DJ Shog",
         "title":  "Another World (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2596,
         "votes":  0
     },
     {
         "artist":  "Tim Berg",
         "title":  "Seek Bromance (Avicii’s Vocal Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2597,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "TOGETHER",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2598,
         "votes":  0
     },
     {
         "artist":  "Dance Nation",
         "title":  "Sunshine (Original Vocal Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2599,
         "votes":  0
     },
     {
         "artist":  "Tim Berg",
         "title":  "Seek Bromance (Avicii Vocal Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2600,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "I Cry",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2601,
         "votes":  0
     },
     {
         "artist":  "Julian Jordan \u0026 Eleganto",
         "title":  "One Nation",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2602,
         "votes":  0
     },
     {
         "artist":  "Sander van Doorn",
         "title":  "On A Roll",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2603,
         "votes":  0
     },
     {
         "artist":  "Alesso \u0026 Sick Individuals",
         "title":  "We Go Out",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2604,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 7 SKIES",
         "title":  "My Frequency (feat. RebMoe)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2605,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Dyro",
         "title":  "Paradise",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2606,
         "votes":  0
     },
     {
         "artist":  "Steve Angello \u0026 Andrew Watt",
         "title":  "Rebel Nation (feat. Andrew Watt)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2607,
         "votes":  0
     },
     {
         "artist":  "Simon Alex \u0026 AK9",
         "title":  "Badlands",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2608,
         "votes":  0
     },
     {
         "artist":  "Steve Angello \u0026 The Presets",
         "title":  "Remember (feat. The Presets)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2609,
         "votes":  0
     },
     {
         "artist":  "Matt Nash \u0026 Felix Leiter",
         "title":  "Heartbeats",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2610,
         "votes":  0
     },
     {
         "artist":  "Steve Angello \u0026 Still Young \u0026 Still Young",
         "title":  "Follow Me (Instrumental)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2611,
         "votes":  0
     },
     {
         "artist":  "Pendulum",
         "title":  "The Island (Steve Angello, AN21, Max Vangeli Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2612,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "My House",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2613,
         "votes":  0
     },
     {
         "artist":  "Better Off Alone",
         "title":  "Dimatik \u0026 Sunset Bros [Dimatik Live Neon Countdown 2023]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2614,
         "votes":  0
     },
     {
         "artist":  "Steve Angello, Matisse \u0026 Sadko",
         "title":  "SLVR",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2615,
         "votes":  0
     },
     {
         "artist":  "Steve Angello \u0026 Mako",
         "title":  "Children of the Wild (feat. Mako)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2616,
         "votes":  0
     },
     {
         "artist":  "DJ Sammy, Yanou feat. Do",
         "title":  "Heaven",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2617,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Showtek",
         "title":  "Bad [Radio Edit] (feat. Vassy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2618,
         "votes":  0
     },
     {
         "artist":  "Yeah Yeah Yeahs",
         "title":  "Heads Will Roll (A-Trak Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2619,
         "votes":  0
     },
     {
         "artist":  "Ivan Gough \u0026 Feenixpawl",
         "title":  "In My Mind (Axwell Mix) (feat. Georgi Kay)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2620,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Feel So Close (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2621,
         "votes":  0
     },
     {
         "artist":  "Dzeko \u0026 Torres",
         "title":  "L\u0027Amour Toujours feat. Delaney Jane (Tiësto Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2622,
         "votes":  0
     },
     {
         "artist":  "Da Hool",
         "title":  "Meet Her at the Loveparade (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2623,
         "votes":  0
     },
     {
         "artist":  "TEKKNO",
         "title":  "meet her at the love parade tekkno",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2624,
         "votes":  0
     },
     {
         "artist":  "Mark Sixma",
         "title":  "Adagio For Strings",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2625,
         "votes":  0
     },
     {
         "artist":  "Laidback Luke, Steve Angello \u0026 Robin S.",
         "title":  "Show Me Love (Dubdogz Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2626,
         "votes":  0
     },
     {
         "artist":  "Mark Sixma",
         "title":  "Adagio For Strings [Mix Cut]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2627,
         "votes":  0
     },
     {
         "artist":  "Rob Marmot \u0026 My Digital Enemy",
         "title":  "African Drop (Tom Staar Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2628,
         "votes":  0
     },
     {
         "artist":  "Norda, Master Blaster \u0026 Macon",
         "title":  "Take You Away (Macon\u0027s HYPERTECHNO Remix) (feat. Terrace)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2629,
         "votes":  0
     },
     {
         "artist":  "Norda \u0026 Master Blaster",
         "title":  "Take You Away (Radio Mix) (feat. Terrace)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2630,
         "votes":  0
     },
     {
         "artist":  "DEYVA \u0026 Dadilak Ous",
         "title":  "GET BUSY (Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2631,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 R3HAB",
         "title":  "Run Free (Countdown)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2632,
         "votes":  0
     },
     {
         "artist":  "Jen Payne, Piero Pirupa \u0026 Tasty Lopez",
         "title":  "Because The Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2633,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Bhaskar",
         "title":  "Fuego",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2634,
         "votes":  0
     },
     {
         "artist":  "Jen Payne, Piero Pirupa \u0026 Tasty Lopez",
         "title":  "Because The Night (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2635,
         "votes":  0
     },
     {
         "artist":  "Andrew Spencer",
         "title":  "Because the Night (Radio Edit) (feat. Steffi List)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2636,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Tiësto, Dido \u0026 W\u0026W",
         "title":  "Thank You (Not So Bad)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2637,
         "votes":  0
     },
     {
         "artist":  "Jan Wayne",
         "title":  "Because The Night (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2638,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Right Round (feat. Kesha)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2639,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Good Feeling",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2640,
         "votes":  0
     },
     {
         "artist":  "R3hab \u0026 A Touch of Class",
         "title":  "All Around The World (La La La)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2641,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "You Make Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2642,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Are You With Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2643,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Memories (feat. Kid Cudi)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2644,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "For A Better Day",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2645,
         "votes":  0
     },
     {
         "artist":  "Knock2",
         "title":  "dashstar_",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2646,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "Hangover (Hardwell Remix Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2647,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Turn Around (5,4,3,2,1)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2648,
         "votes":  0
     },
     {
         "artist":  "Timbaland",
         "title":  "The Way I Are (feat. Keri Hilson \u0026 D.O.E.)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2649,
         "votes":  0
     },
     {
         "artist":  "Ummet Ozcan",
         "title":  "Baiame",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2650,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Where Them Girls At (feat. Flo Rida \u0026 Nicki Minaj)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2651,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Whistle (Digi Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2652,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, Macklemore \u0026 Fall Out Boy",
         "title":  "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2653,
         "votes":  0
     },
     {
         "artist":  "Martin Jensen",
         "title":  "Solo Dance",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2654,
         "votes":  0
     },
     {
         "artist":  "Yeah Yeah Yeahs",
         "title":  "Heads Will Roll (A-Trak Remix Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2655,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Club Can\u0027t Handle Me (feat. David Guetta)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2656,
         "votes":  0
     },
     {
         "artist":  "HD Sean Paul feat. Alexis Jordan",
         "title":  "Got 2 Luv U Live on Wendy Williams 2011",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2657,
         "votes":  0
     },
     {
         "artist":  "Usher",
         "title":  "More (RedOne Jimmy Joker Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2658,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "Troublemaker",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2659,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso, Tommy Trash, John Martin",
         "title":  "Reload (audio)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2660,
         "votes":  0
     },
     {
         "artist":  "Jay-Z \u0026 Linkin Park",
         "title":  "Numb _ Encore",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2661,
         "votes":  0
     },
     {
         "artist":  "DJ Antoine vs Timati feat. Kalenna",
         "title":  "Welcome To St. Tropez (DJ Antoine vs Mad Mark Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2662,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "GDFR (feat. Sage The Gemini \u0026 LooKas)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2663,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Whistle (Jakob Lido Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2664,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "Break Your Heart (feat. Ludacris)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2665,
         "votes":  0
     },
     {
         "artist":  "Sway Gray \u0026 Frey",
         "title":  "Wir Sind Nicht Allein (Allein Allein) (feat. Felix Räuber)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2666,
         "votes":  0
     },
     {
         "artist":  "Alok, The Chainsmokers \u0026 Mae Stephens",
         "title":  "Jungle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2667,
         "votes":  0
     },
     {
         "artist":  "Faithless",
         "title":  "Insomnia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2668,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Zafrir",
         "title":  "Vale Vale",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2669,
         "votes":  0
     },
     {
         "artist":  "Alok, Zeeba \u0026 Bruno Martini",
         "title":  "Hear Me Now (Alok Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2670,
         "votes":  0
     },
     {
         "artist":  "Bebe Rexha \u0026 David Guetta",
         "title":  "One in a Million (Alok Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2671,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "City Lights",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2672,
         "votes":  0
     },
     {
         "artist":  "Gordo",
         "title":  "TARAKA",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2673,
         "votes":  0
     },
     {
         "artist":  "Syndicate of L.A.W.",
         "title":  "Right On Time (2000 Kountdown the Holly Digit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2674,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Ava Max",
         "title":  "Car Keys (Ayla)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2675,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Titanium (feat. Sia)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2676,
         "votes":  0
     },
     {
         "artist":  "Felguk, KVSH \u0026 Yass",
         "title":  "Rhythm of the Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2677,
         "votes":  0
     },
     {
         "artist":  "MEDUZA, Alok \u0026 Goodboys",
         "title":  "Piece Of Your Heart (Alok Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2678,
         "votes":  0
     },
     {
         "artist":  "Alok, Ella Eyre, Kenny Dope \u0026 Never Dull",
         "title":  "Deep Down",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2679,
         "votes":  0
     },
     {
         "artist":  "VINNE",
         "title":  "WUTT",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2680,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Pickle",
         "title":  "Drum Machine",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2681,
         "votes":  0
     },
     {
         "artist":  "Reece Low",
         "title":  "Wait A Minute",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2682,
         "votes":  0
     },
     {
         "artist":  "Genesi",
         "title":  "Everything You Have Done (Meduza Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2683,
         "votes":  0
     },
     {
         "artist":  "Benny Benassi \u0026 The Biz",
         "title":  "Satisfaction (Just_Us Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2684,
         "votes":  0
     },
     {
         "artist":  "Alok",
         "title":  "Always Feel Like",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2685,
         "votes":  0
     },
     {
         "artist":  "Alok",
         "title":  "Alive_ It Feels Like",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2686,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Sevenn",
         "title":  "The Wall",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2687,
         "votes":  0
     },
     {
         "artist":  "Oliver Heldens",
         "title":  "I Was Made For Lovin\u0027 You (feat. Nile Rodgers \u0026 House Gospel Choir)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2688,
         "votes":  0
     },
     {
         "artist":  "Robin S",
         "title":  "Show Me Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2689,
         "votes":  0
     },
     {
         "artist":  "Lewis Capaldi",
         "title":  "Someone You Loved",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2690,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Moxie",
         "title":  "I Love It When You Cry (Moxoki) (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2691,
         "votes":  0
     },
     {
         "artist":  "Activator",
         "title":  "Like A Slut (Jason Cluff Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2692,
         "votes":  0
     },
     {
         "artist":  "Macklemore",
         "title":  "Can\u0027t Hold Us (feat. Ray Dalton) - City Sessions",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2693,
         "votes":  0
     },
     {
         "artist":  "Strong R.",
         "title":  "Lose Control (Short Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2694,
         "votes":  0
     },
     {
         "artist":  "Key4050",
         "title":  "Equinox",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2695,
         "votes":  0
     },
     {
         "artist":  "Alok, Mondello\u0027G, CERES \u0026 Tribbs",
         "title":  "LET\u0027S GET FKD UP",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2696,
         "votes":  0
     },
     {
         "artist":  "Maddix \u0026 The Rocketman",
         "title":  "90s Bitch",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2697,
         "votes":  0
     },
     {
         "artist":  "Avicii \u0026 Sandro Cavazza",
         "title":  "Without You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2698,
         "votes":  0
     },
     {
         "artist":  "Discotronic",
         "title":  "Tricky Disco",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2699,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Dear Boy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2700,
         "votes":  0
     },
     {
         "artist":  "Big Dope P",
         "title":  "\u0027Downa Ride\u0027",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2701,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Azteck",
         "title":  "Anybody Out There (Dr Phunk Remix) (feat. Alex Hepburn)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2702,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "This Is What It Feels Like (Armin van Buuren 2023 Extended Remix) (feat. Trevor Guthrie)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2703,
         "votes":  0
     },
     {
         "artist":  "The Drill",
         "title":  "(2015 Original)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2704,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Chris Willis",
         "title":  "Gettin\u0027 Over You (feat. Fergie \u0026 LMFAO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2705,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "All You Need Is Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2706,
         "votes":  0
     },
     {
         "artist":  "Chicago",
         "title":  "Street Player (2003 Remaster)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2707,
         "votes":  0
     },
     {
         "artist":  "Audien",
         "title":  "Hindsight-1",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2708,
         "votes":  0
     },
     {
         "artist":  "John Newman",
         "title":  "Love Me Again",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2709,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Lovers on the Sun [Stadiumx Remix] (feat. Sam Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2710,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Addicted To You (Avicii By Avicii)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2711,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Addicted To You (David Guetta Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2712,
         "votes":  0
     },
     {
         "artist":  "Meyaeni and Sander Van Doorn \u0026 Sander Van Doorn",
         "title":  "Nothing Inside Ft. Mayaeni (Adam F Remix) (feat. Mayaeni)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2713,
         "votes":  0
     },
     {
         "artist":  "Sander van Doorn \u0026 Mayaeni",
         "title":  "Nothing Inside (Adam F remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2714,
         "votes":  0
     },
     {
         "artist":  "AXMO \u0026 Dance Nation",
         "title":  "Sunshine",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2715,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Dear Boy (Avicii By Avicii)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2716,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Peace Of Mind (feat. Vargas \u0026 Lagola)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2717,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Heaven (David Guetta \u0026 MORTEN Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2718,
         "votes":  0
     },
     {
         "artist":  "Audien",
         "title":  "Hindsight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2719,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Lonely Together (Alan Walker Remix) (feat. Rita Ora)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2720,
         "votes":  0
     },
     {
         "artist":  "Avicii \u0026 Lenny Kravitz",
         "title":  "Superlove (Avicii vs. Lenny Kravitz) [Radio Edit]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2721,
         "votes":  0
     },
     {
         "artist":  "Avicii \u0026 Lenny Kravitz",
         "title":  "Superlove",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2722,
         "votes":  0
     },
     {
         "artist":  "AKA AKA \u0026 Artenvielfalt",
         "title":  "Let Me Show You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2723,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Fade Into Darkness (Vocal Radio Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2724,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Fade Into Darkness (Albin Myers Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2725,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Fade Into Darkness (Vocal Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2726,
         "votes":  0
     },
     {
         "artist":  "Rob Marmot \u0026 My Digital Enemy",
         "title":  "African Drop (Pete Tong Remix) [Available June 11]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2727,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Heaven",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2728,
         "votes":  0
     },
     {
         "artist":  "Afrojack",
         "title":  "Replica",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2729,
         "votes":  0
     },
     {
         "artist":  "Dash Berlin",
         "title":  "Heaven (DJ Isaac Remix) (feat. Do)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2730,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Jan Delay – Klar live, Hamburg _ 2024 _ Rockpalast",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2731,
         "votes":  0
     },
     {
         "artist":  "Rub!k",
         "title":  "Push Back",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2732,
         "votes":  0
     },
     {
         "artist":  "DJ Mo",
         "title":  "Into the Darkness",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2733,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Long Road To Hell",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2734,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Hey Brother (Syn Cole Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2735,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Lay Me Down   Live Vocal by Adam Lambert Avicii Tribute Concert Ver",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2736,
         "votes":  0
     },
     {
         "artist":  "Martin Merkel",
         "title":  "Into Darkness",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2737,
         "votes":  0
     },
     {
         "artist":  "Adrian Lux",
         "title":  "Teenage Crime (Axwell \u0026 Hendrik B remode)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2738,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Lay Me Down (Live Vocals by Adam Lambert)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2739,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Lay Me Down (Avicii By Avicii)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2740,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Play Hard [New Edit] (feat. Akon \u0026 Ne-Yo)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2741,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Chris Willis",
         "title":  "Love Is Gone (Fred Riester \u0026 Joachim Garraud Radio Edit Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2742,
         "votes":  0
     },
     {
         "artist":  "Discotronic",
         "title":  "Tricky Disco (Single Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2743,
         "votes":  0
     },
     {
         "artist":  "SP3CTRUM \u0026 Beau James",
         "title":  "Creepin\u0027 - Sped Up Version",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2744,
         "votes":  0
     },
     {
         "artist":  "TEKKNO",
         "title":  "creepin\u0027 tekkno",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2745,
         "votes":  0
     },
     {
         "artist":  "R.I.O., The Hitmen \u0026 KYANU",
         "title":  "Like I Love You (The Hitmen Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2746,
         "votes":  0
     },
     {
         "artist":  "Anthony Keyrouz \u0026 ZANA",
         "title":  "Hush Hush (Don\u0027t Be Shy) (Sped up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2747,
         "votes":  0
     },
     {
         "artist":  "Neptunica, Shockz \u0026 Rebecca Helena",
         "title":  "Marble",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2748,
         "votes":  0
     },
     {
         "artist":  "DJSM \u0026 Alejandro Diego",
         "title":  "Celebrando",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2749,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Open Wide (feat. Big Sean)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2750,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 MOTi",
         "title":  "Virus (How About Now) [Radio Edit]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2751,
         "votes":  0
     },
     {
         "artist":  "The Cranberries",
         "title":  "Zombie",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2752,
         "votes":  0
     },
     {
         "artist":  "The Cranberries",
         "title":  "Zombie (Live From The Feile Festival_1994)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2753,
         "votes":  0
     },
     {
         "artist":  "BASSTON, STRØBE \u0026 Tazzy",
         "title":  "MEET HER AT THE LOVE PARADE (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2754,
         "votes":  0
     },
     {
         "artist":  "DJ Quicksilver",
         "title":  "Equinoxe IV (Club Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2755,
         "votes":  0
     },
     {
         "artist":  "Da Hool",
         "title":  "Meet Her at the Loveparade",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2756,
         "votes":  0
     },
     {
         "artist":  "Tacabro",
         "title":  "Tacata",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2757,
         "votes":  0
     },
     {
         "artist":  "Target",
         "title":  "Around the World (Bass Power Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2758,
         "votes":  0
     },
     {
         "artist":  "Fyex",
         "title":  "Around The World (Techno Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2759,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Neil deGrasse Tyson Explains the Equinox",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2760,
         "votes":  0
     },
     {
         "artist":  "A Touch of Class",
         "title":  "Around the World (La La La La La)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2761,
         "votes":  0
     },
     {
         "artist":  "Maxx",
         "title":  "Get a Way (2AM Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2762,
         "votes":  0
     },
     {
         "artist":  "Maxx",
         "title":  "Get A Way (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2763,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Romano \u0026 Sapienza feat Rodriguez- Tacatà HQ",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2764,
         "votes":  0
     },
     {
         "artist":  "Paul Denton",
         "title":  "Siren",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2765,
         "votes":  0
     },
     {
         "artist":  "LUNAX",
         "title":  "I Like",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2766,
         "votes":  0
     },
     {
         "artist":  "DJ Shog",
         "title":  "Get Out (Of My Way) (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2767,
         "votes":  0
     },
     {
         "artist":  "The FifthGuys \u0026 Polina Grace",
         "title":  "Seven Nation Army",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2768,
         "votes":  0
     },
     {
         "artist":  "THYPONYX",
         "title":  "Seven Nation Army",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2769,
         "votes":  0
     },
     {
         "artist":  "KA!RO",
         "title":  "Seven Nation Army",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2770,
         "votes":  0
     },
     {
         "artist":  "KRUSH HARDSTYLE",
         "title":  "Break the Rules",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2771,
         "votes":  0
     },
     {
         "artist":  "4weekend",
         "title":  "Seven Nation Army (Remix Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2772,
         "votes":  0
     },
     {
         "artist":  "Charli xcx",
         "title":  "Break the Rules (ODESZA Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2773,
         "votes":  0
     },
     {
         "artist":  "PSYKADELIK",
         "title":  "BREAK THE RULES (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2774,
         "votes":  0
     },
     {
         "artist":  "Charli xcx",
         "title":  "Break the Rules (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2775,
         "votes":  0
     },
     {
         "artist":  "Th Express",
         "title":  "Break the Rules (B Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2776,
         "votes":  0
     },
     {
         "artist":  "TEKKNO",
         "title":  "this is the life tekkno",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2777,
         "votes":  0
     },
     {
         "artist":  "Amy Macdonald",
         "title":  "This Is The Life",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2778,
         "votes":  0
     },
     {
         "artist":  "Robert Cristian, Elemer \u0026 Alis Shuka",
         "title":  "This Is the Life",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2779,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "Sun Goes Down [Radio Mix] (feat. Jasmine Thompson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2780,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "Sun Goes Down [TEEMID Remix] (feat. Jasmine Thompson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2781,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Showtek",
         "title":  "Sun Goes Down (feat. MAGIC! \u0026 Sonny Wilson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2782,
         "votes":  0
     },
     {
         "artist":  "Keanu Silva, Don Diablo",
         "title":  "King of My Castle (Don Diablo Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2783,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "Sun Goes Down [Extended Vocal Mix] (feat. Jasmine Thompson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2784,
         "votes":  0
     },
     {
         "artist":  "Chris Brann",
         "title":  "King of My Castle (Roy Malone\u0027s King Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2785,
         "votes":  0
     },
     {
         "artist":  "coolstorybro",
         "title":  "King Of My Castle (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2786,
         "votes":  0
     },
     {
         "artist":  "BASSTON \u0026 STRØBE",
         "title":  "KING OF MY CASTLE - (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2787,
         "votes":  0
     },
     {
         "artist":  "David Forbes",
         "title":  "Spheres",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2788,
         "votes":  0
     },
     {
         "artist":  "Klaas",
         "title":  "In My Head (Averro Remix) (feat. Emmie Lee)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2789,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "SOMEBODY\u0027S WATCHING ME ( PET3RPUNX HYPERTECHNO REMIX)PET3RPUN",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2790,
         "votes":  0
     },
     {
         "artist":  "HYPERAVE \u0026 BASSTON",
         "title":  "IN MY HEAD (HYPERTECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2791,
         "votes":  0
     },
     {
         "artist":  "Hyper Hamster, Techno Cats \u0026 PET3RPUNX",
         "title":  "In My Head (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2792,
         "votes":  0
     },
     {
         "artist":  "Luca Testa \u0026 Sam Allan",
         "title":  "Somebody\u0027s Watching Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2793,
         "votes":  0
     },
     {
         "artist":  "71 Digits \u0026 THNDERZ",
         "title":  "Somebody\u0027s Watching Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2794,
         "votes":  0
     },
     {
         "artist":  "Chico Rose \u0026 71 Digits",
         "title":  "Somebody\u0027s Watching Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2795,
         "votes":  0
     },
     {
         "artist":  "Brennan Heart",
         "title":  "One Blade",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2796,
         "votes":  0
     },
     {
         "artist":  "System F",
         "title":  "Cry (Alex K Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2797,
         "votes":  0
     },
     {
         "artist":  "Alex Gaudino",
         "title":  "Destination Calabria [Josh Feedblack Remix] (feat. Crystal Waters)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2798,
         "votes":  0
     },
     {
         "artist":  "Alex Gaudino",
         "title":  "Destination Calabria [Simon De Jano Remix] (feat. Crystal Waters)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2799,
         "votes":  0
     },
     {
         "artist":  "The Pump Panel, Dan Zamani \u0026 Tim Taylor (Missile Records)",
         "title":  "The Original Theme from Blade",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2800,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Restricted",
         "title":  "Perfect (Exceeder)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2801,
         "votes":  0
     },
     {
         "artist":  "DJ Eban, 1.kla$",
         "title":  "почему (speed up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2802,
         "votes":  0
     },
     {
         "artist":  "Tujamo",
         "title":  "Drop That Low (When I Dip)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2803,
         "votes":  0
     },
     {
         "artist":  "Zombie Nation",
         "title":  "Kernkraft 400 (Original Radio Edit) (feat. DJ Gius)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2804,
         "votes":  0
     },
     {
         "artist":  "Sak Noel \u0026 Salvi Ft  Sean Paul",
         "title":  "Trumpets (Undersound Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2805,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Communication (Arkham Knights Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2806,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "feat. Sam Martin - Miles Away [Live at A State Of Trance, Tomorrowland 2019] (feat. James Newman)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2807,
         "votes":  0
     },
     {
         "artist":  "Agdem",
         "title":  "Samdo",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2808,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Garibay",
         "title":  "Phone Down (Jorn van Deynhoven Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2809,
         "votes":  0
     },
     {
         "artist":  "Andrew Rayel \u0026 Graham Bell",
         "title":  "Tambores (Blastoyz Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2810,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Avian Grays feat. Jordan Shaw \u0026 Avian Grays",
         "title":  "Something Real (Mixed) (Giuseppe Ottaviani Remix) (feat. Jordan Shaw)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2811,
         "votes":  0
     },
     {
         "artist":  "Artento Divini \u0026 Davey Asprey",
         "title":  "A.D.D.A.",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2812,
         "votes":  0
     },
     {
         "artist":  "Farruko",
         "title":  "Pepas",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2813,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Rising Star",
         "title":  "Just As You Are (Mix Cut) (feat. Fiora)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2814,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "presents Rising Star feat. Alexandra Badoi - Cosmos (Extended Mix) (feat. Alexandra Bădoi)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2815,
         "votes":  0
     },
     {
         "artist":  "Giuseppe Ottaviani",
         "title":  "Tranceland",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2816,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "feat. Sam Martin - Wild Wild Son (Richard Durand Remix) [#ASOT899] __TOTW __ (feat. Sam Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2817,
         "votes":  0
     },
     {
         "artist":  "KhoMha \u0026 David Gravell",
         "title":  "Alpha Centauri",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2818,
         "votes":  0
     },
     {
         "artist":  "Above \u0026 Beyond vs Armin van Buuren \u0026 Armin van Buuren",
         "title":  "Show Me Love (Mixed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2819,
         "votes":  0
     },
     {
         "artist":  "Dave Neven \u0026 Triqz",
         "title":  "Rapture (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2820,
         "votes":  0
     },
     {
         "artist":  "De Bos",
         "title":  "Chase (Video Edit) (Remastering 2014)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2821,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "This Is What It Feels Like (Maddix Remix) (feat. Trevor Guthrie)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2822,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Tempo Giusto",
         "title":  "Mr. Navigator",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2823,
         "votes":  0
     },
     {
         "artist":  "Gotye",
         "title":  "Somebody That I Used To Know (feat. Kimbra)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2824,
         "votes":  0
     },
     {
         "artist":  "TJR \u0026 VINAI",
         "title":  "Bounce Generation",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2825,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 Groove Coverage",
         "title":  "God Is A Girl",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2826,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Part Of Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2827,
         "votes":  0
     },
     {
         "artist":  "ABBA",
         "title":  "Gimme! Gimme! Gimme! (A Man After Midnight)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2828,
         "votes":  0
     },
     {
         "artist":  "Darius \u0026 Finlay, MartinBepunkt \u0026 Shaun Baker",
         "title":  "Mein kleines Herz (Bam Bam)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2829,
         "votes":  0
     },
     {
         "artist":  "W\u0026W",
         "title":  "Bigfoot (Caldera\u0027s Festival Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2830,
         "votes":  0
     },
     {
         "artist":  "VINAI",
         "title":  "The Wave (feat. Harrison)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2831,
         "votes":  0
     },
     {
         "artist":  "KEVU",
         "title":  "Luna (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2832,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Blah Blah Blah (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2833,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 Wiwek",
         "title":  "Armageddon (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2834,
         "votes":  0
     },
     {
         "artist":  "O Zone",
         "title":  "Dragostea Din Tei (W\u0026W Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2835,
         "votes":  0
     },
     {
         "artist":  "Europe",
         "title":  "The Final Countdown",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2836,
         "votes":  0
     },
     {
         "artist":  "W\u0026W, Harris \u0026 Ford \u0026 Special D",
         "title":  "Come With Me (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2837,
         "votes":  0
     },
     {
         "artist":  "W\u0026W, AXMO \u0026 Haley Maze",
         "title":  "Rave Superstar (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2838,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Proxy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2839,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Sweet Dreams (Pretty Pink Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2840,
         "votes":  0
     },
     {
         "artist":  "J. Balvin, Skrillex",
         "title":  "In Da Getto",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2841,
         "votes":  0
     },
     {
         "artist":  "Ke$ha",
         "title":  "Take It Off",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2842,
         "votes":  0
     },
     {
         "artist":  "BASSTON \u0026 STRØBE",
         "title":  "HEADS WILL ROLL - (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2843,
         "votes":  0
     },
     {
         "artist":  "BASSTON \u0026 STRØBE",
         "title":  "RELEASE ME - (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2844,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, David Guetta \u0026 Afro Bros",
         "title":  "She Knows (with Akon) (feat. Akon)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2845,
         "votes":  0
     },
     {
         "artist":  "Harddope, LexMorris \u0026 Nito-Onna",
         "title":  "10_35",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2846,
         "votes":  0
     },
     {
         "artist":  "Tony Junior \u0026 Bassjackers",
         "title":  "Forever Young (Bassbrain Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2847,
         "votes":  0
     },
     {
         "artist":  "SICK LEGEND",
         "title":  "SUMMERTIME SADNESS (HARDSTYLE)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2848,
         "votes":  0
     },
     {
         "artist":  "SICK LEGEND",
         "title":  "PART OF ME (HARDSTYLE)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2849,
         "votes":  0
     },
     {
         "artist":  "Terror Squad",
         "title":  "Lean Back (NGHTMRE Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2850,
         "votes":  0
     },
     {
         "artist":  "Issey Cross",
         "title":  "Bittersweet Goodbye (Tiësto’s Hardcore Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2851,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Rampage (Free Fire Rampage Theme Song)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2852,
         "votes":  0
     },
     {
         "artist":  "Showtek \u0026 Eva Shaw",
         "title":  "N2U [Extended Mix] (feat. Martha Wash)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2853,
         "votes":  0
     },
     {
         "artist":  "Showtek \u0026 Noisecontrollers",
         "title":  "Get Loose (Tiesto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2854,
         "votes":  0
     },
     {
         "artist":  "D. Vegas \u0026 L. Mike, David Guetta, Afro Bros, Akon",
         "title":  "She Knows (Per Pleks Extended Remix) \u002712.2023",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2855,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Azteck \u0026 Angemi",
         "title":  "We\u0027ll Be Dancing Soon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2856,
         "votes":  0
     },
     {
         "artist":  "Tim Berg",
         "title":  "Alcoholic (CAZZETTE\u0027s Trapleg Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2857,
         "votes":  0
     },
     {
         "artist":  "Nadia Ali",
         "title":  "Rapture (Avicii New Generation Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2858,
         "votes":  0
     },
     {
         "artist":  "Nadia Ali",
         "title":  "Rapture (Avicii New Generation Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2859,
         "votes":  0
     },
     {
         "artist":  "Alex Gaudino",
         "title":  "Destination Calabria (Radio Edit) (feat. Crystal Waters)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2860,
         "votes":  0
     },
     {
         "artist":  "Avicii Vs The Beatles Vs Martin Solveig",
         "title":  "Without You Vs Twist And Hello (Djs From Mars Bootleg)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2861,
         "votes":  0
     },
     {
         "artist":  "SICK LEGEND",
         "title":  "PART OF ME (HARDSTYLE SPED UP)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2862,
         "votes":  0
     },
     {
         "artist":  "Martin Solveig \u0026 Dragonette",
         "title":  "Hello (Martin Solveig \u0026 Dragonette)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2863,
         "votes":  0
     },
     {
         "artist":  "The Highstreet Allstars",
         "title":  "Rock That Beat (Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2864,
         "votes":  0
     },
     {
         "artist":  "Seth Hills",
         "title":  "Eclipse",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2865,
         "votes":  0
     },
     {
         "artist":  "AVIRA",
         "title":  "Hot Tub Time Machine",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2866,
         "votes":  0
     },
     {
         "artist":  "southwestplaya",
         "title":  "Tricky Disco (Slowed + Reverb)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2867,
         "votes":  0
     },
     {
         "artist":  "Discotronic",
         "title":  "Tricky Disco 2k10 (Electro Banger Remix Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2868,
         "votes":  0
     },
     {
         "artist":  "Niels De Vries",
         "title":  "12 Inch (Rocco Vs Bass-T Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2869,
         "votes":  0
     },
     {
         "artist":  "Kidsos",
         "title":  "Sebastian Ingrosso (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2870,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso",
         "title":  "Kidsos",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2871,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Calling On _ Kidsos (Live from Paris)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2872,
         "votes":  0
     },
     {
         "artist":  "Charly Lownoise, Mental Theo, Outsiders \u0026 Magro",
         "title":  "Wonderful Days Reloaded",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2873,
         "votes":  0
     },
     {
         "artist":  "Ummet Ozcan, Charly Lownoise \u0026 Mental Theo \u0026 Orange INC",
         "title":  "Wonderful Days",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2874,
         "votes":  0
     },
     {
         "artist":  "The Wanted",
         "title":  "Chasing The Sun (Hardwell Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2875,
         "votes":  0
     },
     {
         "artist":  "DJ Tekket",
         "title":  "Insomnia (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2876,
         "votes":  0
     },
     {
         "artist":  "The Wanted",
         "title":  "Chasing The Sun",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2877,
         "votes":  0
     },
     {
         "artist":  "Major Lazer",
         "title":  "Lean On (feat. Major Lazer \u0026 DJ Snake)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2878,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Calvin Harris feat Example-We\u0027ll Be Coming Back (radio edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2879,
         "votes":  0
     },
     {
         "artist":  "Galantis",
         "title":  "Runaway (U \u0026 I)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2880,
         "votes":  0
     },
     {
         "artist":  "Panic! At The Disco",
         "title":  "High Hopes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2881,
         "votes":  0
     },
     {
         "artist":  "Example",
         "title":  "Changed The Way You Kiss Me (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2882,
         "votes":  0
     },
     {
         "artist":  "Edward Maya \u0026 Vika Jigulina",
         "title":  "Stereo Love (Jay Latune Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2883,
         "votes":  0
     },
     {
         "artist":  "Far East Movement",
         "title":  "Live My Life (feat. Justin Bieber)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2884,
         "votes":  0
     },
     {
         "artist":  "AFROJACK",
         "title":  "The Spark (feat. Spree Wilson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2885,
         "votes":  0
     },
     {
         "artist":  "Vibe Chemistry",
         "title":  "Balling (LÄUFF Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2886,
         "votes":  0
     },
     {
         "artist":  "ARTBAT \u0026 Armin van Buuren",
         "title":  "Take Off (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2887,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Timmy Trumpet \u0026 Darius \u0026 Finlay",
         "title":  "Explode (feat. Brennan Heart)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2888,
         "votes":  0
     },
     {
         "artist":  "Tiësto, 21 Savage \u0026 BIA",
         "title":  "BOTH (David Guetta \u0026 Seth Hills Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2889,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Pink Floyd Another Brick in The Wall performed by The Classic Rock Show (2023) 4K",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2890,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Nothing (Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2891,
         "votes":  0
     },
     {
         "artist":  "Corey James, HIISAK \u0026 Steve Angello",
         "title":  "The Underground (House of God) (Steve Angello Edit) (feat. Roland Clark)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2892,
         "votes":  0
     },
     {
         "artist":  "Ke$ha",
         "title":  "Die Young",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2893,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Armin van Buuren",
         "title":  "Music Means Love Forever",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2894,
         "votes":  0
     },
     {
         "artist":  "Eelke Kleijn",
         "title":  "Transmission (Joris Voorn Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2895,
         "votes":  0
     },
     {
         "artist":  "Eelke Kleijn",
         "title":  "Transmission (Joris Voorn Remix)-1",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2896,
         "votes":  0
     },
     {
         "artist":  "Eelke Kleijn",
         "title":  "Transmission (Joris Voorn Remix)-2",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2897,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Mason \u0026 Princess Superstar",
         "title":  "Perfect (Exceeder)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2898,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Bassjackers",
         "title":  "Energy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2899,
         "votes":  0
     },
     {
         "artist":  "Tiësto, Tears For Fears, NIIKO X SWAE \u0026 GUDFELLA",
         "title":  "Rule The World (Everybody)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2900,
         "votes":  0
     },
     {
         "artist":  "John Newman",
         "title":  "Guiding Light",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2901,
         "votes":  0
     },
     {
         "artist":  "Cassö, RAYE \u0026 D-Block Europe",
         "title":  "Prada",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2902,
         "votes":  0
     },
     {
         "artist":  "Like Mike, Martin Trevy \u0026 HEREON",
         "title":  "The Light",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2903,
         "votes":  0
     },
     {
         "artist":  "Gotye, FISHER \u0026 Chris Lake",
         "title":  "Somebody (feat. Kimbra \u0026 Sante Sansone)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2904,
         "votes":  0
     },
     {
         "artist":  "Jaxx and Vega \u0026 MATTN",
         "title":  "Freestyler",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2905,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Kim Petras",
         "title":  "When We Were Young (The Logical Song)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2906,
         "votes":  0
     },
     {
         "artist":  "Lloyd",
         "title":  "You (feat. Lil Wayne)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2907,
         "votes":  0
     },
     {
         "artist":  "Diplo \u0026 HUGEL",
         "title":  "Stay High (VIP) [Extended] (feat. Julia Church)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2908,
         "votes":  0
     },
     {
         "artist":  "Bassjackers",
         "title":  "All Around The World (La La La La La)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2909,
         "votes":  0
     },
     {
         "artist":  "BASSTON \u0026 STRØBE",
         "title":  "SEVEN NATION ARMY - (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2910,
         "votes":  0
     },
     {
         "artist":  "DVBBS \u0026 Borgeous",
         "title":  "Tsunami (Gabry Ponte Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2911,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Goodboys \u0026 Chapter \u0026 Verse",
         "title":  "Good For You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2912,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "DVBBS \u0026 Borgeous feat  Tinie Tempah   Tsunami Jump Intro   Clean",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2913,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, DubVision \u0026 Shaun Farrugia",
         "title":  "Starlight (Keep Me Afloat)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2914,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Troye Sivan",
         "title":  "There For You (Madison Mars Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2915,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Now That I\u0027ve Found You (feat. John Martin \u0026 Michel Zitron)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2916,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Breathe Carolina",
         "title":  "Something",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2917,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Julian Jordan",
         "title":  "Funk",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2918,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Sun Is Never Going Down (feat. Dawn Golden)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2919,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Matisse \u0026 Sadko",
         "title":  "Forever",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2920,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Bonn",
         "title":  "Home (feat. Bonn)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2921,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Bebe Rexha",
         "title":  "In the Name of Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2922,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, Clinton Kane \u0026 Nicky Romero",
         "title":  "Drown (Nicky Romero Remix) (feat. Clinton Kane)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2923,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Justin Mylo",
         "title":  "Burn Out (feat. Dewain Whitmore) [Lyrics]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2924,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Oops",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2925,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Brooks",
         "title":  "Quantum",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2926,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Matisse \u0026 Sadko",
         "title":  "Mistaken (feat. Alex Aris)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2927,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, Julian Jordan \u0026 Tinie Tempah",
         "title":  "Diamonds",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2928,
         "votes":  0
     },
     {
         "artist":  "DJSM",
         "title":  "Sweat",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2929,
         "votes":  0
     },
     {
         "artist":  "Matisse \u0026 Sadko",
         "title":  "JADORE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2930,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Sentinel",
         "title":  "Hurricane (feat. Bonn)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2931,
         "votes":  0
     },
     {
         "artist":  "YTRAM \u0026 Elderbrook",
         "title":  "Fire (Aspyer Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2932,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 DubVision",
         "title":  "Oxygen (feat. Jordan Grace)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2933,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Lloyiso",
         "title":  "Real Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2934,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix vs. Matisse \u0026 Sadko",
         "title":  "Break Through The Silence (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2935,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Vluarr",
         "title":  "Reboot",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2936,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "WIEE (feat. Mesto)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2937,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, Matisse \u0026 Sadko \u0026 John Martin",
         "title":  "Won\u0027t Let You Go (Exbow Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2938,
         "votes":  0
     },
     {
         "artist":  "070 Shake, Martin Garrix \u0026 Space Ducks",
         "title":  "Cocoon (Martin Garrix \u0026 Space Ducks Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2939,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Lethal Industry",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2940,
         "votes":  0
     },
     {
         "artist":  "Ytram, Citadelle \u0026 Martin Garrix",
         "title":  "Alive",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2941,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Matisse \u0026 Sadko",
         "title":  "Good Morning",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2942,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Mesto",
         "title":  "Limitless",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2943,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, DallasK \u0026 Sasha Alex Sloan",
         "title":  "Loop",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2944,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Third Party",
         "title":  "Lions in the Wild",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2945,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "We Are the People (Official UEFA EURO 2020 Song_ Martin Garrix Remix) (feat. Bono \u0026 The Edge)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2946,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Can\u0027t Feel My Face (Martin Garrix Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2947,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Jacques Dutronc Il est cinq heures Paris s\u0027éveille _ Archive INA",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2948,
         "votes":  0
     },
     {
         "artist":  "Hyper Hamster, PET3RPUNX \u0026 Techno Cats",
         "title":  "Just Dance (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2949,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Ocean (DubVision Remix) (feat. Khalid)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2950,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Brooks \u0026 Loote",
         "title":  "Better When You\u0027re Gone (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2951,
         "votes":  0
     },
     {
         "artist":  "HYPERTECHNO",
         "title":  "JUST DANCE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2952,
         "votes":  0
     },
     {
         "artist":  "SP3CTRUM \u0026 MOHA",
         "title":  "Sexy Chick",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2953,
         "votes":  0
     },
     {
         "artist":  "plenka",
         "title":  "Nostalgia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2954,
         "votes":  0
     },
     {
         "artist":  "Mike Posner",
         "title":  "I Took A Pill In Ibiza (Seeb Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2955,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Olly James",
         "title":  "Seduction",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2956,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 AXMO",
         "title":  "Ritmo De La Noche (Vamos A La Playa) (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2957,
         "votes":  0
     },
     {
         "artist":  "Dutch Disorder",
         "title":  "Heroine",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2958,
         "votes":  0
     },
     {
         "artist":  "JKRS",
         "title":  "It\u0027s a Fine Day (Sped Up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2959,
         "votes":  0
     },
     {
         "artist":  "Dystrix",
         "title":  "Night Of Nightmares!",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2960,
         "votes":  0
     },
     {
         "artist":  "The Chainsmokers",
         "title":  "Paris",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2961,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Hey Brother (Karaoke Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2962,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Let You Down (Nifra Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2963,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "A Sky Full of Stars",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2964,
         "votes":  0
     },
     {
         "artist":  "Sons Of Charlie",
         "title":  "The Enemy Between My Ears",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2965,
         "votes":  0
     },
     {
         "artist":  "Steve Levi",
         "title":  "Yes! (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2966,
         "votes":  0
     },
     {
         "artist":  "Falco",
         "title":  "Rock Me Amadeus",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2967,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Animals (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2968,
         "votes":  0
     },
     {
         "artist":  "Fabio Plois \u0026 INFYNITE",
         "title":  "Changed The Way You Kiss Me (Techno Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2969,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Bitch Better Have My Money (R3hab Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2970,
         "votes":  0
     },
     {
         "artist":  "ClarkyArtist",
         "title":  "I Had",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2971,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Bitch Better Have My Money",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2972,
         "votes":  0
     },
     {
         "artist":  "Lost Witness",
         "title":  "Happiness Happening (Shugz Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2973,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Christian Burns",
         "title":  "This Light Between Us (Extended Mix) (feat. Christian Burns)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2974,
         "votes":  0
     },
     {
         "artist":  "Hardwell, AFROJACK \u0026 MERYLL",
         "title":  "Push It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2975,
         "votes":  0
     },
     {
         "artist":  "Mark Sixma \u0026 Achilles",
         "title":  "I Don\u0027t Care",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2976,
         "votes":  0
     },
     {
         "artist":  "Binary Finary",
         "title":  "1998 (Victor Ruiz Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2977,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Coone \u0026 Lil Jon",
         "title":  "Join The Madness",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2978,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Captain Curtis",
         "title":  "Just A Kid",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2979,
         "votes":  0
     },
     {
         "artist":  "B!tch Better Have My Money",
         "title":  "Rihanna - Michael Woods Remix",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2980,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, Mesto \u0026 WILHELM",
         "title":  "Breakaway",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2981,
         "votes":  0
     },
     {
         "artist":  "JVKE",
         "title":  "golden hour",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2982,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, Mesto \u0026 WILHELM",
         "title":  "Breakaway (Instrumental Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2983,
         "votes":  0
     },
     {
         "artist":  "Nicolas Julian",
         "title":  "Mask Off",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2984,
         "votes":  0
     },
     {
         "artist":  "Anastacia",
         "title":  "Sick and Tired",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2985,
         "votes":  0
     },
     {
         "artist":  "Domiziana",
         "title":  "Ohne Benzin (1,1x Speed Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2986,
         "votes":  0
     },
     {
         "artist":  "PPK",
         "title":  "ResuRection (Space Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2987,
         "votes":  0
     },
     {
         "artist":  "Workout Remix Factory",
         "title":  "Kernkraft 400 (Workout Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2988,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Third Party",
         "title":  "Carry You (feat. Oaks \u0026 Declan J Donovan)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2989,
         "votes":  0
     },
     {
         "artist":  "Luke Muzzic",
         "title":  "Stereo Love x On The Floor (slowed to perfection)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2990,
         "votes":  0
     },
     {
         "artist":  "F4ST",
         "title":  "Push up (Main Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2991,
         "votes":  0
     },
     {
         "artist":  "Ben Nicky \u0026 Distorted Dreams",
         "title":  "Adagio For Strings",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2992,
         "votes":  0
     },
     {
         "artist":  "Edward Maya feat. Vika Jigulina",
         "title":  "Stereo Love (Twelve Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2993,
         "votes":  0
     },
     {
         "artist":  "DJ Tekket",
         "title":  "Kernkraft 400 (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2994,
         "votes":  0
     },
     {
         "artist":  "TommyMuzzic",
         "title":  "Stereo Love x We Found Love (Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2995,
         "votes":  0
     },
     {
         "artist":  "BASS DRIFTER",
         "title":  "Zombie Nation",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2996,
         "votes":  0
     },
     {
         "artist":  "Zombie Nation",
         "title":  "Kernkraft 400 (Sport Chant Stadium Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2997,
         "votes":  0
     },
     {
         "artist":  "Massano",
         "title":  "The Feeling (2022 Remaster)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2998,
         "votes":  0
     },
     {
         "artist":  "The Prodigy",
         "title":  "Voodoo People (Pendulum Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  2999,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Prezioso \u0026 71 Digits",
         "title":  "Three Little Birds",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3000,
         "votes":  0
     },
     {
         "artist":  "Lonelysoul.",
         "title":  "Voodoo People",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3001,
         "votes":  0
     },
     {
         "artist":  "TEKKNO",
         "title":  "voodoo people (pendulum mix, tekkno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3002,
         "votes":  0
     },
     {
         "artist":  "W\u0026W, Blasterjaxx, \u0026 Hardwell",
         "title":  "Rocket Spaceman (W\u0026W \u0026 Hardwell Closing Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3003,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Applause",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3004,
         "votes":  0
     },
     {
         "artist":  "Spencer \u0026 Hill",
         "title":  "\u0026 Nadia Ali - Believe It (Cazette\u0027s Androids Sound Hot Radio Mix) (feat. Nadia Ali)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3005,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, DubVision \u0026 Jaimes",
         "title":  "Empty",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3006,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, DubVision \u0026 Jaimes",
         "title":  "Empty (Instrumental Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3007,
         "votes":  0
     },
     {
         "artist":  "Fynn Royall \u0026 wania",
         "title":  "I Like",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3008,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Blah Blah Blah",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3009,
         "votes":  0
     },
     {
         "artist":  "Depeche Mode",
         "title":  "Just Can\u0027t Get Enough",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3010,
         "votes":  0
     },
     {
         "artist":  "Pickle",
         "title":  "Crank That",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3011,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Goodboys",
         "title":  "Forever (Stay Like This)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3012,
         "votes":  0
     },
     {
         "artist":  "Wheats",
         "title":  "Work",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3013,
         "votes":  0
     },
     {
         "artist":  "2Hounds, PET3RPUNX \u0026 TECHNO KING",
         "title":  "I Kissed A Girl (feat. Milan Gavris)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3014,
         "votes":  0
     },
     {
         "artist":  "Lost Sky \u0026 Sara Skinner",
         "title":  "Dreams pt. II",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3015,
         "votes":  0
     },
     {
         "artist":  "Sofiya Nzau \u0026 Zerb",
         "title":  "Mwaki (Sped Up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3016,
         "votes":  0
     },
     {
         "artist":  "Maddix",
         "title":  "Open Sesame (Abracadabra) (Extended Mix) (feat. Leila K)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3017,
         "votes":  0
     },
     {
         "artist":  "Ahmed Helmy",
         "title":  "Aftermath (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3018,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Seth Hills",
         "title":  "Biochemical",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3019,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Dangerous (feat. Sam Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3020,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "When Love Takes Over (feat. Kelly Rowland)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3021,
         "votes":  0
     },
     {
         "artist":  "Becky Hill \u0026 David Guetta",
         "title":  "Remember",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3022,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Lovers on the Sun [Extended] (feat. Sam Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3023,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Without You (Radio Edit) (feat. Usher)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3024,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Lost In The Rhythm",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3025,
         "votes":  0
     },
     {
         "artist":  "Bebe Rexha \u0026 David Guetta",
         "title":  "One in a Million (David Guetta Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3026,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Something To Hold On To [Extended] (feat. Clementine Douglas)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3027,
         "votes":  0
     },
     {
         "artist":  "Chris Avantgarde",
         "title":  "Perception",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3028,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Dreams [Extended] (feat. Lanie Gardner)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3029,
         "votes":  0
     },
     {
         "artist":  "TV Noise",
         "title":  "Turn It Up",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3030,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Permanence",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3031,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Marten Hørger",
         "title":  "The Freaks",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3032,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Element",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3033,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Sexy Bitch (Extended) (feat. Aliaune Akon Thiam \u0026 Akon)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3034,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Memories [Extended] (feat. Kid Cudi)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3035,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Kim Petras",
         "title":  "When We Were Young (The Logical Song) [Extended]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3036,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Don\u0027t Stop Believin\u0027 (2024 Remaster)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3037,
         "votes":  0
     },
     {
         "artist":  "MORTEN",
         "title":  "Can You Feel It (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3038,
         "votes":  0
     },
     {
         "artist":  "Hypaton \u0026 David Guetta",
         "title":  "Be My Lover (2023 Mix) (feat. La Bouche)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3039,
         "votes":  0
     },
     {
         "artist":  "Coi Leray, Anne-Marie \u0026 David Guetta",
         "title":  "Baby Don’t Hurt Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3040,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Never Be Alone (feat. Aloe Blacc)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3041,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Kill Me Slow (Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3042,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Tinie Tempah",
         "title":  "Blazin (feat. Enisa)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3043,
         "votes":  0
     },
     {
         "artist":  "maxon",
         "title":  "SUCK!",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3044,
         "votes":  0
     },
     {
         "artist":  "JVKE",
         "title":  "golden hour (ILLENIUM \u0026 NURKO Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3045,
         "votes":  0
     },
     {
         "artist":  "Fideles, CamelPhat \u0026 Be No Rain",
         "title":  "Night After Night (CamelPhat Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3046,
         "votes":  0
     },
     {
         "artist":  "The Outhere Brothers",
         "title":  "Boom Boom Boom (Don\u0027t Break My Balls Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3047,
         "votes":  0
     },
     {
         "artist":  "Eugene McCauley",
         "title":  "Break The Rules (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3048,
         "votes":  0
     },
     {
         "artist":  "Maxx",
         "title":  "Get A Way (Airplay Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3049,
         "votes":  0
     },
     {
         "artist":  "Ton Koopman \u0026 Johann Sebastian Bach",
         "title":  "J.S. Bach_ Toccata and Fugue in D Minor, BWV 565",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3050,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Blasterjaxx",
         "title":  "La Bomba",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3051,
         "votes":  0
     },
     {
         "artist":  "Ofenbach",
         "title":  "Overdrive (feat. Norma Jean Martine)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3052,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Oldskool Sound",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3053,
         "votes":  0
     },
     {
         "artist":  "Gigi D\u0027Agostino",
         "title":  "Bla Bla Bla",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3054,
         "votes":  0
     },
     {
         "artist":  "Hannah Laing",
         "title":  "Murder On The Dancefloor (Rave Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3055,
         "votes":  0
     },
     {
         "artist":  "Avicii \u0026 Sebastien Drums",
         "title":  "My Feelings For You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3056,
         "votes":  0
     },
     {
         "artist":  "Freeze",
         "title":  "Love Story",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3057,
         "votes":  0
     },
     {
         "artist":  "twenty one pilots",
         "title":  "Stressed Out",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3058,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "BAD (Listenin\u0027 Continuous Mix) (feat. Vassy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3059,
         "votes":  0
     },
     {
         "artist":  "Rhythm Starz",
         "title":  "Smack That",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3060,
         "votes":  0
     },
     {
         "artist":  "¥$, Kanye West \u0026 Ty Dolla $ign",
         "title":  "CARNIVAL",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3061,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Robert Miles   Children dream version",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3062,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx \u0026 Luciana",
         "title":  "BASS DON\u0027T LIE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3063,
         "votes":  0
     },
     {
         "artist":  "Franco Schmidt",
         "title":  "All Together",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3064,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Adagio For Strings (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3065,
         "votes":  0
     },
     {
         "artist":  "BASSTON, Techno Tazzy \u0026 Tazzy",
         "title":  "GET SHAKY (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3066,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Intro 2016",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3067,
         "votes":  0
     },
     {
         "artist":  "Space Ducks",
         "title":  "Basic",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3068,
         "votes":  0
     },
     {
         "artist":  "SICK LEGEND, GYM HARDSTYLE \u0026 HARDSTYLE BRAH",
         "title":  "APPLAUSE HARDSTYLE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3069,
         "votes":  0
     },
     {
         "artist":  "Snoop Dogg \u0026 David Guetta",
         "title":  "Sweat (Snoop Dogg vs. David Guetta)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3070,
         "votes":  0
     },
     {
         "artist":  "DJ Tekket",
         "title":  "Applause (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3071,
         "votes":  0
     },
     {
         "artist":  "Cosmic Gate",
         "title":  "Exploration Of Space (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3072,
         "votes":  0
     },
     {
         "artist":  "Maddix \u0026 Basswell",
         "title":  "My Gasoline (Hard Edit) (feat. Fēlēs)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3073,
         "votes":  0
     },
     {
         "artist":  "Cosmic Gate",
         "title":  "Exploration of Space (Extended Mix)-1",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3074,
         "votes":  0
     },
     {
         "artist":  "Hardwell ft. Mitch Crown",
         "title":  "Call Me A Spaceman",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3075,
         "votes":  0
     },
     {
         "artist":  "Hubert Reeves",
         "title":  "Mais raisonnablement, il doit bien y avoir...",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3076,
         "votes":  0
     },
     {
         "artist":  "Max Deejay",
         "title":  "Rhythm Is a Dancer (Extended Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3077,
         "votes":  0
     },
     {
         "artist":  "Axwell",
         "title":  "Barricade",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3078,
         "votes":  0
     },
     {
         "artist":  "LMFAO",
         "title":  "Sexy And I Know It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3079,
         "votes":  0
     },
     {
         "artist":  "$OHO BANI, Herbert Grönemeyer \u0026 Ericson",
         "title":  "ZEIT, DASS SICH WAS DREHT",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3080,
         "votes":  0
     },
     {
         "artist":  "Marnik, Naeleck \u0026 VINAI",
         "title":  "Boyz In Paris",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3081,
         "votes":  0
     },
     {
         "artist":  "Distorted Dreams",
         "title":  "Acid Cry",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3082,
         "votes":  0
     },
     {
         "artist":  "BASSTON, STRØBE \u0026 Tazzy",
         "title":  "ALL THAT SHE WANTS (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3083,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Martin Garrix \u0026 Like Mike",
         "title":  "Tremor",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3084,
         "votes":  0
     },
     {
         "artist":  "Bassjackers",
         "title":  "Savior",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3085,
         "votes":  0
     },
     {
         "artist":  "Amaru \u0026 Gringo Bamba",
         "title":  "Blonde Chaya (Sped Up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3086,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Darren Criss",
         "title":  "Crash Into Me (Settle Down Steavis Aoki Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3087,
         "votes":  0
     },
     {
         "artist":  "nastyxanax",
         "title":  "BLADE_THE_VAMPIRE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3088,
         "votes":  0
     },
     {
         "artist":  "Ladi Dadi (Tommy Trash Remix)",
         "title":  "Steve Aoki ft. Wynter Gordon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3089,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike \u0026 Angemi",
         "title":  "Garden of Madness",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3090,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "FREED FROM DESIRE X WOOPS",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3091,
         "votes":  0
     },
     {
         "artist":  "Double 99",
         "title":  "Ripgroove",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3092,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki, Showtek \u0026 MAKJ",
         "title":  "Rave (Feat. Kris Kiss) [Extended Mix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3093,
         "votes":  0
     },
     {
         "artist":  "Slamtype",
         "title":  "Fight For Your Right [ Remix ]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3094,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Tiësto, Dido \u0026 W\u0026W",
         "title":  "Thank You (Not So Bad) (Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3095,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Can U Feel It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3096,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Billen Ted",
         "title":  "Come Around Again (feat. JC Stewart)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3097,
         "votes":  0
     },
     {
         "artist":  "Kygo",
         "title":  "Higher Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3098,
         "votes":  0
     },
     {
         "artist":  "Showtek And Justin Prime Ft  Matthew Koma",
         "title":  "Cannonball (Earthquake) (Extended Vocal Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3099,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 MAKJ",
         "title":  "Countdown",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3100,
         "votes":  0
     },
     {
         "artist":  "Blinders",
         "title":  "Prayer",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3101,
         "votes":  0
     },
     {
         "artist":  "Wiz Khalifa",
         "title":  "See You Again (feat. Charlie Puth)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3102,
         "votes":  0
     },
     {
         "artist":  "ZOOTAH",
         "title":  "Cupcakes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3103,
         "votes":  0
     },
     {
         "artist":  "Kanine",
         "title":  "Ultralight",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3104,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies \u0026 Calum Scott",
         "title":  "Where Are You Now  (Deluxe Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3105,
         "votes":  0
     },
     {
         "artist":  "Enisa",
         "title":  "Mockingbird",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3106,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Ellie Goulding",
         "title":  "Miracle (Dimitri Vegas \u0026 Like Mike vs. Bassjackers Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3107,
         "votes":  0
     },
     {
         "artist":  "Magnificence",
         "title":  "Cobra",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3108,
         "votes":  0
     },
     {
         "artist":  "Da Hool",
         "title":  "meet her at the Loveparade -  Official Video (HQ)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3109,
         "votes":  0
     },
     {
         "artist":  "Macklemore \u0026 Ryan Lewis",
         "title":  "Thrift Shop (feat. Wanz)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3110,
         "votes":  0
     },
     {
         "artist":  "Braaheim",
         "title":  "How Deep Is Your Love (Chrit Leaf Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3111,
         "votes":  0
     },
     {
         "artist":  "Beachbag, Drive With Beats \u0026 Ladina Viva",
         "title":  "Friday (feat. MaxRiven)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3112,
         "votes":  0
     },
     {
         "artist":  "DJSM, Robbe, stay_us",
         "title":  "Disturbia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3113,
         "votes":  0
     },
     {
         "artist":  "Per Pleks",
         "title":  "WTF (Dimitri Vegas \u0026 Like Mike Edit) (feat. Roland Clark)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3114,
         "votes":  0
     },
     {
         "artist":  "Karaoke♬ A Sky Full Of Stars",
         "title":  "Coldplay 【No Guide Melody】 Instrumental",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3115,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "She Doesn\u0027t Mind (NORTKASH x BROHM \u0026 OSIS Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3116,
         "votes":  0
     },
     {
         "artist":  "Meduza",
         "title":  "Friends",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3117,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "sans nom-2",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3118,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "sans nom-1",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3119,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "sans nom",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3120,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "UP",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3121,
         "votes":  0
     },
     {
         "artist":  "UK MAKINA_ Assault",
         "title":  "Crooked Smile (Bootleg)(Absolutley Mint!)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3122,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Right Round [Benny Benassi Remix Edit] (feat. Ke$ha)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3123,
         "votes":  0
     },
     {
         "artist":  "Stardust",
         "title":  "Music Sounds Better With You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3124,
         "votes":  0
     },
     {
         "artist":  "Cirez D",
         "title":  "Stockholm Marathon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3125,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Becky Hill \u0026 Ella Henderson",
         "title":  "Crazy What Love Can Do",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3126,
         "votes":  0
     },
     {
         "artist":  "Bebe Rexha \u0026 David Guetta",
         "title":  "One in a Million",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3127,
         "votes":  0
     },
     {
         "artist":  "Madcon",
         "title":  "Glow",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3128,
         "votes":  0
     },
     {
         "artist":  "Push",
         "title":  "Universal Nation (Remastered Album Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3129,
         "votes":  0
     },
     {
         "artist":  "JKRS \u0026 ECHO",
         "title":  "Maneater",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3130,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Autoerotique vs Dimitri Vegas \u0026 Like Mike",
         "title":  "Feedback (Xantra Bootleg)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3131,
         "votes":  0
     },
     {
         "artist":  "Zombie Nation",
         "title":  "Forza",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3132,
         "votes":  0
     },
     {
         "artist":  "MORTEN",
         "title":  "Polar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3133,
         "votes":  0
     },
     {
         "artist":  "Sophie Ellis-Bextor \u0026 David Guetta",
         "title":  "Murder On The Dancefloor (David Guetta Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3134,
         "votes":  0
     },
     {
         "artist":  "Melé",
         "title":  "Groove La Afrika (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3135,
         "votes":  0
     },
     {
         "artist":  "Arodes \u0026 Moojo",
         "title":  "Reborn",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3136,
         "votes":  0
     },
     {
         "artist":  "Cincinnati Pops Orchestra \u0026 Erich Kunzel",
         "title":  "Axel F (From Beverly Hills Cop)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3137,
         "votes":  0
     },
     {
         "artist":  "Zombie Nation",
         "title":  "Kernkraft 400 (DJ Gius Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3138,
         "votes":  0
     },
     {
         "artist":  "Harold Faltermeyer",
         "title":  "Axel F (Extended Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3139,
         "votes":  0
     },
     {
         "artist":  "The Temper Trap",
         "title":  "Sweet Disposition (John Summit \u0026 Silver Panda Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3140,
         "votes":  0
     },
     {
         "artist":  "RiraN",
         "title":  "Own The Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3141,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Thinking About You (feat. Ayah Marar)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3142,
         "votes":  0
     },
     {
         "artist":  "Steve Angello, Sunnery James \u0026 Ryan Marciano \u0026 Magnificence",
         "title":  "Monday (Sunnery James \u0026 Ryan Marciano, Magnificence Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3143,
         "votes":  0
     },
     {
         "artist":  "Alok, The Chainsmokers \u0026 Mae Stephens",
         "title":  "Jungle (Arcando Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3144,
         "votes":  0
     },
     {
         "artist":  "BURNS",
         "title":  "Talamanca",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3145,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Sweet Nothing (feat. Florence Welch)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3146,
         "votes":  0
     },
     {
         "artist":  "Aktive",
         "title":  "Higher",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3147,
         "votes":  0
     },
     {
         "artist":  "Rune RK",
         "title":  "Calabria (Firebeatz Remix) [Bass Boosted]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3148,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Sam Smith",
         "title":  "Promises",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3149,
         "votes":  0
     },
     {
         "artist":  "NUZB \u0026 GRX",
         "title":  "Empire",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3150,
         "votes":  0
     },
     {
         "artist":  "Rihanna \u0026 Calvin Harris",
         "title":  "We Found Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3151,
         "votes":  0
     },
     {
         "artist":  "Low Blow \u0026 IvaX",
         "title":  "Tupapa (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3152,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Disciples",
         "title":  "How Deep Is Your Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3153,
         "votes":  0
     },
     {
         "artist":  "KC Lights",
         "title":  "SOL (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3154,
         "votes":  0
     },
     {
         "artist":  "DJ Kuba, Neitan, \u0026 Bounce Inc.",
         "title":  "Blade",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3155,
         "votes":  0
     },
     {
         "artist":  "Hans Zimmer",
         "title":  "Time",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3156,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Rihanna",
         "title":  "This Is What You Came For",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3157,
         "votes":  0
     },
     {
         "artist":  "Love Regenerator",
         "title":  "Hypnagogic (I Can\u0027t Wait) [edit]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3158,
         "votes":  0
     },
     {
         "artist":  "Dezko",
         "title":  "Ascend",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3159,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "I\u0027m Not Alone (2019 Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3160,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Nicky Romero – Turn Off The Lights (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3161,
         "votes":  0
     },
     {
         "artist":  "UMEK",
         "title":  "Collision Wall Original Mix",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3162,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Restricted",
         "title":  "Perfect (Exceeder) (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3163,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Rag\u0027n\u0027Bone Man",
         "title":  "Lovers In A Past Life (Acoustic)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3164,
         "votes":  0
     },
     {
         "artist":  "Duke Dumont",
         "title":  "Love Song (Will Clarke Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3165,
         "votes":  0
     },
     {
         "artist":  "Argy \u0026 Omnya",
         "title":  "Aria",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3166,
         "votes":  0
     },
     {
         "artist":  "MORTEN",
         "title":  "Good God",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3167,
         "votes":  0
     },
     {
         "artist":  "Florence And The Machine",
         "title":  "You\u0027ve Got The Love (Mark Knight Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3168,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "The Truth",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3169,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "The Future Is Now",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3170,
         "votes":  0
     },
     {
         "artist":  "Linkin Park \u0026 Steve Aoki",
         "title":  "A LIGHT THAT NEVER COMES",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3171,
         "votes":  0
     },
     {
         "artist":  "Steve Angello, AN21 \u0026 Kryder",
         "title":  "Valodja (Kryder Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3172,
         "votes":  0
     },
     {
         "artist":  "Massano",
         "title":  "Cybernova",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3173,
         "votes":  0
     },
     {
         "artist":  "fun.",
         "title":  "We Are Young (feat. Janelle Monáe)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3174,
         "votes":  0
     },
     {
         "artist":  "MR.BLACK \u0026 Ale Mora",
         "title":  "Party People (Giuseppe Ottaviani Retouch Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3175,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Kim Petras",
         "title":  "When We Were Young (The Logical Song) [Seth Hills Remix Extended]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3176,
         "votes":  0
     },
     {
         "artist":  "Depeche Mode",
         "title":  "Ghosts Again (Massano Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3177,
         "votes":  0
     },
     {
         "artist":  "Marnik \u0026 Naeleck",
         "title":  "Boyz In Paris (with VINAI) [W\u0026W HardRave Mix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3178,
         "votes":  0
     },
     {
         "artist":  "Mark Knight",
         "title":  "Second Story",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3179,
         "votes":  0
     },
     {
         "artist":  "Olly James \u0026 Uberjak\u0027d",
         "title":  "The New Generation",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3180,
         "votes":  0
     },
     {
         "artist":  "deadmau5",
         "title":  "Strobe",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3181,
         "votes":  0
     },
     {
         "artist":  "Travis Scott",
         "title":  "FE!N (feat. Playboi Carti)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3182,
         "votes":  0
     },
     {
         "artist":  "MEIRLIN",
         "title":  "Spaceflight 2099",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3183,
         "votes":  0
     },
     {
         "artist":  "Imagine Dragons",
         "title":  "Believer",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3184,
         "votes":  0
     },
     {
         "artist":  "Usher",
         "title":  "Yeah! (feat. Lil Jon \u0026 Ludacris)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3185,
         "votes":  0
     },
     {
         "artist":  "Lilly Palmer",
         "title":  "Hare Ram",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3186,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Lose This Feeling (Maddix Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3187,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Waiting For Love (Carnage \u0026 Headhunterz Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3188,
         "votes":  0
     },
     {
         "artist":  "Ben Nicky, Hannah Laing, Paul Findlay \u0026 Signum",
         "title":  "Coming On Strong (Trance Mix) (feat. Scott Mac)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3189,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Years (Radio Edit) (feat. Matthew Koma)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3190,
         "votes":  0
     },
     {
         "artist":  "Mason",
         "title":  "Perfect (Exceeder) (Oliver Heldens Remix) vs. Say My Name (OH Mashup) (NW-Remake)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3191,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "In And Out Of Love (Innellea Extended Remix) (feat. Sharon Den Adel)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3192,
         "votes":  0
     },
     {
         "artist":  "Danny Avila (ES)",
         "title":  "Chase The Sun (Extended VIP) _ Off The Grid Records #bigroomtechno",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3193,
         "votes":  0
     },
     {
         "artist":  "Gryffin, SLANDER",
         "title":  "All You Need To Know (Riggi \u0026 Piros Remix) (ft. Calle Lehmann) (Music Audio)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3194,
         "votes":  0
     },
     {
         "artist":  "Gryffin, ILLENIUM \u0026 Daya",
         "title":  "Feel Good (Crankdat Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3195,
         "votes":  0
     },
     {
         "artist":  "Mason \u0026 Princess Superstar",
         "title":  "Perfect (Exceeder) (1991 Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3196,
         "votes":  0
     },
     {
         "artist":  "Hailee Steinfeld \u0026 Alesso",
         "title":  "Let Me Go (feat. Florida Georgia Line \u0026 WATT)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3197,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Gryffin",
         "title":  "What Took You So Long",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3198,
         "votes":  0
     },
     {
         "artist":  "Belinda Carlisle",
         "title":  "Heaven Is a Place on Earth (Promo 7 Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3199,
         "votes":  0
     },
     {
         "artist":  "Zerb \u0026 Sofiya Nzau",
         "title":  "Mwaki",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3200,
         "votes":  0
     },
     {
         "artist":  "Nicky Romero",
         "title":  "Toulouse",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3201,
         "votes":  0
     },
     {
         "artist":  "Rollergirl",
         "title":  "Dear Jessie",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3202,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Brennan Heart \u0026 Tony Junior",
         "title":  "The Scientist",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3203,
         "votes":  0
     },
     {
         "artist":  "Shakira",
         "title":  "Waka Waka (This Time For Africa) (Official HD Video) (feat. Freshlyground)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3204,
         "votes":  0
     },
     {
         "artist":  "Florian Picasso",
         "title":  "Work It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3205,
         "votes":  0
     },
     {
         "artist":  "RJ3",
         "title":  "Viva La Sesh",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3206,
         "votes":  0
     },
     {
         "artist":  "Coolio, Holy Priest \u0026 1 World",
         "title":  "Gangsta\u0027s Paradise (Rap Edition)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3207,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 JVKE",
         "title":  "Hero (DubVision Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3208,
         "votes":  0
     },
     {
         "artist":  "REDCHINAWAVE",
         "title":  "Отменяй",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3209,
         "votes":  0
     },
     {
         "artist":  "Tim Berg",
         "title":  "Bromance (Avicii\u0027s Arena Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3210,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Sexy Bitch (feat. Akon)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3211,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Bebe Rexha",
         "title":  "Deep In Your Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3212,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Florian Picasso",
         "title":  "Make up Your Mind",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3213,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Inevitable (feat. GREYLEE)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3214,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Eclipse",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3215,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Bed Of Rain (feat. Mila Josef)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3216,
         "votes":  0
     },
     {
         "artist":  "Queen",
         "title":  "We Will Rock You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3217,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Animals (Botnek Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3218,
         "votes":  0
     },
     {
         "artist":  "Sandro Silva",
         "title":  "Andromeda (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3219,
         "votes":  0
     },
     {
         "artist":  "Revolvr",
         "title":  "Viper",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3220,
         "votes":  0
     },
     {
         "artist":  "Raffa Fl \u0026 Jax Jones",
         "title":  "Ritmo (Jax Jones Midnight Snacks Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3221,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Everybody Is In The Place",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3222,
         "votes":  0
     },
     {
         "artist":  "Rompasso \u0026 Imanbek",
         "title":  "123 (Dolly Song) (feat. Karma Child)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3223,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Julian Jordan",
         "title":  "Glitch",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3224,
         "votes":  0
     },
     {
         "artist":  "Vicetone",
         "title":  "Apex",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3225,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike x Afro Bros feat. Akon",
         "title":  "She Knows (Jaxx \u0026 Vega Remix) [ID EXCLUSIVE!]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3226,
         "votes":  0
     },
     {
         "artist":  "Poltergst",
         "title":  "Move It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3227,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Lady Bee",
         "title":  "Trumpets",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3228,
         "votes":  0
     },
     {
         "artist":  "Steve Angello, Laidback Luke \u0026 Robin S.",
         "title":  "Show Me Love (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3229,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso \u0026 Alesso",
         "title":  "Calling (Lose My Mind) (Radio Edit) (feat. Ryan Tedder)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3230,
         "votes":  0
     },
     {
         "artist":  "Natte Visstick",
         "title":  "Kabinet",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3231,
         "votes":  0
     },
     {
         "artist":  "Axwell __ Ingrosso \u0026 Sebastian Ingrosso",
         "title":  "Dream Bigger",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3232,
         "votes":  0
     },
     {
         "artist":  "Ben Nicky \u0026 STVW",
         "title":  "Soulmate",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3233,
         "votes":  0
     },
     {
         "artist":  "Hardwell, Nicky Romero \u0026 MERYLL",
         "title":  "I Wanna Dance",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3234,
         "votes":  0
     },
     {
         "artist":  "OneRepublic",
         "title":  "Counting Stars",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3235,
         "votes":  0
     },
     {
         "artist":  "Cedric Gervais \u0026 Lana Del Rey",
         "title":  "Summertime Sadness",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3236,
         "votes":  0
     },
     {
         "artist":  "OneRepublic \u0026 Alesso",
         "title":  "If I Lose Myself (Alesso vs OneRepublic)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3237,
         "votes":  0
     },
     {
         "artist":  "Ran-D",
         "title":  "Zombie",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3238,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies \u0026 Tom Gregory",
         "title":  "Dive (Deluxe Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3239,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Blasterjaxx",
         "title":  "BIGROOM NEVER DIES (REBELS NEVER DIE REWORK) (feat. Mitch Crown)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3240,
         "votes":  0
     },
     {
         "artist":  "Sandro Silva \u0026 Quintino",
         "title":  "Epic (Garmiani Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3241,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Olly James",
         "title":  "Flatline",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3242,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia \u0026 Tinie Tempah",
         "title":  "Miami 2 Ibiza (Extended Vocal Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3243,
         "votes":  0
     },
     {
         "artist":  "Hard Rock Sofa \u0026 Swanky Tunes",
         "title":  "Here We Go",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3244,
         "votes":  0
     },
     {
         "artist":  "2 Unlimited",
         "title":  "Get Ready",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3245,
         "votes":  0
     },
     {
         "artist":  "Showtek \u0026 Justin Prime",
         "title":  "Cannonball (Dimitri Vegas \u0026 Like Mike vs. Bassjackers Remix) (feat. Bassjackers)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3246,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Lovers on the Sun (feat. Sam Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3247,
         "votes":  0
     },
     {
         "artist":  "Haddaway",
         "title":  "What Is Love (7 Mix) (Remastered 2025)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3248,
         "votes":  0
     },
     {
         "artist":  "The White Stripes",
         "title":  "Seven Nation Army",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3249,
         "votes":  0
     },
     {
         "artist":  "Elijah N",
         "title":  "Everybody",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3250,
         "votes":  0
     },
     {
         "artist":  "4 Non Blondes",
         "title":  "What\u0027s Up_",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3251,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia \u0026 Knife Party",
         "title":  "Antidote (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3252,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Melody (feat. James Blunt)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3253,
         "votes":  0
     },
     {
         "artist":  "Bon Jovi",
         "title":  "It\u0027s My Life",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3254,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Alan Walker",
         "title":  "Are You Lonely (Steve Aoki Remix) (feat. ISÁK)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3255,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Before Today (feat. Natalie Slade)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3256,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Nicole Scherzinger \u0026 Ape Rave Club",
         "title":  "The Drop (Ape Rave Club Remix) (feat. David Guetta \u0026 Azteck)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3257,
         "votes":  0
     },
     {
         "artist":  "Axwell Λ Ingrosso",
         "title":  "We Come, We Rave, We Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3258,
         "votes":  0
     },
     {
         "artist":  "TV Rock",
         "title":  "In The Air (Blame Remix) (feat. Rudy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3259,
         "votes":  0
     },
     {
         "artist":  "Anthony Keyrouz, offrami \u0026 Jeannette",
         "title":  "Tell Me How (Sped Up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3260,
         "votes":  0
     },
     {
         "artist":  "Quintino \u0026 3 Are Legend",
         "title":  "Name of Your DJ (3 Are Legend Edit) (feat. MC Ambush)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3261,
         "votes":  0
     },
     {
         "artist":  "Hardwell, Azteck \u0026 Alex Hepburn",
         "title":  "Anybody Out There",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3262,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Ray Of Solar",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3263,
         "votes":  0
     },
     {
         "artist":  "FISHER \u0026 Aatig",
         "title":  "TAKE IT OFF",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3264,
         "votes":  0
     },
     {
         "artist":  "Fred again.. \u0026 Swedish House Mafia",
         "title":  "Turn On The Lights again.. (feat. Future)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3265,
         "votes":  0
     },
     {
         "artist":  "Dannic",
         "title":  "Zinc",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3266,
         "votes":  0
     },
     {
         "artist":  "Ski Aggu, Joost \u0026 Otto Waalkes",
         "title":  "Friesenjung",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3267,
         "votes":  0
     },
     {
         "artist":  "Trevor Daniel",
         "title":  "Falling",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3268,
         "votes":  0
     },
     {
         "artist":  "MATTN, DJs from Mars \u0026 Mauro Picotto",
         "title":  "Komodo (Lockdown Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3269,
         "votes":  0
     },
     {
         "artist":  "Skitzofrenix \u0026 Jeff Doubleu",
         "title":  "Rushin\u0027  (Original Mix VS Rework) (Blaster\u0027s Bootleg)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3270,
         "votes":  0
     },
     {
         "artist":  "Perfect Pitch \u0026 Rocco",
         "title":  "Sweet Dreams",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3271,
         "votes":  0
     },
     {
         "artist":  "Soulja Boy Tell\u0027em",
         "title":  "Crank That (Soulja Boy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3272,
         "votes":  0
     },
     {
         "artist":  "Indila \u0026 BENNETT",
         "title":  "Dernière danse (Techno Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3273,
         "votes":  0
     },
     {
         "artist":  "Will Sparks \u0026 Gigi Russ",
         "title":  "Round Round",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3274,
         "votes":  0
     },
     {
         "artist":  "Axwell __ Ingrosso",
         "title":  "How Do You Feel Right Now",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3275,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "One (Your Name) (Radio Edit) (feat. Pharrell)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3276,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso \u0026 Steve Angello",
         "title":  "Skip",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3277,
         "votes":  0
     },
     {
         "artist":  "William Kiss",
         "title":  "Like This",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3278,
         "votes":  0
     },
     {
         "artist":  "Alphaville",
         "title":  "Big in Japan (Single Version) (Single Version; 2019 Remaster)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3279,
         "votes":  0
     },
     {
         "artist":  "Benny Benassi \u0026 The Biz",
         "title":  "Satisfaction (Benny Benassi Presents the Biz, Isak Original Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3280,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Calling On",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3281,
         "votes":  0
     },
     {
         "artist":  "James Hype",
         "title":  "Helicopter",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3282,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "My Symphony (The Best Of Armin Only Anthem) [Mix Cut]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3283,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Shapov",
         "title":  "The Last Dancer",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3284,
         "votes":  0
     },
     {
         "artist":  "Green Velvet",
         "title":  "Flash (Nicky Romero Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3285,
         "votes":  0
     },
     {
         "artist":  "Zerb, Tiësto \u0026 Sofiya Nzau",
         "title":  "Mwaki (Tiësto\u0027s VIP Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3286,
         "votes":  0
     },
     {
         "artist":  "Sharam",
         "title":  "PATT (Party All The Time) (Adam Beyer, Layton Giordani \u0026 Green Velvet Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3287,
         "votes":  0
     },
     {
         "artist":  "Hardwell feat. Amba Shepherd",
         "title":  "Apollo",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3288,
         "votes":  0
     },
     {
         "artist":  "FEL!X",
         "title":  "Hot N Cold (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3289,
         "votes":  0
     },
     {
         "artist":  "Sander van Doorn \u0026 Robert Falcon",
         "title":  "Rapture",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3290,
         "votes":  0
     },
     {
         "artist":  "Sunbeam",
         "title":  "Outside World (Hands Up RMX)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3291,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 OneRepublic",
         "title":  "I Don\u0027t Wanna Wait",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3292,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Alexander Popov",
         "title":  "Popcorn (Mix Cut)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3293,
         "votes":  0
     },
     {
         "artist":  "Avicii \u0026 Sebastien Drums",
         "title":  "Snus (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3294,
         "votes":  0
     },
     {
         "artist":  "LUM!X",
         "title":  "Techno Sound",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3295,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "(FREE) Ronisia Type Beat 2025 Let\u0027s Go  _ Instru Afro 2025 _ Instru Afro Piano Triste",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3296,
         "votes":  0
     },
     {
         "artist":  "Jaxomy, Agatino Romero \u0026 Raffaella Carrà",
         "title":  "Pedro",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3297,
         "votes":  0
     },
     {
         "artist":  "Sean Koch",
         "title":  "Lift You Up",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3298,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Shot Me Down (Listenin\u0027 Continuous Mix) (feat. Skylar Grey)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3299,
         "votes":  0
     },
     {
         "artist":  "Will Sparks \u0026 Luciana",
         "title":  "My Spine Is Tingling",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3300,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "My Way",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3301,
         "votes":  0
     },
     {
         "artist":  "Steve Angello",
         "title":  "KNAS (BROHUG Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3302,
         "votes":  0
     },
     {
         "artist":  "Artemas",
         "title":  "i like the way you kiss me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3303,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Planet Perfecto Knights   ResuRection   Maurice West Remix",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3304,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Rag\u0027n\u0027Bone Man",
         "title":  "Lovers In A Past Life (Westend Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3305,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Feels (feat. Pharrell Williams, Katy Perry \u0026 Big Sean)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3306,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris ft. Tom Grennan",
         "title":  "By Your Side Official Music Video",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3307,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Pray to God [Audio] (feat. HAIM)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3308,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "I\u0027m Not Alone (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3309,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Dua Lipa",
         "title":  "One Kiss (Oliver Heldens Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3310,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "This Is A Test (Arkham Knights Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3311,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Rag\u0027n\u0027Bone Man",
         "title":  "Giant (Robin Schulz Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3312,
         "votes":  0
     },
     {
         "artist":  "Dave Winnel",
         "title":  "Mind Control",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3313,
         "votes":  0
     },
     {
         "artist":  "Central Cee",
         "title":  "Doja",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3314,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Zig Zag",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3315,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Acceptable In the 80\u0027s",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3316,
         "votes":  0
     },
     {
         "artist":  "Alesso, Stray Kids \u0026 CORSAK",
         "title":  "Going Dumb (Mike Williams Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3317,
         "votes":  0
     },
     {
         "artist":  "Alesso Ft. Zara Larsson",
         "title":  "Words (VIP Mix) (Visualizer)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3318,
         "votes":  0
     },
     {
         "artist":  "Ultra Shock",
         "title":  "The Sound Of E (Mixed) (Jorn van Deynhoven Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3319,
         "votes":  0
     },
     {
         "artist":  "Alesso",
         "title":  "Words (feat. Zara Larsson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3320,
         "votes":  0
     },
     {
         "artist":  "Alesso \u0026 Katy Perry",
         "title":  "When I\u0027m Gone (VIP Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3321,
         "votes":  0
     },
     {
         "artist":  "M4GNVSTLYZ",
         "title":  "Take Your Soul",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3322,
         "votes":  0
     },
     {
         "artist":  "Sentinel",
         "title":  "Get That Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3323,
         "votes":  0
     },
     {
         "artist":  "Mightyfools",
         "title":  "Shaolin",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3324,
         "votes":  0
     },
     {
         "artist":  "Men At Work",
         "title":  "Down Under",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3325,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "I\u0027m Not Alone (CamelPhat Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3326,
         "votes":  0
     },
     {
         "artist":  "Dash Berlin",
         "title":  "Coming Home (STANDERWICK Extended Remix) (feat. Bo Bruce)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3327,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Summer (R3hab \u0026 Ummet Ozcan Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3328,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Dua Lipa",
         "title":  "One Kiss (R3HAB Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3329,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Stickup (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3330,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Rihanna",
         "title":  "This Is What You Came For (R3hab vs Henry Fong Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3331,
         "votes":  0
     },
     {
         "artist":  "Wheats",
         "title":  "Kassia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3332,
         "votes":  0
     },
     {
         "artist":  "Depeche Mode \u0026 ANNA",
         "title":  "My Cosmos Is Mine (ANNA Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3333,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Rag\u0027n\u0027Bone Man",
         "title":  "Giant",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3334,
         "votes":  0
     },
     {
         "artist":  "SIDEPIECE",
         "title":  "Sextacy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3335,
         "votes":  0
     },
     {
         "artist":  "Nari \u0026 Milani Vs Maurizio Gubellini Ft. Nicci Vs Row Rocka",
         "title":  "Empire Vago (LOKA Mash-Up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3336,
         "votes":  0
     },
     {
         "artist":  "Rune RK",
         "title":  "Calabria (Firebeatz Remix Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3337,
         "votes":  0
     },
     {
         "artist":  "Sonny Fodera",
         "title":  "Better",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3338,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx",
         "title":  "Alice\u0027s Story",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3339,
         "votes":  0
     },
     {
         "artist":  "Sourmash",
         "title":  "Pilgrimage To Paradise (Spektre Re-Mash)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3340,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Sexy B_itch (feat. Akon) _ Lyrics",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3341,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren And Sunnery James \u0026 Ryan Marciano",
         "title":  "You Are (Hardwell Rework)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3342,
         "votes":  0
     },
     {
         "artist":  "Cyndi Lauper",
         "title":  "Girls Just Want to Have Fun (12 Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3343,
         "votes":  0
     },
     {
         "artist":  "MEDUZA",
         "title":  "Friends (ARTBAT Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3344,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "OK [Sylvain Armand Remix] (feat. James Blunt)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3345,
         "votes":  0
     },
     {
         "artist":  "Don Omar, Lucenzo \u0026 Tiësto",
         "title":  "Danza Kuduro (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3346,
         "votes":  0
     },
     {
         "artist":  "Hypaton \u0026 David Guetta",
         "title":  "Feeling Good",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3347,
         "votes":  0
     },
     {
         "artist":  "Sunset Bros \u0026 Mark McCabe",
         "title":  "I\u0027m Feeling It (In The Air) (Sunset Bros X Mark McCabe _ MaRLo Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3348,
         "votes":  0
     },
     {
         "artist":  "LUCKY DEMON, OSIREK \u0026 Mr Demon",
         "title":  "NOW YOU\u0027RE GONE (HYPERTECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3349,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Ely Oaks",
         "title":  "Tsunami",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3350,
         "votes":  0
     },
     {
         "artist":  "LUCKY DEMON, STRØWBERRY, PET3RPUNX \u0026 Mr Demon",
         "title":  "Papaoutai",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3351,
         "votes":  0
     },
     {
         "artist":  "Hypnatos",
         "title":  "Tell Me Why",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3352,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter, Farruko \u0026 Alan Walker",
         "title":  "On My Way",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3353,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 AVIAN GRAYS",
         "title":  "Something Real (feat. Jordan Shaw)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3354,
         "votes":  0
     },
     {
         "artist":  "Sub Focus \u0026 Dimension",
         "title":  "Ready To Fly",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3355,
         "votes":  0
     },
     {
         "artist":  "Prospa \u0026 Dimension",
         "title":  "WANT NEED LOVE (Dimension Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3356,
         "votes":  0
     },
     {
         "artist":  "Van Halen",
         "title":  "Jump (Mixed) (Armin van Buuren Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3357,
         "votes":  0
     },
     {
         "artist":  "Prospa",
         "title":  "WANT NEED LOVE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3358,
         "votes":  0
     },
     {
         "artist":  "NTO",
         "title":  "Gamma",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3359,
         "votes":  0
     },
     {
         "artist":  "Sonny Fodera \u0026 Dom Dolla",
         "title":  "Moving Blind (Gorgon City Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3360,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Rise (Paradoks Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3361,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Reality Deluxe Extended Mix feat Janieck Devy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3362,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies \u0026 X Ambassadors",
         "title":  "Back To You (Afrohouse Deluxe Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3363,
         "votes":  0
     },
     {
         "artist":  "Lukas Larsson \u0026 Viktor Rosberg",
         "title":  "The Nights (Acoustic)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3364,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "All Stand Together",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3365,
         "votes":  0
     },
     {
         "artist":  "Odymel",
         "title":  "Thank You (Rework)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3366,
         "votes":  0
     },
     {
         "artist":  "Kiko Franco, Moser \u0026 Dyve",
         "title":  "Told You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3367,
         "votes":  0
     },
     {
         "artist":  "Paul Oakenfold",
         "title":  "Cafe Del Mar (Activa remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3368,
         "votes":  0
     },
     {
         "artist":  "Kelis",
         "title":  "Milkshake 20 (Alex Wann Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3369,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Beat Of My Heart (Deluxe Edit) (feat. Love Harder)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3370,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia \u0026 Mau P",
         "title":  "Ray Of Solar (Mau P Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3371,
         "votes":  0
     },
     {
         "artist":  "Rocky III Training Montage",
         "title":  "Set to Marshmello ft. Khalid - Silence (Tiësto’s Big Room Remix) FM",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3372,
         "votes":  0
     },
     {
         "artist":  "Delerium feat. Sarah McLachlan",
         "title":  "Silence (Tiësto\u0027s In Search of Sunrise Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3373,
         "votes":  0
     },
     {
         "artist":  "Toby Green",
         "title":  "POP",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3374,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Delerium Feat. Sarah McLachlan – Silence (DJ Tiesto In Search Of Sunrise Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3375,
         "votes":  0
     },
     {
         "artist":  "MORTEN \u0026 David Guetta",
         "title":  "Make It to Heaven (Extended) (feat. Raye)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3376,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "I Gotta Feeling (Dave Guetta FMIF Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3377,
         "votes":  0
     },
     {
         "artist":  "Deniz Koyu",
         "title":  "Astral",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3378,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "SOS (feat. Aloe Blacc)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3379,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Calvin Harris   How Deep Is Your Love Dimitri Vegas \u0026 Like Mike Edit 480p 25fps H264 128kbit AAC",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3380,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Avicii",
         "title":  "Sunshine",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3381,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Communication Part 3 (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3382,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Only Girl (In The World)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3383,
         "votes":  0
     },
     {
         "artist":  "Skrillex, Fred again.. \u0026 Flowdan",
         "title":  "Rumble",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3384,
         "votes":  0
     },
     {
         "artist":  "Fred again.. \u0026 Baby Keem",
         "title":  "leavemealone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3385,
         "votes":  0
     },
     {
         "artist":  "Bicep",
         "title":  "Glue",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3386,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Don’t Stop the Music (Lyrics)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3387,
         "votes":  0
     },
     {
         "artist":  "Fred again.. \u0026 The Blessed Madonna",
         "title":  "Marea (we’ve lost dancing)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3388,
         "votes":  0
     },
     {
         "artist":  "Luca Testa \u0026 Bomber",
         "title":  "Kernkraft 400",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3389,
         "votes":  0
     },
     {
         "artist":  "BASSTON",
         "title":  "GLUE (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3390,
         "votes":  0
     },
     {
         "artist":  "Nicky Romero \u0026 Sunnery James",
         "title":  "S.O.T.U. (feat. Fast Eddie)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3391,
         "votes":  0
     },
     {
         "artist":  "renewwed, Tazzy \u0026 capella",
         "title":  "Glue x How Deep Is Your Love (cover)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3392,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Firework (Lyrics)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3393,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "Dynamite",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3394,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Hot N Cold",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3395,
         "votes":  0
     },
     {
         "artist":  "Kryder",
         "title":  "Romani (feat. Steve Angello)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3396,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Dark Horse (feat. Juicy J)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3397,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Regard, NATTI NATASHA \u0026 Dimitri Vegas",
         "title":  "To The Beat (feat. Sash!)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3398,
         "votes":  0
     },
     {
         "artist":  "Tony Touch",
         "title":  "Apaga La Luz (OG Main)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3399,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte",
         "title":  "Destination Infinity (feat. Datura)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3400,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz \u0026 Topic",
         "title":  "One By One (feat. Oaks)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3401,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia \u0026 Connie Constance",
         "title":  "Heaven Takes You Home",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3402,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Luke Bond",
         "title":  "Revolution (Mixed) (Cinematic Intro Version) (feat. KARRA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3403,
         "votes":  0
     },
     {
         "artist":  "KXXMA, YAMAS \u0026 MESSY",
         "title":  "Break The Rules",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3404,
         "votes":  0
     },
     {
         "artist":  "Drillheadz",
         "title":  "Ab geht die Post (Henny-M Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3405,
         "votes":  0
     },
     {
         "artist":  "Charli xcx",
         "title":  "Break the Rules",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3406,
         "votes":  0
     },
     {
         "artist":  "John Summit",
         "title":  "Fade Out (feat. MKLA)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3407,
         "votes":  0
     },
     {
         "artist":  "MAKJ \u0026 Thomas Newson",
         "title":  "Black (Extended Thomas Newson Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3408,
         "votes":  0
     },
     {
         "artist":  "John Summit, HAYLA \u0026 Gorgon City",
         "title":  "Where You Are (Gorgon City Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3409,
         "votes":  0
     },
     {
         "artist":  "The Temper Trap",
         "title":  "Sweet Disposition (Axwell \u0026 Dirty South Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3410,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Sam Smith",
         "title":  "Desire (KC Lights Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3411,
         "votes":  0
     },
     {
         "artist":  "MOSKA",
         "title":  "House Religion (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3412,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Niki \u0026 The Dove – Mother Protect (Alex Metric Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3413,
         "votes":  0
     },
     {
         "artist":  "Jhay Rivas",
         "title":  "SAFE WITH ME (SECRETOS)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3414,
         "votes":  0
     },
     {
         "artist":  "Kygo \u0026 Zak Abel",
         "title":  "For Life (feat. Nile Rodgers)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3415,
         "votes":  0
     },
     {
         "artist":  "PNAU",
         "title":  "Chameleon (PNAU x Melé Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3416,
         "votes":  0
     },
     {
         "artist":  "Wiwek \u0026 Emy Perez",
         "title":  "TUCUTU (Instrumental)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3417,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso",
         "title":  "Laktos",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3418,
         "votes":  0
     },
     {
         "artist":  "John Summit \u0026 HAYLA",
         "title":  "Shiver",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3419,
         "votes":  0
     },
     {
         "artist":  "Masterboy",
         "title":  "I got to give it up (Get away Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3420,
         "votes":  0
     },
     {
         "artist":  "KIRK",
         "title":  "Bla Bla Bla (Flip)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3421,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia \u0026 The Weeknd",
         "title":  "Moth To A Flame",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3422,
         "votes":  0
     },
     {
         "artist":  "Jauri \u0026 Rackwheel",
         "title":  "Tom\u0027s Diner",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3423,
         "votes":  0
     },
     {
         "artist":  "Paul van Dyk",
         "title":  "For An Angel (PvD\u0027s E-Werk Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3424,
         "votes":  0
     },
     {
         "artist":  "Lenny Pearce",
         "title":  "The Wheels On The Bus (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3425,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Dannic",
         "title":  "Survivors (feat. Haris)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3426,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "In Your Eyes (feat. Alida)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3427,
         "votes":  0
     },
     {
         "artist":  "Unknown Brain \u0026 Chris Linton",
         "title":  "Superhero",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3428,
         "votes":  0
     },
     {
         "artist":  "Orjan Nilsen",
         "title":  "Don",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3429,
         "votes":  0
     },
     {
         "artist":  "Exis",
         "title":  "Wisecracker",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3430,
         "votes":  0
     },
     {
         "artist":  "Ramin Djawadi \u0026 Armin van Buuren",
         "title":  "Game Of Thrones Theme (Armin van Buuren Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3431,
         "votes":  0
     },
     {
         "artist":  "Sonic One vs twoloud",
         "title":  "The Drums (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3432,
         "votes":  0
     },
     {
         "artist":  "Bart B More \u0026 Nom De Strip",
         "title":  "Nom De Strip Edit (Nom De Strip Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3433,
         "votes":  0
     },
     {
         "artist":  "Falco",
         "title":  "Out of the Dark (Donauinsel 2017 Live)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3434,
         "votes":  0
     },
     {
         "artist":  "Faithless",
         "title":  "We Come 1 2.0 (Armin Van Buuren Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3435,
         "votes":  0
     },
     {
         "artist":  "Jebroer, Paul Elstak \u0026 Dr Phunk",
         "title":  "Kind van de Duivel",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3436,
         "votes":  0
     },
     {
         "artist":  "Armin Vann Buuren vs Headhunterz",
         "title":  "Another you (Oxsid Mashup)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3437,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 Garibay Feat. Olaf Blackwood",
         "title":  "I Need You (Andrew Rayel Remix) - Official Audio",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3438,
         "votes":  0
     },
     {
         "artist":  "Adam Lambert",
         "title":  "Ghost Town",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3439,
         "votes":  0
     },
     {
         "artist":  "Hardwell feat. Harrison",
         "title":  "Sally vs Smell like teen spirit (Mashup) By [ Swedish Panama ]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3440,
         "votes":  0
     },
     {
         "artist":  "HIIO \u0026 Lucas Blanco",
         "title":  "Good Enough",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3441,
         "votes":  0
     },
     {
         "artist":  "MOTi \u0026 Kenneth G",
         "title":  "Zeus",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3442,
         "votes":  0
     },
     {
         "artist":  "R3hab",
         "title":  "Samurai (Tiësto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3443,
         "votes":  0
     },
     {
         "artist":  "Tiësto",
         "title":  "Rocky",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3444,
         "votes":  0
     },
     {
         "artist":  "Sander van Doorn, Martin Garrix \u0026 DVBBS feat  Aleesia",
         "title":  "Gold Skies (Tiesto Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3445,
         "votes":  0
     },
     {
         "artist":  "Allure \u0026 Tiësto",
         "title":  "Pair of Dice",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3446,
         "votes":  0
     },
     {
         "artist":  "MEDUZA \u0026 HAYLA",
         "title":  "Another World",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3447,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "Spaceman (Headhunterz Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3448,
         "votes":  0
     },
     {
         "artist":  "HBz \u0026 2 Engel \u0026 Charlie",
         "title":  "Erinner mich (KXXMA Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3449,
         "votes":  0
     },
     {
         "artist":  "W\u0026W \u0026 Hardwell",
         "title":  "Jumper",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3450,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "The Hills",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3451,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Starboy (feat. Daft Punk)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3452,
         "votes":  0
     },
     {
         "artist":  "Joost",
         "title":  "Europapa",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3453,
         "votes":  0
     },
     {
         "artist":  "SimonBeats",
         "title":  "Give Me Everything vs Love Tonight (Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3454,
         "votes":  0
     },
     {
         "artist":  "BASSTON, STRØBE \u0026 Tazzy",
         "title":  "BE MY LOVER (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3455,
         "votes":  0
     },
     {
         "artist":  "Tream \u0026 treamiboii",
         "title":  "RHYTHM OF MY LIFE",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3456,
         "votes":  0
     },
     {
         "artist":  "Shaboozey",
         "title":  "A Bar Song (Tipsy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3457,
         "votes":  0
     },
     {
         "artist":  "Jim Aves \u0026 Megan",
         "title":  "Safe And Sound",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3458,
         "votes":  0
     },
     {
         "artist":  "ANGUISH, AmbVsh, ily",
         "title":  "We Fell Apart (Slowed)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3459,
         "votes":  0
     },
     {
         "artist":  "Disturbed",
         "title":  "The Sound of Silence (CYRIL Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3460,
         "votes":  0
     },
     {
         "artist":  "AHM",
         "title":  "The Bad Touch (Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3461,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Steve Aoki, Sound of Legend \u0026 Ann Lee",
         "title":  "2 Times",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3462,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 OneRepublic",
         "title":  "I Don\u0027t Wanna Wait (Hardwell \u0026 Olly James Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3463,
         "votes":  0
     },
     {
         "artist":  "Blaze U \u0026 MeSSy",
         "title":  "Hotel Room Service (Techno Remix) (feat. ZHIKO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3464,
         "votes":  0
     },
     {
         "artist":  "Marvin Gaye",
         "title":  "Sexual Healing (Kygo Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3465,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, Ferry Corsten, Rank 1 \u0026 Ruben de Ronde",
         "title":  "Destination (A State of Trance 2024 Anthem) (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3466,
         "votes":  0
     },
     {
         "artist":  "ACRAZE",
         "title":  "Take Me Away",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3467,
         "votes":  0
     },
     {
         "artist":  "Bakermat",
         "title":  "One Day (Vandaag) (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3468,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz, David Guetta \u0026 Cheat Codes",
         "title":  "Shed a Light",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3469,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Alesso",
         "title":  "Never Going Home Tonight [KAAZE Remix] (feat. Madison Love)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3470,
         "votes":  0
     },
     {
         "artist":  "Nifra, 2 Unlimited \u0026 Hardwell",
         "title":  "Control Your Body (Hardwell Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3471,
         "votes":  0
     },
     {
         "artist":  "Eli Brown",
         "title":  "Trick Daddy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3472,
         "votes":  0
     },
     {
         "artist":  "DJ HEARTSTRING \u0026 southstar",
         "title":  "Don\u0027t Stop",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3473,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 GLOWINTHEDARK",
         "title":  "Ain\u0027t a Party (Radio Edit) (feat. Harrison)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3474,
         "votes":  0
     },
     {
         "artist":  "The Chainsmokers",
         "title":  "Don\u0027t Let Me Down (feat. Daya)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3475,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Hannah (the sun)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3476,
         "votes":  0
     },
     {
         "artist":  "Four Tet",
         "title":  "Baby",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3477,
         "votes":  0
     },
     {
         "artist":  "DJ Nardini E Jhona!",
         "title":  "Xerecation",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3478,
         "votes":  0
     },
     {
         "artist":  "HYPERAVE, BASSTON \u0026 Tazzy",
         "title":  "DON\u0027T STOP THE MUSIC - HYPERTECHNO",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3479,
         "votes":  0
     },
     {
         "artist":  "Skrillex, Joker, \u0026 Sleepnet",
         "title":  "Tears",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3480,
         "votes":  0
     },
     {
         "artist":  "Fred again.. \u0026 Winnie Raeder",
         "title":  "Winnie (end of me)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3481,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Danielle (smile on my face)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3482,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Angie (i’ve been lost) (feat. Angie McMahon)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3483,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Nathan (still breathing)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3484,
         "votes":  0
     },
     {
         "artist":  "SP3CTRUM \u0026 Milan Gavris",
         "title":  "Pon De Replay",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3485,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Prophecy",
         "title":  "My City (feat. Katy Tiz)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3486,
         "votes":  0
     },
     {
         "artist":  "Yung Yury \u0026 Damn Yury",
         "title":  "TABU.",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3487,
         "votes":  0
     },
     {
         "artist":  "Funky Beatz \u0026 Kate Ryan",
         "title":  "Désenchantée (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3488,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Dermot (see yourself in my eyes) (feat. Dermot Kennedy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3489,
         "votes":  0
     },
     {
         "artist":  "Sebastian Ingrosso \u0026 Tommy Trash",
         "title":  "Reload (Extended Mix) (feat. John Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3490,
         "votes":  0
     },
     {
         "artist":  "Nina Simone \u0026 Felix Da Housecat",
         "title":  "Sinnerman (Felix Da Housecat\u0027s Heavenly House Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3491,
         "votes":  0
     },
     {
         "artist":  "Bingo Players",
         "title":  "Get Up (Rattle) (feat. Far East Movement)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3492,
         "votes":  0
     },
     {
         "artist":  "Pharoahe Monch",
         "title":  "Simon Says (DON DARKOE Banned Remix) (Free Download)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3493,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Liar Liar (Avicii By Avicii)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3494,
         "votes":  0
     },
     {
         "artist":  "Eli Brown",
         "title":  "Be The One",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3495,
         "votes":  0
     },
     {
         "artist":  "MOGUAI",
         "title":  "ACIIID (Kryder x Benny Benassi Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3496,
         "votes":  0
     },
     {
         "artist":  "Alexander Technique",
         "title":  "Free Your Soul (feat. Juan Cordovi)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3497,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 KAAZE",
         "title":  "Move",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3498,
         "votes":  0
     },
     {
         "artist":  "Soul Central",
         "title":  "Strings Of Life (Supernova Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3499,
         "votes":  0
     },
     {
         "artist":  "Ango Tamarin",
         "title":  "Have A Nice Day ;)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3500,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Darren Styles",
         "title":  "Summer Dream Of Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3501,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Tate (how i feel)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3502,
         "votes":  0
     },
     {
         "artist":  "Potatoheadz",
         "title":  "Narcotic (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3503,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren \u0026 D.O.D",
         "title":  "By Now (feat. Laura Welsh)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3504,
         "votes":  0
     },
     {
         "artist":  "RÜFÜS DU SOL",
         "title":  "Innerbloom (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3505,
         "votes":  0
     },
     {
         "artist":  "Kevin McKay, James Cole, \u0026 Darcey",
         "title":  "Somebody That I Used To Know (Extended Mix) (feat. Simon Ellis)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3506,
         "votes":  0
     },
     {
         "artist":  "Ely Oaks",
         "title":  "Turn Me On",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3507,
         "votes":  0
     },
     {
         "artist":  "BASSTON, Techno Tazzy \u0026 Tazzy",
         "title":  "CAN\u0027T GET YOU OUT OF MY HEAD (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3508,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx \u0026 DBSTF",
         "title":  "Parnassia (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3509,
         "votes":  0
     },
     {
         "artist":  "Eli Brown",
         "title":  "Believe (Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3510,
         "votes":  0
     },
     {
         "artist":  "Black Bandana",
         "title":  "full song - Hitman_ absolution credits song",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3511,
         "votes":  0
     },
     {
         "artist":  "Hyper Hamster, PET3RPUNX \u0026 Techno Cats",
         "title":  "Bulletproof (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3512,
         "votes":  0
     },
     {
         "artist":  "Steve Aoki \u0026 Just_us",
         "title":  "Better Run",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3513,
         "votes":  0
     },
     {
         "artist":  "Dillon Francis",
         "title":  "Get Low (Armin van Buuren Remix) (feat. DJ Snake)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3514,
         "votes":  0
     },
     {
         "artist":  "Dom Dolla \u0026 Layton Giordani",
         "title":  "girl$ (Layton Giordani Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3515,
         "votes":  0
     },
     {
         "artist":  "Vintage Culture \u0026 Yellowitz",
         "title":  "Just Like Home (Kevin de Vries Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3516,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "In Your Eyes (Nicky Romero Remix) (feat. Alida)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3517,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt",
         "title":  "It\u0027s That Time (FISHER Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3518,
         "votes":  0
     },
     {
         "artist":  "Kaaze",
         "title":  "Papi (feat. Alina Pozi)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3519,
         "votes":  0
     },
     {
         "artist":  "Shaboozey",
         "title":  "A Bar Song (Tipsy) [Remix]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3520,
         "votes":  0
     },
     {
         "artist":  "Eminem",
         "title":  "Love The Way You Lie (feat. Rihanna)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3521,
         "votes":  0
     },
     {
         "artist":  "Tinlicker \u0026 Robert Miles",
         "title":  "Children (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3522,
         "votes":  0
     },
     {
         "artist":  "New Radicals",
         "title":  "You Get What You Give",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3523,
         "votes":  0
     },
     {
         "artist":  "Spice \u0026 AGNEZ MO",
         "title":  "Get Loose (Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3524,
         "votes":  0
     },
     {
         "artist":  "Sia",
         "title":  "Move Your Body (Alan Walker Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3525,
         "votes":  0
     },
     {
         "artist":  "Stan Christ",
         "title":  "Trepidation",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3526,
         "votes":  0
     },
     {
         "artist":  "John Newman",
         "title":  "Love Me Again (Gemini Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3527,
         "votes":  0
     },
     {
         "artist":  "Toby Green",
         "title":  "Work It",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3528,
         "votes":  0
     },
     {
         "artist":  "The Chemical Brothers \u0026 ARTBAT",
         "title":  "Hey Boy Hey Girl (ARTBAT Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3529,
         "votes":  0
     },
     {
         "artist":  "Linkin Park",
         "title":  "New Divide (Acapella)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3530,
         "votes":  0
     },
     {
         "artist":  "deadmau5, Benny Benassi \u0026 Gary Go",
         "title":  "The Veldt Cinema (BYNX Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3531,
         "votes":  0
     },
     {
         "artist":  "John Summit \u0026 Hayla",
         "title":  "Shiver (Cassian Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3532,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 Outsiders",
         "title":  "Falling In Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3533,
         "votes":  0
     },
     {
         "artist":  "Kevin de Vries",
         "title":  "Dance With Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3534,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Siente Me (feat. Calavera \u0026 Manya)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3535,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Are You With Me (Deluxe Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3536,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "Locked out of Heaven",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3537,
         "votes":  0
     },
     {
         "artist":  "Olly Murs",
         "title":  "Troublemaker (feat. Flo Rida)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3538,
         "votes":  0
     },
     {
         "artist":  "Chemical Surf",
         "title":  "Hey Hey Hey",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3539,
         "votes":  0
     },
     {
         "artist":  "Axwell __ Ingrosso \u0026 Sebastian Ingrosso",
         "title":  "Sun Is Shining",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3540,
         "votes":  0
     },
     {
         "artist":  "swelavin",
         "title":  "Dont Stop The Music Levrone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3541,
         "votes":  0
     },
     {
         "artist":  "Enrique Iglesias",
         "title":  "I Like It (feat. Pitbull)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3542,
         "votes":  0
     },
     {
         "artist":  "HBz, Stevio \u0026 2 Engel \u0026 Charlie",
         "title":  "Geiles Leben",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3543,
         "votes":  0
     },
     {
         "artist":  "ILYAA, Now O Later \u0026 Mozix",
         "title":  "Summertime Sadness (feat. EMMY)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3544,
         "votes":  0
     },
     {
         "artist":  "DJ Bountyhunter",
         "title":  "Woops",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3545,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "Scorpion (Hardwell Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3546,
         "votes":  0
     },
     {
         "artist":  "PAIN",
         "title":  "Party In My Head (Zardonic \u0026 Levia Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3547,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "No Holding Back (Henry Fong Remix) (feat. Craig David)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3548,
         "votes":  0
     },
     {
         "artist":  "Alexandra Badoi \u0026 Andrew Rayel",
         "title":  "Goodbye",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3549,
         "votes":  0
     },
     {
         "artist":  "Chase \u0026 Status \u0026 Bou",
         "title":  "Baddadan (feat. IRAH, Flowdan, Trigga \u0026 Takura)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3550,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Matisse \u0026 Sadko",
         "title":  "Break Through The Silence (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3551,
         "votes":  0
     },
     {
         "artist":  "Jones \u0026 Stephenson",
         "title":  "The First Rebirth (Original Remastered Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3552,
         "votes":  0
     },
     {
         "artist":  "Jonas Blue",
         "title":  "Perfect Strangers (feat. JP Cooper)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3553,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "【纯享】《#Rolling in the Deep 》#KZ谭定安  菲式烟嗓炸场 高音海啸席卷听众天灵盖!_ 歌手2018 _ Singer2018 _ MangoTV Music",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3554,
         "votes":  0
     },
     {
         "artist":  "Klaas, Marc Korn \u0026 Danny Suko",
         "title":  "Dreams (Will Come Alive) (Klaas Remix) (feat. DJ Squared)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3555,
         "votes":  0
     },
     {
         "artist":  "Quintino",
         "title":  "Brasil Connect Remix (BB NonStop Edition)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3556,
         "votes":  0
     },
     {
         "artist":  "Albert Vishi",
         "title":  "Alan Walker Style , Adele - Set Fire To The Rain (Albert Vishi Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3557,
         "votes":  0
     },
     {
         "artist":  "Maddix",
         "title":  "Heute Nacht (Sped Up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3558,
         "votes":  0
     },
     {
         "artist":  "Lana Del Rey",
         "title":  "Say Yes To Heaven",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3559,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Kyren (My Son)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3560,
         "votes":  0
     },
     {
         "artist":  "Fred again.. \u0026 Jozzy",
         "title":  "ten",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3561,
         "votes":  0
     },
     {
         "artist":  "Alexandra Stan",
         "title":  "Mr. Saxobeat (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3562,
         "votes":  0
     },
     {
         "artist":  "TEKKNO",
         "title":  "paradise tekkno (sped up)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3563,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Wake Me Up",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3564,
         "votes":  0
     },
     {
         "artist":  "Bassjackers \u0026 Wasback",
         "title":  "Set Me Free",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3565,
         "votes":  0
     },
     {
         "artist":  "Eurythmics",
         "title":  "Sweet Dreams (Are Made of This) (2005 Remaster)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3566,
         "votes":  0
     },
     {
         "artist":  "Delerium feat. Sarah McLachlan",
         "title":  "Silence (Tiesto\u0027s In Search of Sunrise Remix) [HD]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3567,
         "votes":  0
     },
     {
         "artist":  "Ruppi van Daline",
         "title":  "Hello Ruppicore",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3568,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Club Can\u0027t Handle Me (feat. David Guetta) (Manufactured Superstars Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3569,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Silhouettes (Original Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3570,
         "votes":  0
     },
     {
         "artist":  "DJ Tekket",
         "title":  "Only Girl (In The World) (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3571,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia \u0026 Alicia Keys",
         "title":  "Finally",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3572,
         "votes":  0
     },
     {
         "artist":  "STVW \u0026 Tatsunoshin",
         "title":  "Good Time (feat. Møf-Lo \u0026 Giin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3573,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Time _ Reload (Live from New York) (feat. Tommy Trash)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3574,
         "votes":  0
     },
     {
         "artist":  "PET3RPUNX \u0026 LUCKY DEMON \u0026 Mr Demon",
         "title":  "Somebody\u0027s Watching Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3575,
         "votes":  0
     },
     {
         "artist":  "GREGG",
         "title":  "Disturbia",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3576,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Can U Feel It _ It Gets Better _ Greyhound (Live From New York)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3577,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "Adam (interlude)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3578,
         "votes":  0
     },
     {
         "artist":  "Fred again..",
         "title":  "17th December 2020 (Waterloo Station)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3579,
         "votes":  0
     },
     {
         "artist":  "SP3CTRUM",
         "title":  "Love Lockdown",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3580,
         "votes":  0
     },
     {
         "artist":  "Jessie J",
         "title":  "Domino",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3581,
         "votes":  0
     },
     {
         "artist":  "Niklas Dee \u0026 Old Jim",
         "title":  "Not Fair (feat. Enny-Mae)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3582,
         "votes":  0
     },
     {
         "artist":  "Train",
         "title":  "Drive By (Lyrics)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3583,
         "votes":  0
     },
     {
         "artist":  "Zerb \u0026 The Chainsmokers",
         "title":  "Addicted (feat. Ink)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3584,
         "votes":  0
     },
     {
         "artist":  "Luca-Dante Spadafora, Sigma",
         "title":  "Nobody To Love (By Luca)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3585,
         "votes":  0
     },
     {
         "artist":  "Sub Focus",
         "title":  "Wildfire",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3586,
         "votes":  0
     },
     {
         "artist":  "BL3SS \u0026 CamrinWatsin",
         "title":  "Kisses (feat. bbyclose)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3587,
         "votes":  0
     },
     {
         "artist":  "Maddix \u0026 Fēlēs",
         "title":  "My Gasoline",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3588,
         "votes":  0
     },
     {
         "artist":  "devin",
         "title":  "NOT ANGRY",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3589,
         "votes":  0
     },
     {
         "artist":  "yungalligator",
         "title":  "baby, i need you",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3590,
         "votes":  0
     },
     {
         "artist":  "Hardwell \u0026 W\u0026W",
         "title":  "Don\u0027t Stop the Madness (feat. Fatman Scoop)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3591,
         "votes":  0
     },
     {
         "artist":  "Sonny Wern, Lyente, Quinten Circle \u0026 ZANA",
         "title":  "Dance For Me (1, 2, 3) (Stutter Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3592,
         "votes":  0
     },
     {
         "artist":  "Luude \u0026 Mattafix",
         "title":  "Big City Life",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3593,
         "votes":  0
     },
     {
         "artist":  "Pitbull \u0026 Kesha",
         "title":  "Timber",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3594,
         "votes":  0
     },
     {
         "artist":  "Sonny Fodera, Jazzy \u0026 D.O.D",
         "title":  "Somedays",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3595,
         "votes":  0
     },
     {
         "artist":  "James Hype",
         "title":  "Lose Control",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3596,
         "votes":  0
     },
     {
         "artist":  "Obskür \u0026 Tomike",
         "title":  "I\u0027ve Arrived (with Tomike)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3597,
         "votes":  0
     },
     {
         "artist":  "Matt Sassari",
         "title":  "Give It To Me (Full Vocal Mix - Extended)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3598,
         "votes":  0
     },
     {
         "artist":  "Braaheim, ILYAA, Robbe \u0026 URBANO",
         "title":  "Telephone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3599,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies \u0026 Bastille",
         "title":  "Head Down",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3600,
         "votes":  0
     },
     {
         "artist":  "Mr. Belt \u0026 Wezol",
         "title":  "It\u0027s Not Right But It\u0027s Okay",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3601,
         "votes":  0
     },
     {
         "artist":  "Curbi",
         "title":  "Flying (extended mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3602,
         "votes":  0
     },
     {
         "artist":  "millforlife \u0026 Kajo",
         "title":  "Mind",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3603,
         "votes":  0
     },
     {
         "artist":  "Akon",
         "title":  "Troublemaker (feat. Sweet Rush)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3604,
         "votes":  0
     },
     {
         "artist":  "2 Chainz \u0026 Wiz Khalifa",
         "title":  "We Own It (Fast \u0026 Furious)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3605,
         "votes":  0
     },
     {
         "artist":  "Klaas \u0026 Michael Roman",
         "title":  "Popcorn (LA Night)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3606,
         "votes":  0
     },
     {
         "artist":  "Afrojack \u0026 Shermanology",
         "title":  "Can\u0027t Stop Me (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3607,
         "votes":  0
     },
     {
         "artist":  "FÄIS \u0026 AFROJACK",
         "title":  "Used To Have It All",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3608,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Sia",
         "title":  "Let\u0027s Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3609,
         "votes":  0
     },
     {
         "artist":  "Alesso \u0026 John Alto",
         "title":  "Lonely Heart",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3610,
         "votes":  0
     },
     {
         "artist":  "Konstantin Sibold",
         "title":  "Lost in Space (with KAF3R) (feat. KAF3R)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3611,
         "votes":  0
     },
     {
         "artist":  "Alok \u0026 Firebeatz",
         "title":  "Higher State Of Consciousness",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3612,
         "votes":  0
     },
     {
         "artist":  "ROVA",
         "title":  "Say My Name",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3613,
         "votes":  0
     },
     {
         "artist":  "Jax Jones \u0026 Azteck",
         "title":  "Love The Way You Lie [Extended Mix] (feat. Norma Jean Martine)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3614,
         "votes":  0
     },
     {
         "artist":  "三代目 J Soul Brothers from EXILE TRIBE",
         "title":  "Summer Madness feat. Afrojack",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3615,
         "votes":  0
     },
     {
         "artist":  "Delta Heavy",
         "title":  "Ecstasy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3616,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Blinding Lights",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3617,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Kill Me Slow",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3618,
         "votes":  0
     },
     {
         "artist":  "A$AP Ferg",
         "title":  "Plain Jane",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3619,
         "votes":  0
     },
     {
         "artist":  "Kanye West",
         "title":  "Monster (feat. JAY-Z, Rick Ross, Nicki Minaj \u0026 Bon Iver)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3620,
         "votes":  0
     },
     {
         "artist":  "XG",
         "title":  "WOKE UP",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3621,
         "votes":  0
     },
     {
         "artist":  "Dirtyphonics \u0026 Circadian",
         "title":  "You Want Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3622,
         "votes":  0
     },
     {
         "artist":  "The Kid LAROI \u0026 Justin Bieber",
         "title":  "STAY",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3623,
         "votes":  0
     },
     {
         "artist":  "Afrojack, Lucas \u0026 Steve \u0026 DubVision",
         "title":  "Anywhere With You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3624,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Impossible (feat. John Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3625,
         "votes":  0
     },
     {
         "artist":  "Afrojack and Brohug",
         "title":  "Let It Rip ft Titus (VONIK \u0026 FENG CHU Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3626,
         "votes":  0
     },
     {
         "artist":  "Tyla",
         "title":  "Water",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3627,
         "votes":  0
     },
     {
         "artist":  "AFROJACK",
         "title":  "Chain Gang",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3628,
         "votes":  0
     },
     {
         "artist":  "Archer Marsh",
         "title":  "Give Me Everything (Stripped Down)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3629,
         "votes":  0
     },
     {
         "artist":  "Tiësto \u0026 Afrojack",
         "title":  "Light It Up (feat. MC Ambush)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3630,
         "votes":  0
     },
     {
         "artist":  "Teriyaki Boyz",
         "title":  "TOKYO DRIFT(FAST \u0026 FURIOUS) (『ワイルドスピードX3 TOKYO DRIFT』より ) - Tokyo Drift (Fast \u0026 Furious) (From The Fast And The Furious_ Tokyo Drift Soundtrack)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3631,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Save My Life (feat. Lovespeake)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3632,
         "votes":  0
     },
     {
         "artist":  "Matroda, Martin Ikin \u0026 Sian-Lee",
         "title":  "4U",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3633,
         "votes":  0
     },
     {
         "artist":  "ARTBAT",
         "title":  "Horizon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3634,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Shakira   La La La Brazil 2014 ft Carlinhos Brown",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3635,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Detroit 3 AM (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3636,
         "votes":  0
     },
     {
         "artist":  "Project Frenzy",
         "title":  "Rebirth",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3637,
         "votes":  0
     },
     {
         "artist":  "Inoblivion",
         "title":  "Exit Point (Ellez Ria Pres. Sound State Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3638,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 MORTEN",
         "title":  "Nothing",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3639,
         "votes":  0
     },
     {
         "artist":  "Binary Finary",
         "title":  "1998 (Alex M.O.R.P.H. Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3640,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz",
         "title":  "Speechless (Extended Mix) (feat. Erika Sirola)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3641,
         "votes":  0
     },
     {
         "artist":  "Alan Fitzpatrick",
         "title":  "We Do What We Want",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3642,
         "votes":  0
     },
     {
         "artist":  "Alex LeMirage",
         "title":  "LEAVE IT ALL BEHIND",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3643,
         "votes":  0
     },
     {
         "artist":  "Flex (UK) \u0026 Nate Dogg",
         "title":  "6 In the Morning (Ely Oaks Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3644,
         "votes":  0
     },
     {
         "artist":  "Fyex, PET3RPUNX, HYPER DEMON \u0026 Mr Demon",
         "title":  "Black and Yellow",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3645,
         "votes":  0
     },
     {
         "artist":  "The Gym Allstars",
         "title":  "Two Times",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3646,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Love Don\u0027t Let Me Go",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3647,
         "votes":  0
     },
     {
         "artist":  "AC Slater \u0026 Curbi",
         "title":  "Crave The Bassline (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3648,
         "votes":  0
     },
     {
         "artist":  "Quintino \u0026 Outsiders",
         "title":  "Das Armas",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3649,
         "votes":  0
     },
     {
         "artist":  "Hardwell",
         "title":  "No Sleep (feat. Sarah de Warren)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3650,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 DJ Daddy Trance",
         "title":  "I Got You",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3651,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 DJ Daddy Trance",
         "title":  "Call Me",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3652,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, Dimension, \u0026 DJ Daddy Trance",
         "title":  "It\u0027s That Time (Dimension Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3653,
         "votes":  0
     },
     {
         "artist":  "badkarma",
         "title":  "yumi x fake id (slowed + reverb)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3654,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Love Is The Only Thing",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3655,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, DJ Daddy Trance \u0026 blazey",
         "title":  "My Mama Dropped LSD in the 90\u0027s",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3656,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, DJ Daddy Trance \u0026 Luciana",
         "title":  "We Want More",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3657,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 DJ Daddy Trance",
         "title":  "Day \u0027N\u0027 Night",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3658,
         "votes":  0
     },
     {
         "artist":  "Artemas",
         "title":  "I Like The Way You Kiss Me (Marlon Hoffstadt aka DJ Daddy Trance Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3659,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, DJ Daddy Trance, \u0026 Coach Harrison",
         "title":  "Tell Me Daddy",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3660,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, Coach Harrison \u0026 DJ Daddy Trance",
         "title":  "Earthquake",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3661,
         "votes":  0
     },
     {
         "artist":  "MORTEN",
         "title":  "Beautiful Heartbeat (Avicii Remix) (feat. Frida Sundemo)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3662,
         "votes":  0
     },
     {
         "artist":  "Klubbheads",
         "title":  "Kickin\u0027 Hard (DJ Daddy Trance Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3663,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 DJ Daddy Trance",
         "title":  "Don\u0027t Stop The Party",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3664,
         "votes":  0
     },
     {
         "artist":  "TREN HARDSTYLE",
         "title":  "blue (da ba dee) hardstyle hardstyle",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3665,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, Coach Harrison \u0026 DJ Daddy Trance",
         "title":  "Tough Times",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3666,
         "votes":  0
     },
     {
         "artist":  "Elley Duhé, Whethan \u0026 Marlon Hoffstadt",
         "title":  "MONEY ON THE DASH (Marlon Hoffstadt aka DJ Daddy Trance Remix) (feat. DJ Daddy Trance)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3667,
         "votes":  0
     },
     {
         "artist":  "Lock \u0027N Load",
         "title":  "Blow Ya Mind (DJ Daddy Trance Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3668,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 Dangerous Dreaming",
         "title":  "Need Me (Short Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3669,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 DJ Daddy Trance",
         "title":  "Daddy\u0027s Groove",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3670,
         "votes":  0
     },
     {
         "artist":  "Lawstylez, JONIX \u0026 RAMSES",
         "title":  "We Found Love (Hardstyle)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3671,
         "votes":  0
     },
     {
         "artist":  "Sam Smith \u0026 Madonna",
         "title":  "VULGAR (Marlon Hoffstadt Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3672,
         "votes":  0
     },
     {
         "artist":  "Malugi \u0026 Marlon Hoffstadt",
         "title":  "Faster Alone",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3673,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 DJ Daddy Trance",
         "title":  "The Heat (DJ Heartstring Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3674,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt",
         "title":  "Bass Is Pumping",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3675,
         "votes":  0
     },
     {
         "artist":  "Malugi \u0026 Marlon Hoffstadt",
         "title":  "Further Together",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3676,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt",
         "title":  "A Dreamer Dreams",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3677,
         "votes":  0
     },
     {
         "artist":  "Bassjackers \u0026 Sonny Wern",
         "title":  "Traffic Lights",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3678,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 DJ Daddy Trance",
         "title":  "030 Original",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3679,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 Racquet",
         "title":  "Crumble",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3680,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt",
         "title":  "To All Believers",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3681,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt",
         "title":  "Until Infinity",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3682,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 Dangerous Dreaming",
         "title":  "Trouble Shooter (Dub Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3683,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt",
         "title":  "Ode to Sunset",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3684,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt",
         "title":  "With You By My Side",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3685,
         "votes":  0
     },
     {
         "artist":  "İbrahim Çelik",
         "title":  "Haligard",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3686,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt \u0026 HRRSN",
         "title":  "Once Again (Oliver Koletzki Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3687,
         "votes":  0
     },
     {
         "artist":  "Cherrymoon Trax",
         "title":  "The House Of House (Remastered Original Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3688,
         "votes":  0
     },
     {
         "artist":  "Cherrymoon Trax",
         "title":  "The House Of House (Original Remastered Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3689,
         "votes":  0
     },
     {
         "artist":  "Anyma \u0026 Rebūke",
         "title":  "Syren",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3690,
         "votes":  0
     },
     {
         "artist":  "Cherrymoon Trax",
         "title":  "The House Of House (Remastered Thomas Schumacher Remix) (feat. Thomas Schumacher)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3691,
         "votes":  0
     },
     {
         "artist":  "Arnon",
         "title":  "G Paradise (feat. Jonisa)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3692,
         "votes":  0
     },
     {
         "artist":  "Kalwi \u0026 Remi",
         "title":  "Explosion (AXMO Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3693,
         "votes":  0
     },
     {
         "artist":  "BASSTON, Techno Tazzy \u0026 Tazzy",
         "title":  "STAN (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3694,
         "votes":  0
     },
     {
         "artist":  "Martin Vide",
         "title":  "Hung Up (feat. Rosebud)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3695,
         "votes":  0
     },
     {
         "artist":  "BASSTON \u0026 Tazzy",
         "title":  "COOL KIDS (TECHNO SPED UP)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3696,
         "votes":  0
     },
     {
         "artist":  "BASSTON, STRØBE \u0026 Tazzy",
         "title":  "LAST FRIDAY NIGHT - (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3697,
         "votes":  0
     },
     {
         "artist":  "Morten Breum",
         "title":  "Every Time (You Look at Me) (feat. Sisse Marie)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3698,
         "votes":  0
     },
     {
         "artist":  "BYØRN",
         "title":  "Adagio For Strings (VIP Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3699,
         "votes":  0
     },
     {
         "artist":  "BASSTON, Techno Tazzy \u0026 Tazzy",
         "title":  "DOWN UNDER (TECHNO)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3700,
         "votes":  0
     },
     {
         "artist":  "teknolix \u0026 Way 2 Fast",
         "title":  "Pumped Up Kicks (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3701,
         "votes":  0
     },
     {
         "artist":  "HYPER DEMON, Aiden Music \u0026 Mr Demon",
         "title":  "Just Dance",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3702,
         "votes":  0
     },
     {
         "artist":  "Tektony, teknolix \u0026 Way 2 Fast",
         "title":  "Everytime We Touch (Techno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3703,
         "votes":  0
     },
     {
         "artist":  "Way 2 Fast \u0026 Way 2 Hard",
         "title":  "Apologize (Hypertechno)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3704,
         "votes":  0
     },
     {
         "artist":  "BASSTON \u0026 Tazzy",
         "title":  "SKYFALL (TECHNO SPED UP)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3705,
         "votes":  0
     },
     {
         "artist":  "Aaron Hibell \u0026 Alex Wann",
         "title":  "set me free",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3706,
         "votes":  0
     },
     {
         "artist":  "Empire Of The Sun",
         "title":  "DNA (Calvin Harris Remix Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3707,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "California Gurls (feat. Snoop Dogg)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3708,
         "votes":  0
     },
     {
         "artist":  "2 Unlimited",
         "title":  "No Limit",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3709,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "Baby (feat. Ludacris)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3710,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Mike Posner Cooler Than Me (Gigamesh remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3711,
         "votes":  0
     },
     {
         "artist":  "Far East Movement, The Cataracs \u0026 DEV",
         "title":  "Like A G6",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3712,
         "votes":  0
     },
     {
         "artist":  "Maxx",
         "title":  "Get A Way",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3713,
         "votes":  0
     },
     {
         "artist":  "Bountyhunter, Dimitri Vegas \u0026 Junkie Kid",
         "title":  "Woops (Dimitri Vegas \u0026 Junkie Kid Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3714,
         "votes":  0
     },
     {
         "artist":  "Masterboy",
         "title":  "Feel the heat of the night (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3715,
         "votes":  0
     },
     {
         "artist":  "Supermode, Axwell, \u0026 Steve Angello",
         "title":  "Tell Me Why (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3716,
         "votes":  0
     },
     {
         "artist":  "Lasgo",
         "title":  "Something (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3717,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Armin van Buuren \u0026 Vini Vici",
         "title":  "Universal Nation [Live At Tomorrowland] (feat. Push)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3718,
         "votes":  0
     },
     {
         "artist":  "Kate Ryan",
         "title":  "Désenchantée",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3719,
         "votes":  0
     },
     {
         "artist":  "Masterboy",
         "title":  "Generation of love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3720,
         "votes":  0
     },
     {
         "artist":  "SNAP!",
         "title":  "Rhythm Is a Dancer (12\u0027\u0027 Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3721,
         "votes":  0
     },
     {
         "artist":  "Masterboy",
         "title":  "Feel the fire",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3722,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Live at Ultra Europe 2018 (Highlights) [Mix Cut]",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3723,
         "votes":  0
     },
     {
         "artist":  "Cosmic Gate",
         "title":  "Exploration of Space",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3724,
         "votes":  0
     },
     {
         "artist":  "The Hitmen",
         "title":  "The Love Below (Money-G Remix) (feat. DT James)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3725,
         "votes":  0
     },
     {
         "artist":  "The Hitmen",
         "title":  "Monsters in My Bed",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3726,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Martin Garrix \u0026 @Afrojack_ Turn Up The Speakers (Radio Edit) (High Tone) (2014)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3727,
         "votes":  0
     },
     {
         "artist":  "Vacations",
         "title":  "Young",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3728,
         "votes":  0
     },
     {
         "artist":  "R.I.O., The Hitmen \u0026 KYANU",
         "title":  "Like I Love You (KYANU Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3729,
         "votes":  0
     },
     {
         "artist":  "Fridge \u0026 The Hitmen",
         "title":  "Angel (The Hitmen Club Cut)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3730,
         "votes":  0
     },
     {
         "artist":  "Fritz Kalkbrenner",
         "title":  "Back Home (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3731,
         "votes":  0
     },
     {
         "artist":  "4 Clubbers",
         "title":  "Time (The Hitmen Remix Cut) (feat. Silvy)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3732,
         "votes":  0
     },
     {
         "artist":  "Lazard",
         "title":  "I Am Alive (The Hitmen Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3733,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Alphaville \u0026 Ava Max",
         "title":  "Forever Young",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3734,
         "votes":  0
     },
     {
         "artist":  "Kungs, David Guetta \u0026 Izzy Bizu",
         "title":  "All Night Long",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3735,
         "votes":  0
     },
     {
         "artist":  "DJ Bountyhunter",
         "title":  "Woops (Slowed + Reverb)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3736,
         "votes":  0
     },
     {
         "artist":  "Matt Guy",
         "title":  "Every Little Time",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3737,
         "votes":  0
     },
     {
         "artist":  "Culture Beat",
         "title":  "Mr. Vain (Vain Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3738,
         "votes":  0
     },
     {
         "artist":  "Zara Larsson \u0026 David Guetta",
         "title":  "On My Love",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3739,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Family Affair (Dance For Me)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3740,
         "votes":  0
     },
     {
         "artist":  "Joel Corry, RAYE \u0026 David Guetta",
         "title":  "BED",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3741,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "This One\u0027s for You (Official Song UEFA EURO 2016) (feat. Zara Larsson)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3742,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Say My Name (feat. Bebe Rexha \u0026 J Balvin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3743,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "David Guetta feat. Justin Bieber 2U _ Choreography by Anthony Lee \u0026 Vinh Nguyen",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3744,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Blah Blah Blah (Bassjackers Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3745,
         "votes":  0
     },
     {
         "artist":  "Galantis, David Guetta \u0026 5 Seconds of Summer",
         "title":  "Lighter",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3746,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 David Guetta",
         "title":  "So Far Away (feat. Jamie Scott \u0026 Romy Dya)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3747,
         "votes":  0
     },
     {
         "artist":  "Ne-Yo, Pitbull \u0026 Afrojack",
         "title":  "2 The Moon",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3748,
         "votes":  0
     },
     {
         "artist":  "Gil Glaze \u0026 Afrojack",
         "title":  "Don\u0027t Go",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3749,
         "votes":  0
     },
     {
         "artist":  "DubVision \u0026 Afrojack",
         "title":  "New Memories",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3750,
         "votes":  0
     },
     {
         "artist":  "Afrojack \u0026 DLMT",
         "title":  "Wish You Were Here (feat. Brandyn Burnette)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3751,
         "votes":  0
     },
     {
         "artist":  "Future Breeze",
         "title":  "Why Don\u0027t You Dance with Me_ (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3752,
         "votes":  0
     },
     {
         "artist":  "Afrojack \u0026 Martin Garrix",
         "title":  "Turn Up The Speakers",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3753,
         "votes":  0
     },
     {
         "artist":  "Theresa Rex",
         "title":  "Let Me Go (feat. AFROJACK)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3754,
         "votes":  0
     },
     {
         "artist":  "Afroki (Steve Aoki \u0026 Afrojack)",
         "title":  "Everything You Do (ft. Aviella)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3755,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Turn The World Into A Dancefloor (ASOT 1000 Anthem) (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3756,
         "votes":  0
     },
     {
         "artist":  "Mike Candys Feat. Evelyn, Patrick Miller",
         "title":  "2012 (If The World Would End) (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3757,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "Sun Is Up (Play \u0026 Win Radio Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3758,
         "votes":  0
     },
     {
         "artist":  "19_26 \u0026 Animal Picnic",
         "title":  "XX",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3759,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "Amazing",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3760,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Low (feat. T-Pain)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3761,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Don\u0027t Go Mad (Live from Los Angeles) (feat. Seinabo Sey)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3762,
         "votes":  0
     },
     {
         "artist":  "Chord Overstreet",
         "title":  "Hold On",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3763,
         "votes":  0
     },
     {
         "artist":  "Alex Byrka \u0026 J.Puchler",
         "title":  "No Limits",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3764,
         "votes":  0
     },
     {
         "artist":  "Nikovics",
         "title":  "Famax (Original mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3765,
         "votes":  0
     },
     {
         "artist":  "Paul Sirrell",
         "title":  "Here We Go (Extended Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3766,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren",
         "title":  "Blah Blah Blah (Lilly Palmer Extended Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3767,
         "votes":  0
     },
     {
         "artist":  "Argy, Omiki \u0026 Son of Son",
         "title":  "RITMO",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3768,
         "votes":  0
     },
     {
         "artist":  "Warp Brothers \u0026 Luca Agnelli",
         "title":  "Phatt Bass (Luca Agnelli Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3769,
         "votes":  0
     },
     {
         "artist":  "Zedd, Maren Morris \u0026 Grey",
         "title":  "The Middle (Lyric Video)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3770,
         "votes":  0
     },
     {
         "artist":  "Kygo \u0026 M83",
         "title":  "Wait - Kygo Remix (2024 Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3771,
         "votes":  0
     },
     {
         "artist":  "Charlie Jeer",
         "title":  "Her Eyes",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3772,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz \u0026 CYRIL",
         "title":  "World Gone Wild (feat. Sam Martin)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3773,
         "votes":  0
     },
     {
         "artist":  "Angrybaby",
         "title":  "BACK TO LIFE (MashBit VIP Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3774,
         "votes":  0
     },
     {
         "artist":  "Kygo \u0026 Sasha Alex Sloan",
         "title":  "I\u0027ll Wait",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3775,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "Hot (Play \u0026 Win Radio Version)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3776,
         "votes":  0
     },
     {
         "artist":  "SOULO",
         "title":  "Suffering",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3777,
         "votes":  0
     },
     {
         "artist":  "Anyma",
         "title":  "After Love (feat. Delilah Montagu)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3778,
         "votes":  0
     },
     {
         "artist":  "MatricK",
         "title":  "Hyperdrive",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3779,
         "votes":  0
     },
     {
         "artist":  "Lustral",
         "title":  "Everytime (Nalin \u0026 Kane Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3780,
         "votes":  0
     },
     {
         "artist":  "Elton John",
         "title":  "I\u0027m Still Standing",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3781,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Good Feeling (Jaywalker Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3782,
         "votes":  0
     },
     {
         "artist":  "Oliver Heldens \u0026 Armin van Buuren",
         "title":  "Freedom (feat. Sam Harper)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3783,
         "votes":  0
     },
     {
         "artist":  "I\u0027ll Take You There Choir",
         "title":  "Like a Prayer (Choir Version From “Deadpool \u0026 Wolverine”)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3784,
         "votes":  0
     },
     {
         "artist":  "Malugi",
         "title":  "Move My Body (feat. Lucy Dye)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3785,
         "votes":  0
     },
     {
         "artist":  "Malugi \u0026 Paul Sirrell",
         "title":  "Baby (Paul Sirrell Remix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3786,
         "votes":  0
     },
     {
         "artist":  "BL3SS \u0026 CamrinWatsin",
         "title":  "Kisses [Malugi Remix] (feat. bbyclose)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3787,
         "votes":  0
     },
     {
         "artist":  "Malugi \u0026 MCYL",
         "title":  "Knees Break",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3788,
         "votes":  0
     },
     {
         "artist":  "Justin Jay \u0026 Mija",
         "title":  "Summer Groove",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3789,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, BIIANCO \u0026 DJ Daddy Trance",
         "title":  "Touch My Body",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3790,
         "votes":  0
     },
     {
         "artist":  "Pakito",
         "title":  "Living on Video (Radio Edit)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3791,
         "votes":  0
     },
     {
         "artist":  "Ryan Street",
         "title":  "The Weekend (Cha Cha Co Co) (Club Mix)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3792,
         "votes":  0
     },
     {
         "artist":  "Linkin Park",
         "title":  "In the End",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3793,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Steve Aoki \u0026 3rd Wall",
         "title":  "Nessun Dorma (feat. Luciano Pavarotti)",
-        "genre":  "EDM TML",
+        "genre":  "EDM",
         "id":  3794,
         "votes":  0
     },
     {
         "artist":  "1D1R \u0026 Vacra",
         "title":  "Balade",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3795,
         "votes":  0
     },
     {
         "artist":  "Akhenaton \u0026 La Fonky Family",
         "title":  "Bad Boys de Marseille, Pt. 2 (feat. Shurik\u0027n)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3796,
         "votes":  0
     },
     {
         "artist":  "Aya Nakamura \u0026 Joé Dwèt Filé",
         "title":  "Baddies",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3797,
         "votes":  0
     },
     {
         "artist":  "Aya Nakamura",
         "title":  "Comportement",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3798,
         "votes":  0
     },
     {
         "artist":  "Aya Nakamura",
         "title":  "Copines",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3799,
         "votes":  0
     },
     {
         "artist":  "Aya Nakamura",
         "title":  "Djadja",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3800,
         "votes":  0
     },
     {
         "artist":  "Aya Nakamura",
         "title":  "Pookie",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3801,
         "votes":  0
     },
     {
         "artist":  "Bande Organisée",
         "title":  "SCH _ Kofs _ Jul _ Naps _ Soso Maness _ Elams _ Solda _ Houari __ Clip Officiel",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3802,
         "votes":  0
     },
     {
         "artist":  "Bande Organisée 2",
         "title":  "SCH _ Kofs _ JuL _ Alonzo _ Naps _ Soso Maness _ Elams _ Solda _ Houari __ 2024",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3803,
         "votes":  0
     },
     {
         "artist":  "Barbara Pravi",
         "title":  "Voilà",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3804,
         "votes":  0
     },
     {
         "artist":  "Benab",
         "title":  "Mon poto",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3805,
         "votes":  0
     },
     {
         "artist":  "Bleu Soleil \u0026 Luiza",
         "title":  "Soleil Bleu",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3806,
         "votes":  0
     },
     {
         "artist":  "Booba",
         "title":  "Saga",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3807,
         "votes":  0
     },
     {
         "artist":  "Bouga",
         "title":  "Belsunce Breakdown",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3808,
         "votes":  0
     },
     {
         "artist":  "Bouss",
         "title":  "Biff pas d\u0027love",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3809,
         "votes":  0
     },
     {
         "artist":  "Céline Dion",
         "title":  "Pour que tu m\u0027aimes encore",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3810,
         "votes":  0
     },
     {
         "artist":  "Charles Aznavour",
         "title":  "La bohème",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3811,
         "votes":  0
     },
     {
         "artist":  "Charlotte Cardin",
         "title":  "Feel Good",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3812,
         "votes":  0
     },
     {
         "artist":  "Chinese Man",
         "title":  "I\u0027ve got that tune",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3813,
         "votes":  0
     },
     {
         "artist":  "Dadju",
         "title":  "Jaloux",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3814,
         "votes":  0
     },
     {
         "artist":  "Dadju",
         "title":  "Reine",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3815,
         "votes":  0
     },
     {
         "artist":  "Damso \u0026 Sarah Sey",
         "title":  "Pa Pa Paw",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3816,
         "votes":  0
     },
     {
         "artist":  "Darina Victry",
         "title":  "Laisse moi t\u0027aimer",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3817,
         "votes":  0
     },
     {
         "artist":  "Dhurata Dora",
         "title":  "Zemër",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3818,
         "votes":  0
     },
     {
         "artist":  "Djadja \u0026 Dinaz",
         "title":  "Tu Sais",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3819,
         "votes":  0
     },
     {
         "artist":  "Dr. Yaro",
         "title":  "Minimum ça",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3820,
         "votes":  0
     },
     {
         "artist":  "Fonky Family",
         "title":  "Art de rue",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3821,
         "votes":  0
     },
     {
         "artist":  "Fonky Family",
         "title":  "Mystère et suspense",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3822,
         "votes":  0
     },
     {
         "artist":  "GIMS \u0026 Damso",
         "title":  "TU ME RENDS BÊTE",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3823,
         "votes":  0
     },
     {
         "artist":  "Gims \u0026 DYSTINCT",
         "title":  "SPIDER",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3824,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "\u0026 La Mano 1.9 - PARISIENNE",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3825,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "AIR FORCE BLANCHE (feat. JUL)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3826,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "APPELLE TA COPINE",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3827,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Bella",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3828,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Brisé (Pilule bleue)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3829,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Caméléon",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3830,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "CIEL",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3831,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "DO YOU LOVE ME _",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3832,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Est-ce que tu m\u0027aimes _ (Pilule bleue)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3833,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "J\u0027me tire",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3834,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Le prix à payer",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3835,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "NINAO",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3836,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "OHMA TOKITA",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3837,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Où aller",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3838,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Sapés comme jamais (Pilule bleue) (feat. Niska)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3839,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "SOIS PAS TIMIDE",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3840,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "Tu vas me manquer (Pilule bleue)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3841,
         "votes":  0
     },
     {
         "artist":  "Guy2Bezbar",
         "title":  "Monaco",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3842,
         "votes":  0
     },
     {
         "artist":  "Heuss L\u0027enfoiré",
         "title":  "Moulaga (feat. JUL)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3843,
         "votes":  0
     },
     {
         "artist":  "Héritage, Dadju \u0026 Tayc",
         "title":  "Épouse-moi",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3844,
         "votes":  0
     },
     {
         "artist":  "Héritage, Dadju \u0026 Tayc",
         "title":  "I love you",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3845,
         "votes":  0
     },
     {
         "artist":  "IAM",
         "title":  "Je danse le mia (Le Terrible Funk Remix) [Radio Edit] (Le Terrible Funk Remix; Radio Edit)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3846,
         "votes":  0
     },
     {
         "artist":  "IAM",
         "title":  "Petit frère",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3847,
         "votes":  0
     },
     {
         "artist":  "Indila",
         "title":  "Dernière danse",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3848,
         "votes":  0
     },
     {
         "artist":  "Indila",
         "title":  "Love Story",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3849,
         "votes":  0
     },
     {
         "artist":  "Indila",
         "title":  "Tourner Dans Le Vide",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3850,
         "votes":  0
     },
     {
         "artist":  "Jeck \u0026 Carla",
         "title":  "M\u0027envoler",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3851,
         "votes":  0
     },
     {
         "artist":  "Joé Dwèt Filé",
         "title":  "4 Kampé",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3852,
         "votes":  0
     },
     {
         "artist":  "Joé Dwèt Filé",
         "title":  "Jolie madame (feat. Ronisia)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3853,
         "votes":  0
     },
     {
         "artist":  "Joé Dwèt Filé",
         "title":  "Slowly",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3854,
         "votes":  0
     },
     {
         "artist":  "Josas",
         "title":  "Pichichi",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3855,
         "votes":  0
     },
     {
         "artist":  "JUL",
         "title":  "J\u0027oublie tout",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3856,
         "votes":  0
     },
     {
         "artist":  "JUL",
         "title":  "On m\u0027appelle l\u0027ovni",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3857,
         "votes":  0
     },
     {
         "artist":  "JUL",
         "title":  "Wesh alors",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3858,
         "votes":  0
     },
     {
         "artist":  "JUL, 13\u0027Organisé \u0026 L\u0027Algérino",
         "title":  "Sous le soleil (feat. Sat, Fahar, Alonzo \u0026 Le Rat Luciano)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3859,
         "votes":  0
     },
     {
         "artist":  "K-Maro",
         "title":  "Femme Like U",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3860,
         "votes":  0
     },
     {
         "artist":  "KeBlack",
         "title":  "Boucan (feat. Franglish)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3861,
         "votes":  0
     },
     {
         "artist":  "KeBlack",
         "title":  "LAISSE MOI",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3862,
         "votes":  0
     },
     {
         "artist":  "KeBlack",
         "title":  "Melrose Place (feat. Guy2Bezbar)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3863,
         "votes":  0
     },
     {
         "artist":  "KeBlack",
         "title":  "Mood",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3864,
         "votes":  0
     },
     {
         "artist":  "Keny Arkana",
         "title":  "Je me barre",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3865,
         "votes":  0
     },
     {
         "artist":  "Khaled",
         "title":  "C’est la vie",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3866,
         "votes":  0
     },
     {
         "artist":  "L\u0027Algérino",
         "title":  "Les menottes (Tching Tchang Tchong)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3867,
         "votes":  0
     },
     {
         "artist":  "L\u0027Algérino",
         "title":  "Panama",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3868,
         "votes":  0
     },
     {
         "artist":  "La Fouine",
         "title":  "Ma Meilleure (feat. Zaho)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3869,
         "votes":  0
     },
     {
         "artist":  "Lartiste",
         "title":  "Chocolat (feat. Awa Imani) (feat. Awa Imani)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3870,
         "votes":  0
     },
     {
         "artist":  "Linh",
         "title":  "Je pense à vous",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3871,
         "votes":  0
     },
     {
         "artist":  "Louane",
         "title":  "Secret",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3872,
         "votes":  0
     },
     {
         "artist":  "Lynda",
         "title":  "Fini d’espérer",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3873,
         "votes":  0
     },
     {
         "artist":  "Lynda",
         "title":  "Passe ton chemin",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3874,
         "votes":  0
     },
     {
         "artist":  "Marine",
         "title":  "Ma faute",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3875,
         "votes":  0
     },
     {
         "artist":  "Marwa Loud",
         "title":  "Bad boy",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3876,
         "votes":  0
     },
     {
         "artist":  "MHD",
         "title":  "Bébé feat Dadju paroles lyrics",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3877,
         "votes":  0
     },
     {
         "artist":  "Naps",
         "title":  "Best life (feat. Gims)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3878,
         "votes":  0
     },
     {
         "artist":  "Naps",
         "title":  "La kiffance",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3879,
         "votes":  0
     },
     {
         "artist":  "Naza \u0026 SDM",
         "title":  "Tout donner",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3880,
         "votes":  0
     },
     {
         "artist":  "Nej",
         "title":  "Paro",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3881,
         "votes":  0
     },
     {
         "artist":  "Ninho",
         "title":  "Lettre à une femme",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3882,
         "votes":  0
     },
     {
         "artist":  "Niro",
         "title":  "Qui sait _ (feat. ElGrandeToto)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3883,
         "votes":  0
     },
     {
         "artist":  "Psy 4 De La Rime",
         "title":  "Le Temps D\u0027Un Instant",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3884,
         "votes":  0
     },
     {
         "artist":  "SCH",
         "title":  "Je la connais",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3885,
         "votes":  0
     },
     {
         "artist":  "SDM",
         "title":  "Bolide allemand",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3886,
         "votes":  0
     },
     {
         "artist":  "Shay \u0026 Niska",
         "title":  "Sans Coeur",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3887,
         "votes":  0
     },
     {
         "artist":  "Slimane",
         "title":  "Des milliers de je t\u0027aime (Paroles)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3888,
         "votes":  0
     },
     {
         "artist":  "Soolking \u0026 Gazo",
         "title":  "Casanova",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3889,
         "votes":  0
     },
     {
         "artist":  "Soolking \u0026 Ninho",
         "title":  "C\u0027est Fort",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3890,
         "votes":  0
     },
     {
         "artist":  "Soolking",
         "title":  "CARRÉ OK (feat. GIMS)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3891,
         "votes":  0
     },
     {
         "artist":  "Soolking",
         "title":  "Liberté (feat. Ouled El Bahdja)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3892,
         "votes":  0
     },
     {
         "artist":  "Soolking",
         "title":  "Suavemente",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3893,
         "votes":  0
     },
     {
         "artist":  "Soolking",
         "title":  "Tour du monde (feat. L2B)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3894,
         "votes":  0
     },
     {
         "artist":  "Soprano",
         "title":  "À la bien",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3895,
         "votes":  0
     },
     {
         "artist":  "Soprano",
         "title":  "Cosmo",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3896,
         "votes":  0
     },
     {
         "artist":  "Soprano",
         "title":  "En feu",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3897,
         "votes":  0
     },
     {
         "artist":  "Soprano",
         "title":  "Le coach (feat. Vincenzo)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3898,
         "votes":  0
     },
     {
         "artist":  "Soso Maness",
         "title":  "Petrouchka (feat. PLK)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3899,
         "votes":  0
     },
     {
         "artist":  "Souf",
         "title":  "Mi Amor",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3900,
         "votes":  0
     },
     {
         "artist":  "Speak \u0026 Theo Rose",
         "title":  "Amor, Amor (Radio Mix)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3901,
         "votes":  0
     },
     {
         "artist":  "Stefania",
         "title":  "Empty without you (Radio Mix)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3902,
         "votes":  0
     },
     {
         "artist":  "Stromae",
         "title":  "Alors on danse (Radio Edit)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3903,
         "votes":  0
     },
     {
         "artist":  "Stromae",
         "title":  "Formidable",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3904,
         "votes":  0
     },
     {
         "artist":  "Stromae",
         "title":  "Papaoutai",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3905,
         "votes":  0
     },
     {
         "artist":  "Stromae",
         "title":  "Tous les mêmes",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3906,
         "votes":  0
     },
     {
         "artist":  "Tayc",
         "title":  "Forévà",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3907,
         "votes":  0
     },
     {
         "artist":  "Tayc",
         "title":  "Le temps",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3908,
         "votes":  0
     },
     {
         "artist":  "Tayc",
         "title":  "N\u0027y pense plus",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3909,
         "votes":  0
     },
     {
         "artist":  "TKS 2G",
         "title":  "Whine",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3910,
         "votes":  0
     },
     {
         "artist":  "Vacra",
         "title":  "Tiki Taka",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3911,
         "votes":  0
     },
     {
         "artist":  "Vernis Rouge",
         "title":  "Bande organisée",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3912,
         "votes":  0
     },
     {
         "artist":  "Vitaa \u0026 Slimane",
         "title":  "Avant toi",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3913,
         "votes":  0
     },
     {
         "artist":  "Willy William",
         "title":  "Ego (Radio Edit)",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3914,
         "votes":  0
     },
     {
         "artist":  "Yanns",
         "title":  "Clic clic pan pan",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3915,
         "votes":  0
     },
     {
         "artist":  "Zaz",
         "title":  "Je veux",
-        "genre":  "POP FR",
+        "genre":  "Pop",
         "id":  3916,
         "votes":  0
     },
     {
         "artist":  "Astrix, Ritmo",
         "title":  "Ziran Antinomy Remix",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3917,
         "votes":  0
     },
     {
         "artist":  "Billx \u0026 Dr. Peacock",
         "title":  "La Marche",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3918,
         "votes":  0
     },
     {
         "artist":  "Billx \u0026 Ti K Ry",
         "title":  "Bravery",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3919,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx \u0026 Zafrir",
         "title":  "Flying Dutchman",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3920,
         "votes":  0
     },
     {
         "artist":  "Creeds",
         "title":  "Push Up Slowboy Remix",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3921,
         "votes":  0
     },
     {
         "artist":  "Dubdogz, Jetlag Music \u0026 Vitor Bueno",
         "title":  "Atomic Bomb (feat. Juan Alcasar)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3922,
         "votes":  0
     },
     {
         "artist":  "Flash Jack",
         "title":  "Kukeri",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3923,
         "votes":  0
     },
     {
         "artist":  "Garmiani",
         "title":  "AVA",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3924,
         "votes":  0
     },
     {
         "artist":  "Henrique Camacho \u0026 Fatality",
         "title":  "Sevilla",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3925,
         "votes":  0
     },
     {
         "artist":  "HUTS, LUNAX \u0026 Jerome",
         "title":  "Million Years (Jerome Edit)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3926,
         "votes":  0
     },
     {
         "artist":  "KSHMR \u0026 Zafrir",
         "title":  "Winners Anthem",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3927,
         "votes":  0
     },
     {
         "artist":  "Lanz",
         "title":  "Shiva Tensei (Spectronikka Remix)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3928,
         "votes":  0
     },
     {
         "artist":  "le Shuuk",
         "title":  "Goodbye (feat. Xillions)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3929,
         "votes":  0
     },
     {
         "artist":  "LOUD",
         "title":  "5 Billion Stars (Captain Hook Remix)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3930,
         "votes":  0
     },
     {
         "artist":  "Mike Candys",
         "title":  "Darkness",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3931,
         "votes":  0
     },
     {
         "artist":  "Neelix \u0026 Caroline Harrison",
         "title":  "Makeup (Blazy Remix)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3932,
         "votes":  0
     },
     {
         "artist":  "Neelix \u0026 Durs",
         "title":  "The Day We Met",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3933,
         "votes":  0
     },
     {
         "artist":  "Neelix",
         "title":  "Bang Bang (Sighter Remix)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3934,
         "votes":  0
     },
     {
         "artist":  "Neelix",
         "title":  "Rebellion",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3935,
         "votes":  0
     },
     {
         "artist":  "Neelix",
         "title":  "Shadows",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3936,
         "votes":  0
     },
     {
         "artist":  "NERVO \u0026 Skazi",
         "title":  "Faded",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3937,
         "votes":  0
     },
     {
         "artist":  "R3HAB \u0026 Gabry Ponte",
         "title":  "The Portrait (Ooh La La), (lyrics)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3938,
         "votes":  0
     },
     {
         "artist":  "Sajanka \u0026 Terra",
         "title":  "Galiya",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3939,
         "votes":  0
     },
     {
         "artist":  "Sajanka \u0026 Whiteno1se",
         "title":  "Anima Mea",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3940,
         "votes":  0
     },
     {
         "artist":  "Sajanka",
         "title":  "Oasis",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3941,
         "votes":  0
     },
     {
         "artist":  "Sajanka",
         "title":  "Sunny Dunny",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3942,
         "votes":  0
     },
     {
         "artist":  "Talamasca",
         "title":  "Lady Sweet Dream",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3943,
         "votes":  0
     },
     {
         "artist":  "Tandava",
         "title":  "Na Na Na",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3944,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Gabry Ponte",
         "title":  "Mad World",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3945,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 KSHMR",
         "title":  "The Prayer (feat. Zafrir)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3946,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Vini Vici",
         "title":  "Thunder",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3947,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet \u0026 Vitas",
         "title":  "The King",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3948,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Prezioso \u0026 71 Digits",
         "title":  "Three Little Birds",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3949,
         "votes":  0
     },
     {
         "artist":  "Ummet Ozcan \u0026 Harris \u0026 Ford",
         "title":  "Fight Back",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3950,
         "votes":  0
     },
     {
         "artist":  "Ummet Ozcan, Charly Lownoise \u0026 Mental Theo \u0026 Orange INC",
         "title":  "Wonderful Days",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3951,
         "votes":  0
     },
     {
         "artist":  "Vini Vici, Neelix \u0026 MKLA",
         "title":  "Come Close",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3952,
         "votes":  0
     },
     {
         "artist":  "W\u0026W",
         "title":  "OIIA OIIA (Spinning Cat)",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3953,
         "votes":  0
     },
     {
         "artist":  "Mandala",
         "title":  "Blastoyz",
-        "genre":  "PsyTrance",
+        "genre":  "Psytrance",
         "id":  3954,
         "votes":  0
     },
@@ -21653,4991 +21653,4991 @@
     {
         "artist":  "50 Cent",
         "title":  "In Da Club",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4093,
         "votes":  0
     },
     {
         "artist":  "Aaron Smith \u0026 Krono",
         "title":  "Dancin (Krono Remix) (feat. Luvli)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4094,
         "votes":  0
     },
     {
         "artist":  "Adam Port, Stryv, Keinemusik \u0026 Orso",
         "title":  "Move",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4095,
         "votes":  0
     },
     {
         "artist":  "Addison Rae",
         "title":  "Diet Pepsi",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4096,
         "votes":  0
     },
     {
         "artist":  "Adele",
         "title":  "Rolling in the Deep",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4097,
         "votes":  0
     },
     {
         "artist":  "Adele",
         "title":  "Set Fire to the Rain",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4098,
         "votes":  0
     },
     {
         "artist":  "Adele",
         "title":  "Someone Like You",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4099,
         "votes":  0
     },
     {
         "artist":  "Akon",
         "title":  "Don\u0027t Matter",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4100,
         "votes":  0
     },
     {
         "artist":  "Akon",
         "title":  "Lonely",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4101,
         "votes":  0
     },
     {
         "artist":  "Akon",
         "title":  "Right Now (Na Na Na)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4102,
         "votes":  0
     },
     {
         "artist":  "Akon",
         "title":  "Smack That (feat. Eminem)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4103,
         "votes":  0
     },
     {
         "artist":  "Alan Walker",
         "title":  "Faded",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4104,
         "votes":  0
     },
     {
         "artist":  "Alex Warren",
         "title":  "Carry You Home",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4105,
         "votes":  0
     },
     {
         "artist":  "Alex Warren",
         "title":  "Eternity",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4106,
         "votes":  0
     },
     {
         "artist":  "Alex Warren",
         "title":  "Ordinary",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4107,
         "votes":  0
     },
     {
         "artist":  "Alexandra Stan",
         "title":  "Mr. Saxobeat (Radio Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4108,
         "votes":  0
     },
     {
         "artist":  "Alicia Keys",
         "title":  "Empire State of Mind (Part II) Broken Down",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4109,
         "votes":  0
     },
     {
         "artist":  "Alicia Keys",
         "title":  "Girl on Fire",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4110,
         "votes":  0
     },
     {
         "artist":  "Alicia Keys",
         "title":  "No One",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4111,
         "votes":  0
     },
     {
         "artist":  "Amy Macdonald",
         "title":  "This Is The Life",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4112,
         "votes":  0
     },
     {
         "artist":  "Amy Winehouse",
         "title":  "Back To Black",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4113,
         "votes":  0
     },
     {
         "artist":  "Amy Winehouse",
         "title":  "You Know I\u0027m No Good",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4114,
         "votes":  0
     },
     {
         "artist":  "Anne-Marie",
         "title":  "2002",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4115,
         "votes":  0
     },
     {
         "artist":  "Ariana Grande",
         "title":  "7 rings",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4116,
         "votes":  0
     },
     {
         "artist":  "Ariana Grande",
         "title":  "Side to Side (feat. Nicki Minaj)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4117,
         "votes":  0
     },
     {
         "artist":  "Ariana Grande",
         "title":  "supernatural",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4118,
         "votes":  0
     },
     {
         "artist":  "Ariana Grande",
         "title":  "twilight zone",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4119,
         "votes":  0
     },
     {
         "artist":  "Ariana Grande",
         "title":  "we can\u0027t be friends (wait for your love)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4120,
         "votes":  0
     },
     {
         "artist":  "Artemas",
         "title":  "i like the way you kiss me",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4121,
         "votes":  0
     },
     {
         "artist":  "Ava Max",
         "title":  "Sweet but Psycho",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4122,
         "votes":  0
     },
     {
         "artist":  "Aventura",
         "title":  "Obsesion (feat. Judy Santos)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4123,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Levels (Radio Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4124,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Wake Me Up",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4125,
         "votes":  0
     },
     {
         "artist":  "B.o.B",
         "title":  "Airplanes (feat. Hayley Williams of Paramore)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4126,
         "votes":  0
     },
     {
         "artist":  "B.o.B",
         "title":  "Nothin\u0027 on You (feat. Bruno Mars)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4127,
         "votes":  0
     },
     {
         "artist":  "Benson Boone",
         "title":  "Beautiful Things",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4128,
         "votes":  0
     },
     {
         "artist":  "Benson Boone",
         "title":  "Mystical Magical",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4129,
         "votes":  0
     },
     {
         "artist":  "Beyoncé",
         "title":  "Crazy In Love (feat. JAY-Z)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4130,
         "votes":  0
     },
     {
         "artist":  "Beyoncé",
         "title":  "Halo",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4131,
         "votes":  0
     },
     {
         "artist":  "Beyoncé",
         "title":  "If I Were a Boy",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4132,
         "votes":  0
     },
     {
         "artist":  "Beyoncé",
         "title":  "Single Ladies (Put a Ring on It)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4133,
         "votes":  0
     },
     {
         "artist":  "Big Ali",
         "title":  "WatiBigali (feat. Wati B)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4134,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish \u0026 Khalid",
         "title":  "lovely",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4135,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish",
         "title":  "BIRDS OF A FEATHER",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4136,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish",
         "title":  "CHIHIRO",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4137,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish",
         "title":  "ocean eyes",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4138,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish",
         "title":  "What Was I Made For_ [From The Motion Picture Barbie]",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4139,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish",
         "title":  "WILDFLOWER",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4140,
         "votes":  0
     },
     {
         "artist":  "Bon Jovi",
         "title":  "It\u0027s My Life",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4141,
         "votes":  0
     },
     {
         "artist":  "Brandy \u0026 Monica",
         "title":  "The Boy Is Mine",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4142,
         "votes":  0
     },
     {
         "artist":  "Britney Spears",
         "title":  "Baby One More Time",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4143,
         "votes":  0
     },
     {
         "artist":  "Britney Spears",
         "title":  "Oops!...I Did It Again",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4144,
         "votes":  0
     },
     {
         "artist":  "Britney Spears",
         "title":  "Toxic",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4145,
         "votes":  0
     },
     {
         "artist":  "Britney Spears",
         "title":  "Womanizer",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4146,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "Grenade",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4147,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "Just the Way You Are",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4148,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "Locked out of Heaven",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4149,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "Marry You",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4150,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "That\u0027s What I Like",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4151,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "The Lazy Song",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4152,
         "votes":  0
     },
     {
         "artist":  "Bruno Mars",
         "title":  "Treasure",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4153,
         "votes":  0
     },
     {
         "artist":  "BTS",
         "title":  "Dynamite",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4154,
         "votes":  0
     },
     {
         "artist":  "Calum Scott \u0026 Leona Lewis",
         "title":  "You Are The Reason (Duet Version)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4155,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Feel So Close (Radio Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4156,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "I Need Your Love (feat. Ellie Goulding)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4157,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Outside (feat. Ellie Goulding)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4158,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Summer",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4159,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Thinking About You (feat. Ayah Marar)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4160,
         "votes":  0
     },
     {
         "artist":  "Capital Cities",
         "title":  "Safe and Sound",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4161,
         "votes":  0
     },
     {
         "artist":  "Carly Rae Jepsen",
         "title":  "Call Me Maybe",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4162,
         "votes":  0
     },
     {
         "artist":  "Chappell Roan",
         "title":  "Good Luck, Babe!",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4163,
         "votes":  0
     },
     {
         "artist":  "Chappell Roan",
         "title":  "The Subway",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4164,
         "votes":  0
     },
     {
         "artist":  "Charlie Puth",
         "title":  "Attention",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4165,
         "votes":  0
     },
     {
         "artist":  "Charlie Puth",
         "title":  "We Don\u0027t Talk Anymore (feat. Selena Gomez)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4166,
         "votes":  0
     },
     {
         "artist":  "Chris Brown",
         "title":  "Under The Influence",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4167,
         "votes":  0
     },
     {
         "artist":  "Chris Brown",
         "title":  "Yeah 3x",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4168,
         "votes":  0
     },
     {
         "artist":  "Christina Perri",
         "title":  "a thousand years",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4169,
         "votes":  0
     },
     {
         "artist":  "Christophe Willem",
         "title":  "Double je (Remix)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4170,
         "votes":  0
     },
     {
         "artist":  "Clean Bandit",
         "title":  "Rather Be (feat. Jess Glynne)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4171,
         "votes":  0
     },
     {
         "artist":  "Clean Bandit",
         "title":  "Rockabye (feat. Sean Paul \u0026 Anne-Marie)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4172,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "A Sky Full of Stars",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4173,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Adventure of a Lifetime",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4174,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Clocks",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4175,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Hymn for the Weekend",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4176,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Paradise",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4177,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Sparks",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4178,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "The Scientist",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4179,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Viva La Vida",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4180,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "Yellow",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4181,
         "votes":  0
     },
     {
         "artist":  "Corbyn Besson \u0026 TZUYU",
         "title":  "Blink",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4182,
         "votes":  0
     },
     {
         "artist":  "d4vd",
         "title":  "Romantic Homicide",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4183,
         "votes":  0
     },
     {
         "artist":  "Daft Punk \u0026 Julian Casablancas",
         "title":  "Instant Crush (feat. Julian Casablancas)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4184,
         "votes":  0
     },
     {
         "artist":  "Daft Punk",
         "title":  "One More Time (Radio Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4185,
         "votes":  0
     },
     {
         "artist":  "Daniel Powter",
         "title":  "Bad Day",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4186,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Chris Willis",
         "title":  "Gettin\u0027 Over You (feat. Fergie \u0026 LMFAO)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4187,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 Sia",
         "title":  "Beautiful People",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4188,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Memories (feat. Kid Cudi)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4189,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Play Hard [New Edit] (feat. Akon \u0026 Ne-Yo)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4190,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Sexy Bitch (feat. Akon)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4191,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Titanium (feat. Sia)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4192,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "When Love Takes Over (feat. Kelly Rowland)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4193,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Where Them Girls At (feat. Flo Rida \u0026 Nicki Minaj)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4194,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Who\u0027s That Chick_ (feat. Rihanna)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4195,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Without You (Radio Edit) (feat. Usher)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4196,
         "votes":  0
     },
     {
         "artist":  "David Kushner",
         "title":  "Daylight",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4197,
         "votes":  0
     },
     {
         "artist":  "DJ Antoine",
         "title":  "Ma Chérie (DJ Antoine \u0026 Mad Mark 2K12 Radio Edit) (feat. The Beat Shakers)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4198,
         "votes":  0
     },
     {
         "artist":  "DJ Snake",
         "title":  "Let Me Love You (feat. Justin Bieber)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4199,
         "votes":  0
     },
     {
         "artist":  "DJ Snake",
         "title":  "Taki Taki (feat. Selena Gomez, Ozuna \u0026 Cardi B)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4200,
         "votes":  0
     },
     {
         "artist":  "Doja Cat",
         "title":  "Agora Hills",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4201,
         "votes":  0
     },
     {
         "artist":  "Doja Cat",
         "title":  "Paint The Town Red",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4202,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Dance The Night (From Barbie The Album)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4203,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Houdini",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4204,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Illusion",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4205,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Levitating (feat. DaBaby)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4206,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "New Rules",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4207,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Training Season",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4208,
         "votes":  0
     },
     {
         "artist":  "Duck Sauce, A-Trak \u0026 Armand Van Helden",
         "title":  "Barbra Streisand (Radio Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4209,
         "votes":  0
     },
     {
         "artist":  "Duke Dumont",
         "title":  "I Got U (feat. Jax Jones)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4210,
         "votes":  0
     },
     {
         "artist":  "Duke Dumont",
         "title":  "Ocean Drive",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4211,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Azizam [Persian Version] (feat. Googoosh)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4212,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Dive",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4213,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Perfect",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4214,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Photograph",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4215,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Sapphire",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4216,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Shape of You",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4217,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Thinking out Loud",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4218,
         "votes":  0
     },
     {
         "artist":  "Eiffel 65",
         "title":  "Blue (Da Ba Dee) (Video Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4219,
         "votes":  0
     },
     {
         "artist":  "Ellie Goulding",
         "title":  "Burn",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4220,
         "votes":  0
     },
     {
         "artist":  "Eminem",
         "title":  "Lose Yourself",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4221,
         "votes":  0
     },
     {
         "artist":  "Eminem",
         "title":  "Love The Way You Lie (feat. Rihanna)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4222,
         "votes":  0
     },
     {
         "artist":  "Eminem",
         "title":  "Mockingbird",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4223,
         "votes":  0
     },
     {
         "artist":  "Eminem",
         "title":  "Not Afraid",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4224,
         "votes":  0
     },
     {
         "artist":  "Eminem",
         "title":  "The Real Slim Shady",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4225,
         "votes":  0
     },
     {
         "artist":  "Eminem",
         "title":  "Without Me",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4226,
         "votes":  0
     },
     {
         "artist":  "Enrique Iglesias",
         "title":  "Tired Of Being Sorry (Laisse Le Destin L\u0027Emporter) (Radio Edit) (feat. Nadiya)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4227,
         "votes":  0
     },
     {
         "artist":  "Evanescence",
         "title":  "Bring Me To Life",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4228,
         "votes":  0
     },
     {
         "artist":  "Far East Movement, The Cataracs \u0026 DEV",
         "title":  "Like A G6",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4229,
         "votes":  0
     },
     {
         "artist":  "Fifth Harmony",
         "title":  "Work from Home (feat. Ty Dolla $ign)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4230,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Club Can\u0027t Handle Me (feat. David Guetta)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4231,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Good Feeling",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4232,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Low (feat. T-Pain)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4233,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "My House",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4234,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Right Round (feat. Kesha)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4235,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Whistle",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4236,
         "votes":  0
     },
     {
         "artist":  "Flo Rida",
         "title":  "Wild Ones (feat. Sia)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4237,
         "votes":  0
     },
     {
         "artist":  "fun.",
         "title":  "We Are Young (feat. Janelle Monáe)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4238,
         "votes":  0
     },
     {
         "artist":  "Gabriel Basco",
         "title":  "The Last of Us",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4239,
         "votes":  0
     },
     {
         "artist":  "GIMS",
         "title":  "J\u0027me tire",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4240,
         "votes":  0
     },
     {
         "artist":  "Glass Animals",
         "title":  "Heat Waves",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4241,
         "votes":  0
     },
     {
         "artist":  "Glitter Dream, Diana V, \u0026 Alex Parker",
         "title":  "Alibi",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4242,
         "votes":  0
     },
     {
         "artist":  "Gorillaz \u0026 De La Soul",
         "title":  "Feel Good Inc.",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4243,
         "votes":  0
     },
     {
         "artist":  "Gotye",
         "title":  "Somebody That I Used To Know (feat. Kimbra)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4244,
         "votes":  0
     },
     {
         "artist":  "Gracie Abrams",
         "title":  "That’s So True",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4245,
         "votes":  0
     },
     {
         "artist":  "Guru Josh Project",
         "title":  "Infinity 2008 (Klaas Vocal Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4246,
         "votes":  0
     },
     {
         "artist":  "Gym Class Heroes",
         "title":  "Stereo Hearts (feat. Adam Levine)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4247,
         "votes":  0
     },
     {
         "artist":  "Haddaway",
         "title":  "What Is Love (7 Mix)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4248,
         "votes":  0
     },
     {
         "artist":  "Halsey",
         "title":  "Without Me",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4249,
         "votes":  0
     },
     {
         "artist":  "Harry Styles",
         "title":  "As It Was",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4250,
         "votes":  0
     },
     {
         "artist":  "Harry Styles",
         "title":  "Sign of the Times",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4251,
         "votes":  0
     },
     {
         "artist":  "Henry Moodie",
         "title":  "drunk text",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4252,
         "votes":  0
     },
     {
         "artist":  "Imagine Dragons",
         "title":  "Believer",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4253,
         "votes":  0
     },
     {
         "artist":  "Imagine Dragons",
         "title":  "Thunder",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4254,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "Amazing",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4255,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "Deja Vu [Play \u0026 Win Radio Edit] (feat. Bob Taylor)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4256,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "Hot (Play \u0026 Win Radio Version)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4257,
         "votes":  0
     },
     {
         "artist":  "INNA",
         "title":  "Sun is up",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4258,
         "votes":  0
     },
     {
         "artist":  "Iyaz",
         "title":  "Replay",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4259,
         "votes":  0
     },
     {
         "artist":  "Jack Harlow",
         "title":  "Lovin On Me",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4260,
         "votes":  0
     },
     {
         "artist":  "James Arthur",
         "title":  "Say You Won\u0027t Let Go",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4261,
         "votes":  0
     },
     {
         "artist":  "James Blunt",
         "title":  "You\u0027re Beautiful",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4262,
         "votes":  0
     },
     {
         "artist":  "Jason Derulo",
         "title":  "Talk Dirty (feat. 2 Chainz)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4263,
         "votes":  0
     },
     {
         "artist":  "Jason Derulo",
         "title":  "Whatcha Say",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4264,
         "votes":  0
     },
     {
         "artist":  "Jay Sean",
         "title":  "Do You Remember (feat. Sean Paul \u0026 Lil Jon)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4265,
         "votes":  0
     },
     {
         "artist":  "Jay Sean",
         "title":  "Down (feat. Lil Wayne)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4266,
         "votes":  0
     },
     {
         "artist":  "JAY-Z",
         "title":  "Empire State Of Mind (feat. Alicia Keys)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4267,
         "votes":  0
     },
     {
         "artist":  "JAY-Z",
         "title":  "Run This Town (feat. Rihanna \u0026 Kanye West)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4268,
         "votes":  0
     },
     {
         "artist":  "JENNIE \u0026 Doechii",
         "title":  "ExtraL",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4269,
         "votes":  0
     },
     {
         "artist":  "JENNIE \u0026 Dua Lipa",
         "title":  "Handlebars",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4270,
         "votes":  0
     },
     {
         "artist":  "Jennifer Lopez \u0026 Pitbull",
         "title":  "On The Floor (Radio Edit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4271,
         "votes":  0
     },
     {
         "artist":  "Jessie J",
         "title":  "Domino",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4272,
         "votes":  0
     },
     {
         "artist":  "Jessie J",
         "title":  "Price Tag (feat. B.o.B)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4273,
         "votes":  0
     },
     {
         "artist":  "JISOO \u0026 ZAYN",
         "title":  "EYES CLOSED",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4274,
         "votes":  0
     },
     {
         "artist":  "John Legend",
         "title":  "All of Me",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4275,
         "votes":  0
     },
     {
         "artist":  "Juice WRLD",
         "title":  "Lucid Dreams",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4276,
         "votes":  0
     },
     {
         "artist":  "Jung Kook",
         "title":  "Seven - Explicit Ver. (feat. Latto)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4277,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "Baby (feat. Ludacris)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4278,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "Beauty and a Beat (feat. Nicki Minaj)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4279,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "DAISIES",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4280,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "Intentions (feat. Quavo)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4281,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "Never Say Never (feat. Jaden)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4282,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "Sorry",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4283,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "What Do You Mean_",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4284,
         "votes":  0
     },
     {
         "artist":  "Justin Bieber",
         "title":  "YUKON",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4285,
         "votes":  0
     },
     {
         "artist":  "Justin Timberlake",
         "title":  "CAN\u0027T STOP THE FEELING! (from DreamWorks Animation\u0027s TROLLS)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4286,
         "votes":  0
     },
     {
         "artist":  "Justin Timberlake",
         "title":  "Mirrors",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4287,
         "votes":  0
     },
     {
         "artist":  "Justin Timberlake",
         "title":  "SexyBack (feat. Timbaland)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4288,
         "votes":  0
     },
     {
         "artist":  "JVKE",
         "title":  "her",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4289,
         "votes":  0
     },
     {
         "artist":  "K\u0027NAAN",
         "title":  "Wavin\u0027  Flag (Coca-Cola Celebration Mix)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4290,
         "votes":  0
     },
     {
         "artist":  "Kanye West",
         "title":  "Flashing Lights (feat. Dwele)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4291,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "California Gurls (feat. Snoop Dogg)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4292,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Dark Horse (feat. Juicy J)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4293,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Firework (Lyrics)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4294,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Hot N Cold",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4295,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "I Kissed A Girl",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4296,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Last Friday Night (T.G.I.F.)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4297,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Roar",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4298,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "Teenage Dream",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4299,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "The One That Got Away",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4300,
         "votes":  0
     },
     {
         "artist":  "Ke$ha",
         "title":  "Die Young",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4301,
         "votes":  0
     },
     {
         "artist":  "Ke$ha",
         "title":  "TiK ToK",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4302,
         "votes":  0
     },
     {
         "artist":  "Keane",
         "title":  "Somewhere Only We Know",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4303,
         "votes":  0
     },
     {
         "artist":  "Kendrick Lamar \u0026 SZA",
         "title":  "All the Stars",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4304,
         "votes":  0
     },
     {
         "artist":  "Kendrick Lamar \u0026 SZA",
         "title":  "luther",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4305,
         "votes":  0
     },
     {
         "artist":  "Kendrick Lamar",
         "title":  "Not Like Us",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4306,
         "votes":  0
     },
     {
         "artist":  "Kendrick Lamar",
         "title":  "squabble up",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4307,
         "votes":  0
     },
     {
         "artist":  "Kylie Minogue",
         "title":  "Can\u0027t Get You out of My Head",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4308,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga \u0026 Bruno Mars",
         "title":  "Die With A Smile",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4309,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Abracadabra",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4310,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Alejandro",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4311,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Always Remember Us This Way",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4312,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Bad Romance",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4313,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Just Dance (feat. Colby O\u0027Donis)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4314,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Paparazzi",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4315,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Poker Face",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4316,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "Telephone (feat. Beyoncé)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4317,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "The Dead Dance",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4318,
         "votes":  0
     },
     {
         "artist":  "Lana Del Rey",
         "title":  "Summertime Sadness",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4319,
         "votes":  0
     },
     {
         "artist":  "Lana Del Rey",
         "title":  "Young And Beautiful",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4320,
         "votes":  0
     },
     {
         "artist":  "Laurent Wolf",
         "title":  "No Stress (feat. Eric Carter)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4321,
         "votes":  0
     },
     {
         "artist":  "Lauv",
         "title":  "I Like Me Better",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4322,
         "votes":  0
     },
     {
         "artist":  "Lewis Capaldi",
         "title":  "Someone You Loved",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4323,
         "votes":  0
     },
     {
         "artist":  "Libianca",
         "title":  "People",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4324,
         "votes":  0
     },
     {
         "artist":  "Lil Nas X",
         "title":  "Old Town Road (Remix) (feat. Billy Ray Cyrus)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4325,
         "votes":  0
     },
     {
         "artist":  "Lil Wayne",
         "title":  "Lollipop (feat. Static Major)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4326,
         "votes":  0
     },
     {
         "artist":  "Linkin Park",
         "title":  "In the End",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4327,
         "votes":  0
     },
     {
         "artist":  "Linkin Park",
         "title":  "Numb",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4328,
         "votes":  0
     },
     {
         "artist":  "LISA",
         "title":  "Born Again (feat. Doja Cat \u0026 RAYE)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4329,
         "votes":  0
     },
     {
         "artist":  "LISA",
         "title":  "New Woman (feat. ROSALÍA)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4330,
         "votes":  0
     },
     {
         "artist":  "LMFAO",
         "title":  "Party Rock Anthem (feat. Lauren Bennett \u0026 GoonRock)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4331,
         "votes":  0
     },
     {
         "artist":  "Lola Young",
         "title":  "Messy",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4332,
         "votes":  0
     },
     {
         "artist":  "Loona",
         "title":  "Vamos a la Playa",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4333,
         "votes":  0
     },
     {
         "artist":  "Loreen",
         "title":  "Tattoo",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4334,
         "votes":  0
     },
     {
         "artist":  "Lucenzo \u0026 Kenza Farah",
         "title":  "Obsesión",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4335,
         "votes":  0
     },
     {
         "artist":  "Lucenzo",
         "title":  "Danza Kuduro (Version MTO) (feat. Don Omar)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4336,
         "votes":  0
     },
     {
         "artist":  "Lucenzo",
         "title":  "Vem Dancar Kuduro (feat. Lucenzo)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4337,
         "votes":  0
     },
     {
         "artist":  "Luis Fonsi \u0026 Daddy Yankee",
         "title":  "Despacito",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4338,
         "votes":  0
     },
     {
         "artist":  "Lukas Graham",
         "title":  "7 Years",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4339,
         "votes":  0
     },
     {
         "artist":  "M83",
         "title":  "Midnight City",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4340,
         "votes":  0
     },
     {
         "artist":  "Macklemore \u0026 Ryan Lewis",
         "title":  "Can\u0027t Hold Us (feat. Ray Dalton)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4341,
         "votes":  0
     },
     {
         "artist":  "Madison Beer",
         "title":  "make you mine",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4342,
         "votes":  0
     },
     {
         "artist":  "MAGIC!",
         "title":  "Rude",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4343,
         "votes":  0
     },
     {
         "artist":  "Major Lazer",
         "title":  "Lean On (feat. Major Lazer \u0026 DJ Snake)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4344,
         "votes":  0
     },
     {
         "artist":  "Man I Need",
         "title":  "Olivia Dean (Lyrics)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4345,
         "votes":  0
     },
     {
         "artist":  "Mark Ronson",
         "title":  "Uptown Funk (feat. Bruno Mars)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4346,
         "votes":  0
     },
     {
         "artist":  "Maroon 5",
         "title":  "Girls Like You (Cardi B Version) (feat. Cardi B)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4347,
         "votes":  0
     },
     {
         "artist":  "Maroon 5",
         "title":  "Moves like Jagger (Studio Recording from The Voice Performance) (feat. Christina Aguilera)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4348,
         "votes":  0
     },
     {
         "artist":  "Maroon 5",
         "title":  "One More Night",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4349,
         "votes":  0
     },
     {
         "artist":  "Maroon 5",
         "title":  "Payphone (feat. Wiz Khalifa)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4350,
         "votes":  0
     },
     {
         "artist":  "Maroon 5",
         "title":  "Sugar",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4351,
         "votes":  0
     },
     {
         "artist":  "Martin Solveig \u0026 Dragonette",
         "title":  "Hello",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4352,
         "votes":  0
     },
     {
         "artist":  "Metro Boomin, The Weeknd \u0026 21 Savage",
         "title":  "Creepin\u0027",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4353,
         "votes":  0
     },
     {
         "artist":  "Michael Jackson \u0026 Janet Jackson",
         "title":  "Scream",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4354,
         "votes":  0
     },
     {
         "artist":  "MIKA",
         "title":  "Relax, Take It Easy",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4355,
         "votes":  0
     },
     {
         "artist":  "Miley Cyrus",
         "title":  "End of the World",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4356,
         "votes":  0
     },
     {
         "artist":  "Miley Cyrus",
         "title":  "Flowers",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4357,
         "votes":  0
     },
     {
         "artist":  "Miley Cyrus",
         "title":  "Party In The U.S.A.",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4358,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Bad Booty",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4359,
         "votes":  0
     },
     {
         "artist":  "Mira",
         "title":  "Come With Me",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4360,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Duro",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4361,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Ladida",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4362,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Love Again",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4363,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Ring Ring",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4364,
         "votes":  0
     },
     {
         "artist":  "Mohombi",
         "title":  "Bumpy Ride (feat. Pitbull)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4365,
         "votes":  0
     },
     {
         "artist":  "Myles Smith",
         "title":  "Stargazing",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4366,
         "votes":  0
     },
     {
         "artist":  "Natasha Bedingfield",
         "title":  "Unwritten",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4367,
         "votes":  0
     },
     {
         "artist":  "Nelly",
         "title":  "Dilemma (feat. Kelly Rowland)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4368,
         "votes":  0
     },
     {
         "artist":  "Nelly",
         "title":  "Just A Dream",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4369,
         "votes":  0
     },
     {
         "artist":  "Nelly Furtado",
         "title":  "Promiscuous (feat. Timbaland)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4370,
         "votes":  0
     },
     {
         "artist":  "Nelly Furtado",
         "title":  "Say It Right",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4371,
         "votes":  0
     },
     {
         "artist":  "Nicki Minaj",
         "title":  "Starships",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4372,
         "votes":  0
     },
     {
         "artist":  "Nico \u0026 Vinz",
         "title":  "Am I Wrong",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4373,
         "votes":  0
     },
     {
         "artist":  "Ofenbach",
         "title":  "Overdrive (feat. Norma Jean Martine)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4374,
         "votes":  0
     },
     {
         "artist":  "Olivia Rodrigo",
         "title":  "deja vu",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4375,
         "votes":  0
     },
     {
         "artist":  "Olivia Rodrigo",
         "title":  "vampire",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4376,
         "votes":  0
     },
     {
         "artist":  "Olly Alexander (Years \u0026 Years)",
         "title":  "King",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4377,
         "votes":  0
     },
     {
         "artist":  "One Direction",
         "title":  "Night Changes",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4378,
         "votes":  0
     },
     {
         "artist":  "OneRepublic",
         "title":  "Counting Stars",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4379,
         "votes":  0
     },
     {
         "artist":  "Owl City",
         "title":  "Fireflies",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4380,
         "votes":  0
     },
     {
         "artist":  "P!NK",
         "title":  "Just Give Me a Reason (feat. Nate Ruess)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4381,
         "votes":  0
     },
     {
         "artist":  "Passenger",
         "title":  "Let Her Go",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4382,
         "votes":  0
     },
     {
         "artist":  "Pharrell Williams",
         "title":  "Happy (From Despicable Me 2)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4383,
         "votes":  0
     },
     {
         "artist":  "Pitbull \u0026 Kesha",
         "title":  "Timber",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4384,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "Hey Baby (Drop It to the Floor) [Radio Edit] (feat. T-Pain)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4385,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "Hotel Room Service",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4386,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "International Love (feat. Chris Brown)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4387,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "Rain Over Me (feat. Marc Anthony)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4388,
         "votes":  0
     },
     {
         "artist":  "Pitbull, Afrojack \u0026 Ne-Yo",
         "title":  "Give Me Everything (feat. Nayer)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4389,
         "votes":  0
     },
     {
         "artist":  "Playboi Carti \u0026 Skepta",
         "title":  "TOXIC",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4390,
         "votes":  0
     },
     {
         "artist":  "Post Malone",
         "title":  "I Had Some Help (feat. Morgan Wallen)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4391,
         "votes":  0
     },
     {
         "artist":  "PSY",
         "title":  "Gangnam Style",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4392,
         "votes":  0
     },
     {
         "artist":  "Pynk Beard",
         "title":  "Mine, Lord Willing",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4393,
         "votes":  0
     },
     {
         "artist":  "Rag\u0027n\u0027Bone Man",
         "title":  "Human",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4394,
         "votes":  0
     },
     {
         "artist":  "RAYE \u0026 070 Shake",
         "title":  "Escapism.",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4395,
         "votes":  0
     },
     {
         "artist":  "RAYE",
         "title":  "WHERE IS MY HUSBAND!",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4396,
         "votes":  0
     },
     {
         "artist":  "RAZZ \u0026 Joel Winterflood",
         "title":  "Home",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4397,
         "votes":  0
     },
     {
         "artist":  "Rema \u0026 Selena Gomez",
         "title":  "Calm Down",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4398,
         "votes":  0
     },
     {
         "artist":  "Rihanna \u0026 Calvin Harris",
         "title":  "We Found Love",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4399,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Breakin\u0027 Dishes",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4400,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Diamonds",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4401,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Disturbia",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4402,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Don\u0027t Stop The Music",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4403,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Love On The Brain",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4404,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Man Down",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4405,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Only Girl (In The World)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4406,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Pon de Replay",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4407,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Rude Boy",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4408,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "SOS",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4409,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Stay (feat. Mikky Ekko)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4410,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Take A Bow",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4411,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Umbrella (Radio Edit) (feat. JAY-Z)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4412,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "What\u0027s My Name_ (feat. Drake)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4413,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Where Have You Been",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4414,
         "votes":  0
     },
     {
         "artist":  "Robert Miles",
         "title":  "Children",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4415,
         "votes":  0
     },
     {
         "artist":  "Robin Thicke",
         "title":  "Blurred Lines (feat. T.I. \u0026 Pharrell)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4416,
         "votes":  0
     },
     {
         "artist":  "ROSÉ \u0026 Bruno Mars",
         "title":  "APT.",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4417,
         "votes":  0
     },
     {
         "artist":  "ROSÉ",
         "title":  "number one girl",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4418,
         "votes":  0
     },
     {
         "artist":  "ROSÉ",
         "title":  "toxic till the end",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4419,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Espresso",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4420,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Feather",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4421,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Manchild",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4422,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Please Please Please",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4423,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Tears",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4424,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "When Did You Get Hot_",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4425,
         "votes":  0
     },
     {
         "artist":  "Sam Smith",
         "title":  "I\u0027m Not The Only One",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4426,
         "votes":  0
     },
     {
         "artist":  "Sean Kingston \u0026 Justin Bieber",
         "title":  "Eenie Meenie",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4427,
         "votes":  0
     },
     {
         "artist":  "Sean Kingston",
         "title":  "Beautiful Girls",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4428,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "Got 2 Luv U (feat. Alexis Jordan)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4429,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "Hold My Hand (feat. Zaho)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4430,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "I\u0027m Still in Love with You (feat. Sasha)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4431,
         "votes":  0
     },
     {
         "artist":  "Sean Paul",
         "title":  "Temperature",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4432,
         "votes":  0
     },
     {
         "artist":  "Sevdaliza, Pabllo Vittar \u0026 Yseult",
         "title":  "Alibi (with Pabllo Vittar \u0026 Yseult)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4433,
         "votes":  0
     },
     {
         "artist":  "Sexion d\u0027Assaut",
         "title":  "Désolé",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4434,
         "votes":  0
     },
     {
         "artist":  "Shaboozey",
         "title":  "A Bar Song (Tipsy)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4435,
         "votes":  0
     },
     {
         "artist":  "Shaggy \u0026 Limitlezz",
         "title":  "Boombastic",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4436,
         "votes":  0
     },
     {
         "artist":  "Shakira",
         "title":  "Addicted to You",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4437,
         "votes":  0
     },
     {
         "artist":  "Shakira",
         "title":  "Hips Don\u0027t Lie (feat. Wyclef Jean)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4438,
         "votes":  0
     },
     {
         "artist":  "Shakira",
         "title":  "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4439,
         "votes":  0
     },
     {
         "artist":  "Shakira",
         "title":  "Whenever, Wherever",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4440,
         "votes":  0
     },
     {
         "artist":  "Shawn Mendes \u0026 Camila Cabello",
         "title":  "Señorita",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4441,
         "votes":  0
     },
     {
         "artist":  "Shawn Mendes",
         "title":  "There\u0027s Nothing Holdin\u0027 Me Back",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4442,
         "votes":  0
     },
     {
         "artist":  "Shawn Mendes",
         "title":  "Treat You Better",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4443,
         "votes":  0
     },
     {
         "artist":  "Sia",
         "title":  "Chandelier",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4444,
         "votes":  0
     },
     {
         "artist":  "Sia",
         "title":  "Cheap Thrills",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4445,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Soda Pop Official Lyric Video _ KPop Demon Hunters _ Sony Animation",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4446,
         "votes":  0
     },
     {
         "artist":  "sombr",
         "title":  "back to friends",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4447,
         "votes":  0
     },
     {
         "artist":  "Sophie Ellis-Bextor",
         "title":  "Murder On The Dancefloor",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4448,
         "votes":  0
     },
     {
         "artist":  "Stephen Sanchez",
         "title":  "Until I Found You",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4449,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "Don\u0027t You Worry Child (Radio Edit) (feat. John Martin)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4450,
         "votes":  0
     },
     {
         "artist":  "SZA",
         "title":  "Kill Bill",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4451,
         "votes":  0
     },
     {
         "artist":  "SZA",
         "title":  "Snooze",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4452,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "Break Your Heart (feat. Ludacris)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4453,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "Dynamite",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4454,
         "votes":  0
     },
     {
         "artist":  "Taio Cruz",
         "title":  "Hangover (feat. Flo Rida)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4455,
         "votes":  0
     },
     {
         "artist":  "Tate McRae",
         "title":  "greedy",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4456,
         "votes":  0
     },
     {
         "artist":  "Tate McRae",
         "title":  "It\u0027s ok I\u0027m ok",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4457,
         "votes":  0
     },
     {
         "artist":  "Tate McRae",
         "title":  "Just Keep Watching (From F1 The Movie)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4458,
         "votes":  0
     },
     {
         "artist":  "Tate McRae",
         "title":  "Revolving door",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4459,
         "votes":  0
     },
     {
         "artist":  "Tate McRae",
         "title":  "Sports car",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4460,
         "votes":  0
     },
     {
         "artist":  "Taylor Swift",
         "title":  "Blank Space",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4461,
         "votes":  0
     },
     {
         "artist":  "Taylor Swift",
         "title":  "Fortnight (feat. Post Malone)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4462,
         "votes":  0
     },
     {
         "artist":  "Taylor Swift",
         "title":  "Opalite",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4463,
         "votes":  0
     },
     {
         "artist":  "Taylor Swift",
         "title":  "Shake It Off",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4464,
         "votes":  0
     },
     {
         "artist":  "Taylor Swift",
         "title":  "The Fate of Ophelia",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4465,
         "votes":  0
     },
     {
         "artist":  "Teddy Swims",
         "title":  "Bad Dreams",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4466,
         "votes":  0
     },
     {
         "artist":  "Teddy Swims",
         "title":  "The Door",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4467,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "Boom Boom Pow",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4468,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "I Gotta Feeling",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4469,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "Imma Be",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4470,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "Just Can’t Get Enough",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4471,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "Meet Me Halfway",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4472,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "My Humps (Single Version)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4473,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "Rock That Body",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4474,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "The Time (Dirty Bit)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4475,
         "votes":  0
     },
     {
         "artist":  "The Black Eyed Peas",
         "title":  "Where Is the Love_",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4476,
         "votes":  0
     },
     {
         "artist":  "The Chainsmokers \u0026 Coldplay",
         "title":  "Something Just Like This",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4477,
         "votes":  0
     },
     {
         "artist":  "The Chainsmokers",
         "title":  "Closer (feat. Halsey)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4478,
         "votes":  0
     },
     {
         "artist":  "The Chainsmokers",
         "title":  "Don\u0027t Let Me Down (feat. Daya)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4479,
         "votes":  0
     },
     {
         "artist":  "The Kid LAROI \u0026 Justin Bieber",
         "title":  "STAY",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4480,
         "votes":  0
     },
     {
         "artist":  "The Neighbourhood",
         "title":  "Sweater Weather",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4481,
         "votes":  0
     },
     {
         "artist":  "The Pussycat Dolls",
         "title":  "Buttons (Final Edit Version) (feat. Snoop Dogg)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4482,
         "votes":  0
     },
     {
         "artist":  "The Weeknd \u0026 Anitta",
         "title":  "São Paulo",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4483,
         "votes":  0
     },
     {
         "artist":  "The Weeknd \u0026 Ariana Grande",
         "title":  "Die For You (Remix)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4484,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Blinding Lights",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4485,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Cry For Me",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4486,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "I Feel It Coming (feat. Daft Punk)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4487,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Save Your Tears",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4488,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Starboy (feat. Daft Punk)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4489,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "The Hills",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4490,
         "votes":  0
     },
     {
         "artist":  "Timbaland",
         "title":  "Apologize (feat. OneRepublic)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4491,
         "votes":  0
     },
     {
         "artist":  "Timbaland",
         "title":  "The Way I Are (feat. Keri Hilson \u0026 D.O.E.)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4492,
         "votes":  0
     },
     {
         "artist":  "TOESUP \u0026 Che Ree",
         "title":  "Ice Cream",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4493,
         "votes":  0
     },
     {
         "artist":  "TOESUP \u0026 Smiley",
         "title":  "Two Feet",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4494,
         "votes":  0
     },
     {
         "artist":  "Tom Odell",
         "title":  "Another Love",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4495,
         "votes":  0
     },
     {
         "artist":  "Tommy Richman",
         "title":  "MILLION DOLLAR BABY",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4496,
         "votes":  0
     },
     {
         "artist":  "Train",
         "title":  "Drive By",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4497,
         "votes":  0
     },
     {
         "artist":  "Train",
         "title":  "Hey, Soul Sister",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4498,
         "votes":  0
     },
     {
         "artist":  "twenty one pilots",
         "title":  "Heathens",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4499,
         "votes":  0
     },
     {
         "artist":  "twenty one pilots",
         "title":  "Stressed Out",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4500,
         "votes":  0
     },
     {
         "artist":  "Tyga",
         "title":  "Taste (feat. Offset)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4501,
         "votes":  0
     },
     {
         "artist":  "Tyla",
         "title":  "Water",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4502,
         "votes":  0
     },
     {
         "artist":  "Usher",
         "title":  "DJ Got Us Fallin\u0027 In Love (feat. Pitbull)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4503,
         "votes":  0
     },
     {
         "artist":  "Usher",
         "title":  "More (RedOne Jimmy Joker Remix)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4504,
         "votes":  0
     },
     {
         "artist":  "Usher",
         "title":  "Yeah! (feat. Lil Jon \u0026 Ludacris)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4505,
         "votes":  0
     },
     {
         "artist":  "Vance Joy",
         "title":  "Riptide",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4506,
         "votes":  0
     },
     {
         "artist":  "Wiz Khalifa \u0026 Snoop Dogg",
         "title":  "Young, Wild \u0026 Free (feat. Bruno Mars)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4507,
         "votes":  0
     },
     {
         "artist":  "Wiz Khalifa",
         "title":  "Black and Yellow",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4508,
         "votes":  0
     },
     {
         "artist":  "Wiz Khalifa",
         "title":  "See You Again (feat. Charlie Puth)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4509,
         "votes":  0
     },
     {
         "artist":  "Young Money",
         "title":  "BedRock (feat. Lloyd)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4510,
         "votes":  0
     },
     {
         "artist":  "yung kai",
         "title":  "blue",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4511,
         "votes":  0
     },
     {
         "artist":  "Zac Efron \u0026 Zendaya",
         "title":  "Rewrite The Stars",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4512,
         "votes":  0
     },
     {
         "artist":  "ZAYN",
         "title":  "Dusk Till Dawn (Radio Edit) (feat. Sia)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4513,
         "votes":  0
     },
     {
         "artist":  "Тимати",
         "title":  "Welcome to St. Tropez [DJ Antoine vs. Mad Mark Remix] (feat. Kalenna)",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4514,
         "votes":  0
     },
     {
         "artist":  "정국 (Jung Kook)",
         "title":  "Standing Next to You",
-        "genre":  "POP",
+        "genre":  "Pop",
         "id":  4515,
         "votes":  0
     },
     {
         "artist":  "Ariana Grande",
         "title":  "yes, and_",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4516,
         "votes":  0
     },
     {
         "artist":  "bbno$",
         "title":  "lil\u0027 freak",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4517,
         "votes":  0
     },
     {
         "artist":  "Benson Boone",
         "title":  "Mr Electric Blue",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4518,
         "votes":  0
     },
     {
         "artist":  "Benson Boone",
         "title":  "Mystical Magical",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4519,
         "votes":  0
     },
     {
         "artist":  "Beyoncé",
         "title":  "TEXAS HOLD \u0027EM",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4520,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish",
         "title":  "LUNCH",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4521,
         "votes":  0
     },
     {
         "artist":  "Chappell Roan",
         "title":  "Good Luck, Babe!",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4522,
         "votes":  0
     },
     {
         "artist":  "Chappell Roan",
         "title":  "HOT TO GO!",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4523,
         "votes":  0
     },
     {
         "artist":  "Charli xcx \u0026 Billie Eilish",
         "title":  "Guess featuring billie eilish",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4524,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "feelslikeimfallinginlove (Single Version)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4525,
         "votes":  0
     },
     {
         "artist":  "d4vd",
         "title":  "Feel It (Lyrics)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4526,
         "votes":  0
     },
     {
         "artist":  "David Guetta \u0026 OneRepublic",
         "title":  "I Don\u0027t Wanna Wait",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4527,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Alphaville \u0026 Ava Max",
         "title":  "Forever Young",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4528,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Anne-Marie \u0026 Coi Leray",
         "title":  "Baby Don\u0027t Hurt Me",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4529,
         "votes":  0
     },
     {
         "artist":  "Don Toliver",
         "title":  "You (feat. Travis Scott)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4530,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Dance The Night (From Barbie The Album)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4531,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Illusion",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4532,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Azizam [Persian Version] (feat. Googoosh)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4533,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Sapphire",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4534,
         "votes":  0
     },
     {
         "artist":  "elijah woods",
         "title":  "24_7, 365",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4535,
         "votes":  0
     },
     {
         "artist":  "FIFTY FIFTY",
         "title":  "Cupid (Twin Version)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4536,
         "votes":  0
     },
     {
         "artist":  "Gracie Abrams",
         "title":  "That’s So True",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4537,
         "votes":  0
     },
     {
         "artist":  "Henry Moodie",
         "title":  "pick up the phone",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4538,
         "votes":  0
     },
     {
         "artist":  "Inna \u0026 Stefflon Don",
         "title":  "Yummy",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4539,
         "votes":  0
     },
     {
         "artist":  "Jax Jones \u0026 Calum Scott",
         "title":  "Whistle",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4540,
         "votes":  0
     },
     {
         "artist":  "JENNIE \u0026 Doechii",
         "title":  "ExtraL",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4541,
         "votes":  0
     },
     {
         "artist":  "Jimin",
         "title":  "Who",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4542,
         "votes":  0
     },
     {
         "artist":  "Katy Perry",
         "title":  "LIFETIMES",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4543,
         "votes":  0
     },
     {
         "artist":  "Kygo \u0026 Ava Max",
         "title":  "Whatever",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4544,
         "votes":  0
     },
     {
         "artist":  "Kylie Minogue",
         "title":  "Padam Padam",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4545,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "The Dead Dance",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4546,
         "votes":  0
     },
     {
         "artist":  "Mark Ambor",
         "title":  "Belong Together",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4547,
         "votes":  0
     },
     {
         "artist":  "Maroon 5 \u0026 LISA",
         "title":  "Priceless",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4548,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix \u0026 Jex",
         "title":  "Told You So",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4549,
         "votes":  0
     },
     {
         "artist":  "MAX",
         "title":  "STUPID IN LOVE (feat. HUH YUNJIN)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4550,
         "votes":  0
     },
     {
         "artist":  "Miley Cyrus",
         "title":  "Flowers",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4551,
         "votes":  0
     },
     {
         "artist":  "Miley Cyrus",
         "title":  "Jaded",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4552,
         "votes":  0
     },
     {
         "artist":  "Mira",
         "title":  "Come With Me",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4553,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Duro",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4554,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Ladida",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4555,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Love Again",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4556,
         "votes":  0
     },
     {
         "artist":  "MIRA",
         "title":  "Ring Ring",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4557,
         "votes":  0
     },
     {
         "artist":  "Myles Smith",
         "title":  "Nice To Meet You",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4558,
         "votes":  0
     },
     {
         "artist":  "Ofenbach",
         "title":  "Overdrive (feat. Norma Jean Martine)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4559,
         "votes":  0
     },
     {
         "artist":  "OneRepublic",
         "title":  "Nobody (from Kaiju No. 8)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4560,
         "votes":  0
     },
     {
         "artist":  "Paul Russell",
         "title":  "Lil Boo Thang",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4561,
         "votes":  0
     },
     {
         "artist":  "PinkPantheress \u0026 Ice Spice",
         "title":  "Boy\u0027s a liar Pt. 2",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4562,
         "votes":  0
     },
     {
         "artist":  "Post Malone",
         "title":  "I Had Some Help (feat. Morgan Wallen)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4563,
         "votes":  0
     },
     {
         "artist":  "Purple Disco Machine \u0026 ÁSDÍS",
         "title":  "Beat Of Your Heart",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4564,
         "votes":  0
     },
     {
         "artist":  "Purple Disco Machine \u0026 Kungs",
         "title":  "Substitution (feat. Julian Perretta)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4565,
         "votes":  0
     },
     {
         "artist":  "Ray Dalton",
         "title":  "Do It Again",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4566,
         "votes":  0
     },
     {
         "artist":  "ROSÉ \u0026 Bruno Mars",
         "title":  "APT.",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4567,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Bed Chem",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4568,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Espresso",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4569,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Feather",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4570,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Juno",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4571,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Manchild",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4572,
         "votes":  0
     },
     {
         "artist":  "Selena Gomez",
         "title":  "Single Soon",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4573,
         "votes":  0
     },
     {
         "artist":  "Shawn Mendes",
         "title":  "Why Why Why",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4574,
         "votes":  0
     },
     {
         "artist":  "Taylor Swift",
         "title":  "Welcome To New York (Taylor\u0027s Version)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4575,
         "votes":  0
     },
     {
         "artist":  "The Weeknd \u0026 Madonna",
         "title":  "Popular (From The Idol Vol. 1 (Music from the HBO Original Series)) (feat. Playboi Carti)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4576,
         "votes":  0
     },
     {
         "artist":  "Tomo, Frozy \u0026 Jason Derulo",
         "title":  "From the Islands (kompa pasión)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4577,
         "votes":  0
     },
     {
         "artist":  "Travis Scott",
         "title":  "K-POP (feat. Bad Bunny \u0026 The Weeknd)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4578,
         "votes":  0
     },
     {
         "artist":  "Troye Sivan",
         "title":  "Rush",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4579,
         "votes":  0
     },
     {
         "artist":  "TWICE",
         "title":  "MOONLIGHT SUNRISE",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4580,
         "votes":  0
     },
     {
         "artist":  "TWOPILOTS \u0026 Heleen",
         "title":  "Sunset",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4581,
         "votes":  0
     },
     {
         "artist":  "Tyla",
         "title":  "Water",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4582,
         "votes":  0
     },
     {
         "artist":  "Vacations",
         "title":  "Young",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4583,
         "votes":  0
     },
     {
         "artist":  "Walk Off The Earth",
         "title":  "My Stupid Heart",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4584,
         "votes":  0
     },
     {
         "artist":  "Zara Larsson \u0026 David Guetta",
         "title":  "On My Love",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4585,
         "votes":  0
     },
     {
         "artist":  "정국 (Jung Kook)",
         "title":  "Standing Next to You",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4586,
         "votes":  0
     },
     {
         "artist":  "정국 (Jung Kook) \u0026 Jack Harlow",
         "title":  "3D (feat. Jack Harlow)",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4587,
         "votes":  0
     },
     {
         "artist":  "Adam Port, Stryv, Keinemusik \u0026 Orso",
         "title":  "Move",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4588,
         "votes":  0
     },
     {
         "artist":  "Alex Warren",
         "title":  "Carry You Home",
-        "genre":  "Tropicial House - Beach vibe",
+        "genre":  "Tropical \u0026 Beach",
         "id":  4589,
         "votes":  0
     },
     {
         "artist":  "CÇline Dion",
         "title":  "J\u0027irai Oó Tu Iras",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4590,
         "votes":  0
     },
     {
         "artist":  "Claude Francois",
         "title":  "Alexandrie Alexandra (Addsomeluv Edit)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4591,
         "votes":  0
     },
     {
         "artist":  "Dadju",
         "title":  "Bob Marley (D-Wose Intro Edit)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4592,
         "votes":  0
     },
     {
         "artist":  "Début De Soirée",
         "title":  "Nuit De Folie (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4593,
         "votes":  0
     },
     {
         "artist":  "Dj Assad",
         "title":  "Li Tourner 2023 (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4594,
         "votes":  0
     },
     {
         "artist":  "Dj Assad feat. Alain Ramanisum",
         "title":  "Li Tourner (Extended Club Edit)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4595,
         "votes":  0
     },
     {
         "artist":  "Elvis Crespo",
         "title":  "Suavemente (Latino Edit)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4596,
         "votes":  0
     },
     {
         "artist":  "Gambi",
         "title":  "Popopop (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4597,
         "votes":  0
     },
     {
         "artist":  "Gradur Ft. Heuss L\u0027Enfoiré",
         "title":  "Ne Reviens Pas (Extended Mix by Dj ARDI)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4598,
         "votes":  0
     },
     {
         "artist":  "Indochine",
         "title":  "3 Nuits Par Semaine (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4599,
         "votes":  0
     },
     {
         "artist":  "Jean-Jacques Goldman",
         "title":  "Quand La Musique Est Bonne (Album Version)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4600,
         "votes":  0
     },
     {
         "artist":  "Jean-Luc Lahaye",
         "title":  "Femme Que J\u0027aime (Original)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4601,
         "votes":  0
     },
     {
         "artist":  "Keen\u0027V",
         "title":  "J\u0027aimerais trop (Extended Mix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4602,
         "votes":  0
     },
     {
         "artist":  "Kendji Girac",
         "title":  "Andalouse (Willy William Remix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4603,
         "votes":  0
     },
     {
         "artist":  "La Compagnie Créole",
         "title":  "Le Bal Masqué (Original)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4604,
         "votes":  0
     },
     {
         "artist":  "La Petite Culotte",
         "title":  "La Goffa Lolita (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4605,
         "votes":  0
     },
     {
         "artist":  "Lartiste",
         "title":  "Chocolat (Club Mix Dj Ni2Ls)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4606,
         "votes":  0
     },
     {
         "artist":  "Lee Cabrera, Kevin McKay, Bleech",
         "title":  "Gimme Gimme (Extended Club Mix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4607,
         "votes":  0
     },
     {
         "artist":  "Les Bronzes",
         "title":  "Darla Dirladada",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4608,
         "votes":  0
     },
     {
         "artist":  "Les Forbans",
         "title":  "Chante",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4609,
         "votes":  0
     },
     {
         "artist":  "Los Del Rio",
         "title":  "Macarena (Original Mix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4610,
         "votes":  0
     },
     {
         "artist":  "Magic System \u0026 Soprano",
         "title":  "Cherie Coco (Club Mix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4611,
         "votes":  0
     },
     {
         "artist":  "Manau",
         "title":  "La Tribu De Dana (John Cost Extended Edit)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4612,
         "votes":  0
     },
     {
         "artist":  "Master KG Ft. Nomcebo Zikode",
         "title":  "Jerusalema (Extended Mix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4613,
         "votes":  0
     },
     {
         "artist":  "Naeleck, VINAI, Marnik",
         "title":  "Boyz In Paris (Extended Mix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4614,
         "votes":  0
     },
     {
         "artist":  "Naps",
         "title":  "La Kiffance (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4615,
         "votes":  0
     },
     {
         "artist":  "Naps Ft. Gazo, Ninho",
         "title":  "C\u0027est Carré Le S (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4616,
         "votes":  0
     },
     {
         "artist":  "Phenomenal Club",
         "title":  "Il Est Vraiment Phenomenal",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4617,
         "votes":  0
     },
     {
         "artist":  "Reel 2 Real",
         "title":  "I Like To Move It (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4618,
         "votes":  0
     },
     {
         "artist":  "Sexion D\u0027Assaut",
         "title":  "Wati By Night (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4619,
         "votes":  0
     },
     {
         "artist":  "Soprano",
         "title":  "En Feu (Extended Mix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4620,
         "votes":  0
     },
     {
         "artist":  "Stromae",
         "title":  "Alors On Danse (DubDogz Extended Remix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4621,
         "votes":  0
     },
     {
         "artist":  "Téléphone",
         "title":  "Ça C\u0027est Vraiment Toi (Original)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4622,
         "votes":  0
     },
     {
         "artist":  "Téléphone",
         "title":  "Ça, C\u0027est Vraiment Toi (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4623,
         "votes":  0
     },
     {
         "artist":  "Téléphone",
         "title":  "New-York Avec Toi (Remasterised By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4624,
         "votes":  0
     },
     {
         "artist":  "Trinix",
         "title":  "Rosa (Trinix Remix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4625,
         "votes":  0
     },
     {
         "artist":  "Yanns",
         "title":  "Clic Clic Pan Pan (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4626,
         "votes":  0
     },
     {
         "artist":  "Yeah Yeah Yeahs x A Trak",
         "title":  "Heads Will Roll (Poylow Extended Remix)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4627,
         "votes":  0
     },
     {
         "artist":  "Aqua",
         "title":  "Barbie Girl (Extended Version)",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4628,
         "votes":  0
     },
     {
         "artist":  "Blondie",
         "title":  "Call Me",
-        "genre":  "Pop généraliste",
+        "genre":  "Pop",
         "id":  4629,
         "votes":  0
     },
     {
         "artist":  "Empirial",
         "title":  "All My Chakras (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4630,
         "votes":  0
     },
     {
         "artist":  "Eric Prydz vs. Hans Zimmer",
         "title":  "Opus Interstellar (ANGEMI Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4631,
         "votes":  0
     },
     {
         "artist":  "Funk Tribu",
         "title":  "Viento (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4632,
         "votes":  0
     },
     {
         "artist":  "Armin Van Buuren Vs Vini Vici Feat. Hilight Tribe",
         "title":  "Great Spirit (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4633,
         "votes":  0
     },
     {
         "artist":  "Giorgia Angiuli",
         "title":  "Lux (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4634,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, Alba, Vini Vici",
         "title":  "When We Come Alive (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4635,
         "votes":  0
     },
     {
         "artist":  "GMS",
         "title":  "The Ring (DigiCult Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4636,
         "votes":  0
     },
     {
         "artist":  "Armin Van Buuren, Alok, Vini Vici Ft. Zafrir",
         "title":  "United (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4637,
         "votes":  0
     },
     {
         "artist":  "Hallucinogen",
         "title":  "Gamma Goblins (Soundaholix Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4638,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, Wildstylez, PollyAnna",
         "title":  "Typically Dutch feat. PollyAnna (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4639,
         "votes":  0
     },
     {
         "artist":  "Hexagon 25, Armienz",
         "title":  "Fmri (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4640,
         "votes":  0
     },
     {
         "artist":  "Braincell (CH), Neo Shaman",
         "title":  "Over the Edge (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4641,
         "votes":  0
     },
     {
         "artist":  "Hyde, Waio",
         "title":  "Mahadeva Blueprint (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4642,
         "votes":  0
     },
     {
         "artist":  "Braincell, Render, Siloka",
         "title":  "Kill Bills (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4643,
         "votes":  0
     },
     {
         "artist":  "Infected Mushroom, Blastoyz, Psy Trance Mafia",
         "title":  "Boomba (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4644,
         "votes":  0
     },
     {
         "artist":  "Deborah De Luca",
         "title":  "708 (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4645,
         "votes":  0
     },
     {
         "artist":  "Invasion, Ranji",
         "title":  "Confess (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4646,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike, Vini Vici \u0026 Cherrymoon Trax",
         "title":  "The House Of House (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4647,
         "votes":  0
     },
     {
         "artist":  "Iridian",
         "title":  "Infinite Reflections (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4648,
         "votes":  0
     },
     {
         "artist":  "Dust, Peace-ka",
         "title":  "3x100 (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4649,
         "votes":  0
     },
     {
         "artist":  "Jimi Green",
         "title":  "Supreme Brott (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4650,
         "votes":  0
     },
     {
         "artist":  "Formula None",
         "title":  "Oracle (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4651,
         "votes":  0
     },
     {
         "artist":  "Logic Bomb",
         "title":  "Sonic Algebra (Braincell Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4652,
         "votes":  0
     },
     {
         "artist":  "Gigi, Render, NoFace",
         "title":  "Glory Hope (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4653,
         "votes":  0
     },
     {
         "artist":  "Mad Maxx, Block Device",
         "title":  "Hallucinations (Nax Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4654,
         "votes":  0
     },
     {
         "artist":  "Indira Paganotto",
         "title":  "Gipsy Queen (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4655,
         "votes":  0
     },
     {
         "artist":  "Indira Paganotto",
         "title":  "Vendetta (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4656,
         "votes":  0
     },
     {
         "artist":  "Mindbenderz",
         "title":  "Paradox (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4657,
         "votes":  0
     },
     {
         "artist":  "Invasion, Dang3r",
         "title":  "Maneyma (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4658,
         "votes":  0
     },
     {
         "artist":  "Mr.Black, Coexist, KEVU, BIGMOO",
         "title":  "Stephanie (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4659,
         "votes":  0
     },
     {
         "artist":  "Koi Boi",
         "title":  "Magic Mushroom (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4660,
         "votes":  0
     },
     {
         "artist":  "Osher, Fusion Field",
         "title":  "Psytrance Ceremony (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4661,
         "votes":  0
     },
     {
         "artist":  "Lexxus (DE), Inner Lux",
         "title":  "Hexagon (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4662,
         "votes":  0
     },
     {
         "artist":  "Pandora",
         "title":  "Ballad From Tibet (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4663,
         "votes":  0
     },
     {
         "artist":  "Liquid Soul",
         "title":  "Adrenaline (Kalki Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4664,
         "votes":  0
     },
     {
         "artist":  "Pandora",
         "title":  "Kenyan (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4665,
         "votes":  0
     },
     {
         "artist":  "Pragmatix, Dial",
         "title":  "El Acecho (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4666,
         "votes":  0
     },
     {
         "artist":  "Liquid Soul, Dimitri Vegas, Like Mike, Vini Vici",
         "title":  "Untz Untz (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4667,
         "votes":  0
     },
     {
         "artist":  "Liquid Soul, Neodyne",
         "title":  "Believe (Phanatic \u0026 Static Movement Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4668,
         "votes":  0
     },
     {
         "artist":  "Relativ, MoRsei",
         "title":  "Are We Dreaming (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4669,
         "votes":  0
     },
     {
         "artist":  "Marnik \u0026 Smack",
         "title":  "Gam Gam (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4670,
         "votes":  0
     },
     {
         "artist":  "Rezonant",
         "title":  "Tik Tak (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4671,
         "votes":  0
     },
     {
         "artist":  "Martian Arts",
         "title":  "Fair and Square (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4672,
         "votes":  0
     },
     {
         "artist":  "Shekinah, Avan7",
         "title":  "Chain of Beginnings (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4673,
         "votes":  0
     },
     {
         "artist":  "Modual, Djantrix",
         "title":  "Release Yourself (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4674,
         "votes":  0
     },
     {
         "artist":  "Solarix",
         "title":  "Everything (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4675,
         "votes":  0
     },
     {
         "artist":  "Porat",
         "title":  "Undipresia (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4676,
         "votes":  0
     },
     {
         "artist":  "Spectree",
         "title":  "Full Power Mode (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4677,
         "votes":  0
     },
     {
         "artist":  "Render, Braingineers",
         "title":  "Wanna be Famous (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4678,
         "votes":  0
     },
     {
         "artist":  "Sub6",
         "title":  "Holy Grail (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4679,
         "votes":  0
     },
     {
         "artist":  "Render, Everblast",
         "title":  "The K Council (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4680,
         "votes":  0
     },
     {
         "artist":  "Synthatic",
         "title":  "Frequency (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4681,
         "votes":  0
     },
     {
         "artist":  "Tripadvisor",
         "title":  "Giga Skunk 3000 (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4682,
         "votes":  0
     },
     {
         "artist":  "Render, Kabayun, Daksinamurti, Radikal Moodz",
         "title":  "Perpetual (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4683,
         "votes":  0
     },
     {
         "artist":  "Unlimited Psytrance, DropKeeper",
         "title":  "Gotta Way (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4684,
         "votes":  0
     },
     {
         "artist":  "Render, Oksha",
         "title":  "Understand (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4685,
         "votes":  0
     },
     {
         "artist":  "W\u0026W",
         "title":  "OIIA OIIA (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4686,
         "votes":  0
     },
     {
         "artist":  "Render, Southwild",
         "title":  "Jungle Kids (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4687,
         "votes":  0
     },
     {
         "artist":  "X-NoiZe, AZAX",
         "title":  "The Creator (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4688,
         "votes":  0
     },
     {
         "artist":  "Render, Wubba Lubba",
         "title":  "Aquarium (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4689,
         "votes":  0
     },
     {
         "artist":  "Xompax, Kauyumari",
         "title":  "Time Stretcher (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4690,
         "votes":  0
     },
     {
         "artist":  "Shekinah, Render",
         "title":  "Playground (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4691,
         "votes":  0
     },
     {
         "artist":  "X-side, Unstable",
         "title":  "Brighter Future (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4692,
         "votes":  0
     },
     {
         "artist":  "Sonic Entity",
         "title":  "Beyond Life (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4693,
         "votes":  0
     },
     {
         "artist":  "Armin Van Buuren",
         "title":  "Turn It Up (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4694,
         "votes":  0
     },
     {
         "artist":  "Symphonix, Morten Granau",
         "title":  "Alone (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4695,
         "votes":  0
     },
     {
         "artist":  "Synthetik Chaos, Rugrats",
         "title":  "Jungle Mess (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4696,
         "votes":  0
     },
     {
         "artist":  "Astral Projection",
         "title":  "Searching For UFOs (Alienatic Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4697,
         "votes":  0
     },
     {
         "artist":  "Avan7, 3LMT",
         "title":  "The World Of Adhana (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4698,
         "votes":  0
     },
     {
         "artist":  "Terra, Vini Vici, Sandhog",
         "title":  "Gyoza (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4699,
         "votes":  0
     },
     {
         "artist":  "Tijah",
         "title":  "Cloistered (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4700,
         "votes":  0
     },
     {
         "artist":  "Complicated",
         "title":  "Cosmic Navigator (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4701,
         "votes":  0
     },
     {
         "artist":  "Tijah, LIMBU (BR)",
         "title":  "MoonBow (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4702,
         "votes":  0
     },
     {
         "artist":  "David Guetta",
         "title":  "Love Is Gone (Jesse Bloch Psy Boolteg)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4703,
         "votes":  0
     },
     {
         "artist":  "Depeche Mode",
         "title":  "Personal Jesus (Trp Bootleg)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4704,
         "votes":  0
     },
     {
         "artist":  "Tijah, Oxiv",
         "title":  "The Game (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4705,
         "votes":  0
     },
     {
         "artist":  "Anina Owly, Thomas Klipps",
         "title":  "Shameless (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4706,
         "votes":  0
     },
     {
         "artist":  "Anyma (ofc)",
         "title":  "Syren (Amelie Lens Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4707,
         "votes":  0
     },
     {
         "artist":  "Blasterjaxx, Zafrir",
         "title":  "Flying Dutchman (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4708,
         "votes":  0
     },
     {
         "artist":  "Blastoyz",
         "title":  "Mandala (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4709,
         "votes":  0
     },
     {
         "artist":  "Blastoyz, Sajanka, Liora Itzhak",
         "title":  "Indian Spirit (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4710,
         "votes":  0
     },
     {
         "artist":  "Disconect",
         "title":  "Shiva Shambo (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4711,
         "votes":  0
     },
     {
         "artist":  "FNX",
         "title":  "Darkness (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4712,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte, R3HAB",
         "title":  "The Portrait (Extended Version)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4713,
         "votes":  0
     },
     {
         "artist":  "Garmiani",
         "title":  "AVA (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4714,
         "votes":  0
     },
     {
         "artist":  "KSHMR, Zafrir",
         "title":  "Winners Anthem (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4715,
         "votes":  0
     },
     {
         "artist":  "Loud",
         "title":  "5 Billion Stars (Captain Hook Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4716,
         "votes":  0
     },
     {
         "artist":  "Neelix",
         "title":  "Bang Bang (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4717,
         "votes":  0
     },
     {
         "artist":  "Neelix",
         "title":  "Rebellion (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4718,
         "votes":  0
     },
     {
         "artist":  "Neelix",
         "title":  "Shadows (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4719,
         "votes":  0
     },
     {
         "artist":  "Neelix, Caroline Harrison",
         "title":  "Makeup (Blazy Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4720,
         "votes":  0
     },
     {
         "artist":  "Sajanka",
         "title":  "Sun Is Coming (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4721,
         "votes":  0
     },
     {
         "artist":  "Skazi, NERVO",
         "title":  "Faded (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4722,
         "votes":  0
     },
     {
         "artist":  "Talamasca",
         "title":  "Lady Sweet Dream (Megatone Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4723,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, KSHMR, Zafrir",
         "title":  "The Prayer (Extended Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4724,
         "votes":  0
     },
     {
         "artist":  "Astrix, Ritmo",
         "title":  "Ziran (Antinomy Remix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4725,
         "votes":  0
     },
     {
         "artist":  "Atomic Pulse, Octagon",
         "title":  "Atomic Bomb (Original Mix)",
-        "genre":  "Psy-Trance",
+        "genre":  "Psytrance",
         "id":  4726,
         "votes":  0
     },
     {
         "artist":  "Alok, The Chainsmokers, Mae Stephens",
         "title":  "Jungle (Arcando Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4727,
         "votes":  0
     },
     {
         "artist":  "Anna of the North, Dom Valentino, Alfie Templeman",
         "title":  "Young Folks (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4728,
         "votes":  0
     },
     {
         "artist":  "Bastille, Lost Frequencies",
         "title":  "Head Down (Used Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4729,
         "votes":  0
     },
     {
         "artist":  "Bennett",
         "title":  "Vois Sur Ton Chemin (DnB Extended Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4730,
         "votes":  0
     },
     {
         "artist":  "Black Sun Empire, Noisia",
         "title":  "Hideous (LeStR Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4731,
         "votes":  0
     },
     {
         "artist":  "Camo \u0026 Krooked, Blooom",
         "title":  "Faith (Blooom Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4732,
         "votes":  0
     },
     {
         "artist":  "Chika, Anderson .Paak, Fred again..",
         "title":  "Places To Be (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4733,
         "votes":  0
     },
     {
         "artist":  "Deekline, Katalyst",
         "title":  "Tyreman (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4734,
         "votes":  0
     },
     {
         "artist":  "DLR",
         "title":  "Tryna Get This Money (Got None VIP)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4735,
         "votes":  0
     },
     {
         "artist":  "Ed Solo, Deekline, Yolanda",
         "title":  "Bam Bam (Euphonique \u0026 Dazee Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4736,
         "votes":  0
     },
     {
         "artist":  "Ed Solo, Kaya Fyah, MC Det, Martial Taktics",
         "title":  "She Was Afraid (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4737,
         "votes":  0
     },
     {
         "artist":  "Ella Henderson",
         "title":  "Alibi (Henri PFR Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4738,
         "votes":  0
     },
     {
         "artist":  "Enei",
         "title":  "Alligator (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4739,
         "votes":  0
     },
     {
         "artist":  "Enei",
         "title":  "Dead Rollout (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4740,
         "votes":  0
     },
     {
         "artist":  "Ev, Ben Gerrans",
         "title":  "English Lad (Midnight Dance Party Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4741,
         "votes":  0
     },
     {
         "artist":  "Feed The Fire",
         "title":  "Rock Your Face (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4742,
         "votes":  0
     },
     {
         "artist":  "Fred again.., Baby Keem",
         "title":  "leavemealone (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4743,
         "votes":  0
     },
     {
         "artist":  "Gancher \u0026 Ruin, Raizer",
         "title":  "Seven Nation Army (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4744,
         "votes":  0
     },
     {
         "artist":  "Hedex, Tion Wayne",
         "title":  "Lowkey (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4745,
         "votes":  0
     },
     {
         "artist":  "Kenya Grace",
         "title":  "Strangers (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4746,
         "votes":  0
     },
     {
         "artist":  "LSB, Tokyo Prose",
         "title":  "Infinite Blue (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4747,
         "votes":  0
     },
     {
         "artist":  "A Little Sound",
         "title":  "Override (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4748,
         "votes":  0
     },
     {
         "artist":  "Adam F, MC Conrad",
         "title":  "F-Jam Revisited (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4749,
         "votes":  0
     },
     {
         "artist":  "Mason, Princess Superstar",
         "title":  "Perfect (1991 Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4750,
         "votes":  0
     },
     {
         "artist":  "MC Spyda, Selecta J-Man",
         "title":  "Foundation Style (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4751,
         "votes":  0
     },
     {
         "artist":  "Alesso, Becky Hill",
         "title":  "Surrender (Skepsis Extended Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4752,
         "votes":  0
     },
     {
         "artist":  "Netsky, Dillon Francis",
         "title":  "Nobody Likes The Records That I Play (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4753,
         "votes":  0
     },
     {
         "artist":  "Arcando",
         "title":  "California Dreamin\u0027 (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4754,
         "votes":  0
     },
     {
         "artist":  "Punchman",
         "title":  "Komar (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4755,
         "votes":  0
     },
     {
         "artist":  "Arcando, Pirapus",
         "title":  "Ultrasound (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4756,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, Pendulum, Rob Swire",
         "title":  "Sound of You (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4757,
         "votes":  0
     },
     {
         "artist":  "Riko Dan, Rudimental, Skepsis, Charlotte Plank",
         "title":  "Green \u0026 Gold (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4758,
         "votes":  0
     },
     {
         "artist":  "Cheetah, Nia Archives",
         "title":  "Get Loose (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4759,
         "votes":  0
     },
     {
         "artist":  "ShockOne",
         "title":  "Hey Boy Hey Girl (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4760,
         "votes":  0
     },
     {
         "artist":  "Coco, Dizzee Rascal, Sigma",
         "title":  "R U Sleeping (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4761,
         "votes":  0
     },
     {
         "artist":  "Sigma, Joe Devlin",
         "title":  "The Corner (Original Sin x Sub Zero Club Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4762,
         "votes":  0
     },
     {
         "artist":  "Control Alt Delete",
         "title":  "Blackout (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4763,
         "votes":  0
     },
     {
         "artist":  "Sub Focus, Julia Church, John Summit",
         "title":  "Go Back (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4764,
         "votes":  0
     },
     {
         "artist":  "Control Alt Delete",
         "title":  "Maniac (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4765,
         "votes":  0
     },
     {
         "artist":  "Subsonic",
         "title":  "Feel Ur Touch (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4766,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Dimitri Vegas, Loreen",
         "title":  "Pum Pum (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4767,
         "votes":  0
     },
     {
         "artist":  "Sudley, Rendah",
         "title":  "Comedown (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4768,
         "votes":  0
     },
     {
         "artist":  "Tanukichi",
         "title":  "Drop It (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4769,
         "votes":  0
     },
     {
         "artist":  "DRZ",
         "title":  "Dance (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4770,
         "votes":  0
     },
     {
         "artist":  "Tiesto, Hedex, Basslayerz",
         "title":  "Click Click Click (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4771,
         "votes":  0
     },
     {
         "artist":  "Enei",
         "title":  "Flute Anthem (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4772,
         "votes":  0
     },
     {
         "artist":  "Trigga, Chase \u0026 Status, Irah, Flowdan, Bou",
         "title":  "Baddadan (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4773,
         "votes":  0
     },
     {
         "artist":  "Formula, DRZ",
         "title":  "Hypno Toad (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4774,
         "votes":  0
     },
     {
         "artist":  "True Tactix",
         "title":  "On The Ceiling (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4775,
         "votes":  0
     },
     {
         "artist":  "Georgie Riot",
         "title":  "Drop It (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4776,
         "votes":  0
     },
     {
         "artist":  "Turno, James Hype, Kim Petras",
         "title":  "Drums (Turno Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4777,
         "votes":  0
     },
     {
         "artist":  "GPF, gladde paling",
         "title":  "greazy boi \u0026 slippy eel (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4778,
         "votes":  0
     },
     {
         "artist":  "Irah, Malaa, Malaa (Alter Ego)",
         "title":  "Psycho (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4779,
         "votes":  0
     },
     {
         "artist":  "Turno, POLTERGST",
         "title":  "Move It (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4780,
         "votes":  0
     },
     {
         "artist":  "Jamakabi, Ganja White Night, PAV4N",
         "title":  "Push It Up (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4781,
         "votes":  0
     },
     {
         "artist":  "Unkown Artist",
         "title":  "One More Time (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4782,
         "votes":  0
     },
     {
         "artist":  "Knock2",
         "title":  "Selecta (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4783,
         "votes":  0
     },
     {
         "artist":  "Vecster, IMMERR",
         "title":  "Dark Message (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4784,
         "votes":  0
     },
     {
         "artist":  "Kontakt, T_I, Mad Sam",
         "title":  "Rude Boi Style (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4785,
         "votes":  0
     },
     {
         "artist":  "Lee Mvtthews",
         "title":  "Ready 4 It (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4786,
         "votes":  0
     },
     {
         "artist":  "Alibi",
         "title":  "Cause \u0026 Effect (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4787,
         "votes":  0
     },
     {
         "artist":  "Lens, Emily Makis",
         "title":  "Danger Zone (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4788,
         "votes":  0
     },
     {
         "artist":  "Lexurus",
         "title":  "Close To You (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4789,
         "votes":  0
     },
     {
         "artist":  "Majistrate, Profile, Sub Killaz",
         "title":  "Still In Action (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4790,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix, Arcando, Bonn",
         "title":  "Set Me Free (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4791,
         "votes":  0
     },
     {
         "artist":  "Mesto, Martin Garrix",
         "title":  "Limitless (Arcando Extended Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4792,
         "votes":  0
     },
     {
         "artist":  "Molecular",
         "title":  "Fair Warning (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4793,
         "votes":  0
     },
     {
         "artist":  "Molecular",
         "title":  "Got Game (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4794,
         "votes":  0
     },
     {
         "artist":  "Mozey, Circadian",
         "title":  "Louder (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4795,
         "votes":  0
     },
     {
         "artist":  "Netsky, Andromedik",
         "title":  "Out of Body (Blooom Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4796,
         "votes":  0
     },
     {
         "artist":  "Original Sin, Skepsis",
         "title":  "Light Up (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4797,
         "votes":  0
     },
     {
         "artist":  "Premonition, MYKOOL, Kaizah",
         "title":  "Dynamite (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4798,
         "votes":  0
     },
     {
         "artist":  "QZB",
         "title":  "Haste (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4799,
         "votes":  0
     },
     {
         "artist":  "REAPER, Basstripper",
         "title":  "Moment (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4800,
         "votes":  0
     },
     {
         "artist":  "Sigma, Jamakabi, Scrufizzer",
         "title":  "Chargie (Extended Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4801,
         "votes":  0
     },
     {
         "artist":  "Sub Focus, Culture Shock, Fragma",
         "title":  "Miracle (VIP Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4802,
         "votes":  0
     },
     {
         "artist":  "Sub Focus, Morgan Seatree",
         "title":  "Say My Name (Sub Focus Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4803,
         "votes":  0
     },
     {
         "artist":  "Wilkinson, Interplanetary Criminal, Kettama",
         "title":  "Yosemite (Wilkinson Remix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4804,
         "votes":  0
     },
     {
         "artist":  "1991, ROVA (NZ)",
         "title":  "Hijack (Original Mix)",
-        "genre":  "D\u0026B",
+        "genre":  "Drum \u0026 Bass",
         "id":  4805,
         "votes":  0
     },
@@ -27204,574 +27204,574 @@
     {
         "artist":  "Acidus, Jacidorex",
         "title":  "Mob (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4886,
         "votes":  0
     },
     {
         "artist":  "Activator",
         "title":  "We Will Rock You (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4887,
         "votes":  0
     },
     {
         "artist":  "Activator, RK79",
         "title":  "It\u0027s Criminal (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4888,
         "votes":  0
     },
     {
         "artist":  "Ali James",
         "title":  "Bassline Pumping (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4889,
         "votes":  0
     },
     {
         "artist":  "Andreas Kraemer",
         "title":  "Pull 2025 (KROWTEK Remix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4890,
         "votes":  0
     },
     {
         "artist":  "Apashe, Vladimir Cauchemar",
         "title":  "RIP (Vendex Remix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4891,
         "votes":  0
     },
     {
         "artist":  "Argy (UK), Ferb (UK)",
         "title":  "Touch It Flip It (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4892,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, Just_us",
         "title":  "Make It Count (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4893,
         "votes":  0
     },
     {
         "artist":  "Armin van Buuren, W\u0026W",
         "title":  "Late Checkout (Will Atkinson Remix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4894,
         "votes":  0
     },
     {
         "artist":  "BOTL",
         "title":  "Hear The Noise (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4895,
         "votes":  0
     },
     {
         "artist":  "CARV",
         "title":  "Ruler Vibes (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4896,
         "votes":  0
     },
     {
         "artist":  "CERES, LÄUFF",
         "title":  "Emergency (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4897,
         "votes":  0
     },
     {
         "artist":  "Charles B, Oliver Heldens, Dana Vicci",
         "title":  "Mozart\u0027s Final Rave (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4898,
         "votes":  0
     },
     {
         "artist":  "Creeds",
         "title":  "Push Up (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4899,
         "votes":  0
     },
     {
         "artist":  "Creeds, VCL, DXPE",
         "title":  "Radical Experience (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4900,
         "votes":  0
     },
     {
         "artist":  "DJ Isaac",
         "title":  "Feel so Good (Creeds Remix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4901,
         "votes":  0
     },
     {
         "artist":  "DOSTROIC",
         "title":  "PRECISION (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4902,
         "votes":  0
     },
     {
         "artist":  "DTKØ",
         "title":  "Power Fusion (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4903,
         "votes":  0
     },
     {
         "artist":  "Fatima Hajji",
         "title":  "Hooked (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4904,
         "votes":  0
     },
     {
         "artist":  "FLKN",
         "title":  "Mayhem (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4905,
         "votes":  0
     },
     {
         "artist":  "Foxium",
         "title":  "Don\u0027t Stop The Rave (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4906,
         "votes":  0
     },
     {
         "artist":  "GEWOONRAVES, Zentryc, Roncero",
         "title":  "Meet Her At The Love Parade (Hard Techno Edit)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4907,
         "votes":  0
     },
     {
         "artist":  "GNRØ",
         "title":  "Rock This Place (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4908,
         "votes":  0
     },
     {
         "artist":  "Golpe",
         "title":  "Master At Work (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4909,
         "votes":  0
     },
     {
         "artist":  "H! Dude",
         "title":  "Rando Raid (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4910,
         "votes":  0
     },
     {
         "artist":  "JBS, MilleniumKid",
         "title":  "Vielleicht Vielleicht (HolyPriest \u0026 elMefti Remix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4911,
         "votes":  0
     },
     {
         "artist":  "Joey Risdon",
         "title":  "From Ashes (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4912,
         "votes":  0
     },
     {
         "artist":  "KNTRLVRLST, KXD-LvL",
         "title":  "Oh F_ck (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4913,
         "votes":  0
     },
     {
         "artist":  "KNTRLVRLST, TOM NAYLOR",
         "title":  "Code 2 (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4914,
         "votes":  0
     },
     {
         "artist":  "KUKO (DE)",
         "title":  "Die Tonight (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4915,
         "votes":  0
     },
     {
         "artist":  "Laren, Nico Moreno",
         "title":  "You Make Me Horny (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4916,
         "votes":  0
     },
     {
         "artist":  "Lukas, Vendex",
         "title":  "Your Soul Is Mine (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4917,
         "votes":  0
     },
     {
         "artist":  "Luke Noize",
         "title":  "Nobody Move (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4918,
         "votes":  0
     },
     {
         "artist":  "Maddix, The Rocketman",
         "title":  "90s Bitch (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4919,
         "votes":  0
     },
     {
         "artist":  "Marco Leckbert",
         "title":  "Hard Techno Signals (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4920,
         "votes":  0
     },
     {
         "artist":  "Marco Leckbert, Luca Maier",
         "title":  "Aguila Del Monte (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4921,
         "votes":  0
     },
     {
         "artist":  "Mx2 e Sick",
         "title":  "Another Fucking System (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4922,
         "votes":  0
     },
     {
         "artist":  "Mzperx",
         "title":  "Ah Shit (Zeltak Remix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4923,
         "votes":  0
     },
     {
         "artist":  "N.O.B.A, MASSA (FR)",
         "title":  "Enter the Grid (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4924,
         "votes":  0
     },
     {
         "artist":  "N00M1, IOSIO",
         "title":  "Party\u0027s Jumpin\u0027 (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4925,
         "votes":  0
     },
     {
         "artist":  "Naij",
         "title":  "FLIGHTL444 (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4926,
         "votes":  0
     },
     {
         "artist":  "Nico Moreno",
         "title":  "Just A Country Boy (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4927,
         "votes":  0
     },
     {
         "artist":  "Nico Moreno",
         "title":  "T\u0027as Cru Quoi (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4928,
         "votes":  0
     },
     {
         "artist":  "Nicolas Julian, NOTMYTYPE, AENJAY",
         "title":  "Jump Dance Move Bounce (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4929,
         "votes":  0
     },
     {
         "artist":  "Nicolas Julian, NOTMYTYPE, AENJAY",
         "title":  "Jump Dance Move Bounce (VIP Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4930,
         "votes":  0
     },
     {
         "artist":  "NineTed",
         "title":  "Do You Believe In Satan (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4931,
         "votes":  0
     },
     {
         "artist":  "ONYXS",
         "title":  "Breathe and Let Me Go (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4932,
         "votes":  0
     },
     {
         "artist":  "Patrick Scuro, SCURO BLACK, BLK BUG",
         "title":  "Wunderland (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4933,
         "votes":  0
     },
     {
         "artist":  "Pawlowski",
         "title":  "Space Odyssey (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4934,
         "votes":  0
     },
     {
         "artist":  "PISAPIA (IT)",
         "title":  "Destino (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4935,
         "votes":  0
     },
     {
         "artist":  "PRAKAS",
         "title":  "Kick Some Ass (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4936,
         "votes":  0
     },
     {
         "artist":  "PRAKAS",
         "title":  "Soul Sucker (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4937,
         "votes":  0
     },
     {
         "artist":  "PRMIDV",
         "title":  "Everybody (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4938,
         "votes":  0
     },
     {
         "artist":  "Rafael de la King",
         "title":  "Don\u0027t Stop The Rave (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4939,
         "votes":  0
     },
     {
         "artist":  "ROBPM",
         "title":  "Curiosity (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4940,
         "votes":  0
     },
     {
         "artist":  "Sara Landry, Alt8",
         "title":  "Heaven (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4941,
         "votes":  0
     },
     {
         "artist":  "Showtek, Reinier Zonneveld",
         "title":  "FTS (Reinier Zonneveld Extended Tech Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4942,
         "votes":  0
     },
     {
         "artist":  "SICKEAU",
         "title":  "The Rhythm (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4943,
         "votes":  0
     },
     {
         "artist":  "SOLYD",
         "title":  "Work (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4944,
         "votes":  0
     },
     {
         "artist":  "Sonny Wern",
         "title":  "In My Mind (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4945,
         "votes":  0
     },
     {
         "artist":  "Sopik",
         "title":  "Cosmic Places and Dnipro (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4946,
         "votes":  0
     },
     {
         "artist":  "Spencer Dunning",
         "title":  "Boxer (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4947,
         "votes":  0
     },
     {
         "artist":  "Stan Christ",
         "title":  "Lucid Dreams (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4948,
         "votes":  0
     },
     {
         "artist":  "Sterbinsky, Mynea, Rackwheel",
         "title":  "Insomnia (Extended Mix By Fuvi Clan)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4949,
         "votes":  0
     },
     {
         "artist":  "Supermode, Maddix",
         "title":  "Tell Me Why (Maddix Extended Remix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4950,
         "votes":  0
     },
     {
         "artist":  "SveTec, Kaori",
         "title":  "Let\u0027s Scream (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4951,
         "votes":  0
     },
     {
         "artist":  "Temprano",
         "title":  "Ay Papi (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4952,
         "votes":  0
     },
     {
         "artist":  "TETCHKO",
         "title":  "Loose Cannon (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4953,
         "votes":  0
     },
     {
         "artist":  "Tham",
         "title":  "Sky Ruler (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4954,
         "votes":  0
     },
     {
         "artist":  "The Obsessed",
         "title":  "One More (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4955,
         "votes":  0
     },
     {
         "artist":  "The Obsessed, DBF (UK)",
         "title":  "To The Beat Of The Drum (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4956,
         "votes":  0
     },
     {
         "artist":  "Toltec, Journobeats",
         "title":  "I Wanna Dance (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4957,
         "votes":  0
     },
     {
         "artist":  "TRIZZY",
         "title":  "Masked Massacre (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4958,
         "votes":  0
     },
     {
         "artist":  "VAENT",
         "title":  "Acid Wave (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4959,
         "votes":  0
     },
     {
         "artist":  "VENTUR, TELETECH",
         "title":  "Don\u0027t Call Me (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4960,
         "votes":  0
     },
     {
         "artist":  "VENTUR, TELETECH",
         "title":  "Hot Trail (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4961,
         "votes":  0
     },
     {
         "artist":  "Warface, Nico Moreno",
         "title":  "2 Be High (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4962,
         "votes":  0
     },
     {
         "artist":  "Warp Brothers, DRAKK",
         "title":  "Phatt Bass (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4963,
         "votes":  0
     },
     {
         "artist":  "YKØ",
         "title":  "Like A Dragon (Original Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4964,
         "votes":  0
     },
     {
         "artist":  "Zeyn",
         "title":  "Im Bann des Teufels (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4965,
         "votes":  0
     },
     {
         "artist":  "Kirk",
         "title":  "CD Is Dead (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4966,
         "votes":  0
     },
     {
         "artist":  "ZHU, BadWolf",
         "title":  "Smoke Up In The Air (Extended Mix)",
-        "genre":  "Hard Tech",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  4967,
         "votes":  0
     },
@@ -32405,504 +32405,504 @@
     {
         "artist":  "Dimitri K, Holy Priest",
         "title":  "Top Line (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5629,
         "votes":  0
     },
     {
         "artist":  "Anderex",
         "title":  "Be With You (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5630,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike",
         "title":  "Heroine (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5631,
         "votes":  0
     },
     {
         "artist":  "Angerfist, MC Robs",
         "title":  "Overdosis (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5632,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Junkie Kid, Bountyhunter",
         "title":  "Woops (Dimitri Vegas \u0026 Junkie Kid Extended Remix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5633,
         "votes":  0
     },
     {
         "artist":  "Aversion, Dual Damage",
         "title":  "XTINCTION (Pro Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5634,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, The Darkman",
         "title":  "Illegale (Dimitri Vegas Extended Remix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5635,
         "votes":  0
     },
     {
         "artist":  "Bloodlust",
         "title":  "Tell Me (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5636,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas, Timmy Trumpet",
         "title":  "All I Want For Christmas Is You (Extended Mix By Fuvi Clan)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5637,
         "votes":  0
     },
     {
         "artist":  "Brennan Heart, Darius \u0026 Finlay, Timmy Trumpet, Dimitri Vegas \u0026 Like Mike",
         "title":  "Explode (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5638,
         "votes":  0
     },
     {
         "artist":  "DJ Snake, The Outlaw",
         "title":  "Final Fantasy (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5639,
         "votes":  0
     },
     {
         "artist":  "Brennan Heart, Tony Junior, Dimitri Vegas \u0026 Like Mike",
         "title":  "The Scientist (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5640,
         "votes":  0
     },
     {
         "artist":  "BYØRN",
         "title":  "Adagio For Strings (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5641,
         "votes":  0
     },
     {
         "artist":  "Gabry Ponte",
         "title":  "Ghost (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5642,
         "votes":  0
     },
     {
         "artist":  "Hardwell, Villain, Maddix",
         "title":  "Rave Till My Grave (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5643,
         "votes":  0
     },
     {
         "artist":  "CARAVEL, TELETECH",
         "title":  "Unfaithful (CARV Remix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5644,
         "votes":  0
     },
     {
         "artist":  "Holy Priest",
         "title":  "Gangster Life (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5645,
         "votes":  0
     },
     {
         "artist":  "Da Tweekaz",
         "title":  "Sunrise (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5646,
         "votes":  0
     },
     {
         "artist":  "Krowdexx, Holy Priest",
         "title":  "Bass Powah (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5647,
         "votes":  0
     },
     {
         "artist":  "Da Tweekaz",
         "title":  "Tequila (15 Years Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5648,
         "votes":  0
     },
     {
         "artist":  "KX CHR",
         "title":  "Yaya (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5649,
         "votes":  0
     },
     {
         "artist":  "Da Tweekaz, Lene Kokai",
         "title":  "Norwegian Lullaby (15 Years Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5650,
         "votes":  0
     },
     {
         "artist":  "Malaa, Vortek\u0027s, Malaa (Alter Ego)",
         "title":  "Ghetto (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5651,
         "votes":  0
     },
     {
         "artist":  "Da Tweekaz, Timmy Trumpet",
         "title":  "Boom Boom Boom (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5652,
         "votes":  0
     },
     {
         "artist":  "Mark With A K, Timmy Trumpet",
         "title":  "Tornado (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5653,
         "votes":  0
     },
     {
         "artist":  "D-Block \u0026 S-te-Fan",
         "title":  "Fire (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5654,
         "votes":  0
     },
     {
         "artist":  "Marlon Hoffstadt, DJ Daddy Trance",
         "title":  "It\u0027s That Time (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5655,
         "votes":  0
     },
     {
         "artist":  "D-Block \u0026 S-te-Fan, Sefa",
         "title":  "Symphony Of Life (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5656,
         "votes":  0
     },
     {
         "artist":  "Naeleck, VINAI, Marnik",
         "title":  "Boyz In Paris (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5657,
         "votes":  0
     },
     {
         "artist":  "Dimitri K",
         "title":  "Chase The Sun (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5658,
         "votes":  0
     },
     {
         "artist":  "Netherworld",
         "title":  "Atalantis (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5659,
         "votes":  0
     },
     {
         "artist":  "Dr Rude",
         "title":  "Move Your Feet (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5660,
         "votes":  0
     },
     {
         "artist":  "D-Sturb, Aversion, Disarray",
         "title":  "Lost In A Fantasy (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5661,
         "votes":  0
     },
     {
         "artist":  "Nik Sitz",
         "title":  "Bounce To The Sound (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5662,
         "votes":  0
     },
     {
         "artist":  "Issey Cross",
         "title":  "Bittersweet Goodbye (Tiësto\u0027s Hardcore Remix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5663,
         "votes":  0
     },
     {
         "artist":  "Olly James",
         "title":  "I Wanna Dance (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5664,
         "votes":  0
     },
     {
         "artist":  "Karashnikov, PALØ",
         "title":  "Underground (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5665,
         "votes":  0
     },
     {
         "artist":  "Prezioso, Harris \u0026 Ford, Shibui",
         "title":  "Hands Up (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5666,
         "votes":  0
     },
     {
         "artist":  "Leila K, Maddix",
         "title":  "Open Sesame (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5667,
         "votes":  0
     },
     {
         "artist":  "Ran D",
         "title":  "Zombie (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5668,
         "votes":  0
     },
     {
         "artist":  "Maddix, Basswell, Fēlēs",
         "title":  "My Gasoline (Extended Hard Edit)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5669,
         "votes":  0
     },
     {
         "artist":  "REKKT, Nivk",
         "title":  "Laisse Nous Raver (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5670,
         "votes":  0
     },
     {
         "artist":  "Rudeejay, Luca Testa",
         "title":  "Scatman (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5671,
         "votes":  0
     },
     {
         "artist":  "Naeleck, VINAI, Marnik",
         "title":  "Boyz In Paris (W\u0026W HardRave Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5672,
         "votes":  0
     },
     {
         "artist":  "Ruthless, Potato, Lock \u0027N Load",
         "title":  "Blow Ya Mind (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5673,
         "votes":  0
     },
     {
         "artist":  "Onlynumbers",
         "title":  "Rage Every Night (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5674,
         "votes":  0
     },
     {
         "artist":  "Showtek, Sub Zero Project",
         "title":  "FTS (Sub Zero Project Extended Rework)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5675,
         "votes":  0
     },
     {
         "artist":  "Oscar, Da Tweekaz",
         "title":  "Break The Spell (15 Years Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5676,
         "votes":  0
     },
     {
         "artist":  "Sunset Bros, Dimatik",
         "title":  "Better Off Alone (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5677,
         "votes":  0
     },
     {
         "artist":  "Ran-D, D-Sturb, Xception",
         "title":  "Dance With The Devil (Kick Edit Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5678,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, 3 Are Legend",
         "title":  "Country Roads (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5679,
         "votes":  0
     },
     {
         "artist":  "Regi, Mark With A K",
         "title":  "Cambodia (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5680,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Sub Zero Project, Dimitri Vegas \u0026 Like Mike",
         "title":  "Move Your Body (Extended Mix By Fuvi Clan)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5681,
         "votes":  0
     },
     {
         "artist":  "Showtek",
         "title":  "Colours (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5682,
         "votes":  0
     },
     {
         "artist":  "Vladimir Cauchemar, Todiefor, Vald",
         "title":  "Prozaczopixan Reloaded (Extended Mix By Fuvi Clan)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5683,
         "votes":  0
     },
     {
         "artist":  "Showtek",
         "title":  "We Speak Music Again (D-Sturb Extended Remix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5684,
         "votes":  0
     },
     {
         "artist":  "Vladimir Cauchemar, Vald, Todiefor",
         "title":  "Regulation Reloaded (Extended Mix By Fuvi Clan)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5685,
         "votes":  0
     },
     {
         "artist":  "Sub Zero Project, Bryant Powell",
         "title":  "Refuse To Speak (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5686,
         "votes":  0
     },
     {
         "artist":  "Vladimir Cauchemar, Vald, Todiefor",
         "title":  "Regulation Reloaded (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5687,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Restricted",
         "title":  "Perfect (Extended Edit)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5688,
         "votes":  0
     },
     {
         "artist":  "Vortek\u0027s",
         "title":  "Ao Céu (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5689,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet, Vini Vici, Tiscore",
         "title":  "Hey Ya (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5690,
         "votes":  0
     },
     {
         "artist":  "Vortek\u0027s",
         "title":  "No Way (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5691,
         "votes":  0
     },
     {
         "artist":  "Warface, Carola",
         "title":  "Rave From The Grave (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5692,
         "votes":  0
     },
     {
         "artist":  "Vortek\u0027s",
         "title":  "Reflex (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5693,
         "votes":  0
     },
     {
         "artist":  "Warp Brothers \u0026 Flymeon",
         "title":  "Phatt Bass (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5694,
         "votes":  0
     },
     {
         "artist":  "Vortek\u0027s, OMAKS, ENERGIC",
         "title":  "Morning Rave (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5695,
         "votes":  0
     },
     {
         "artist":  "Acidus",
         "title":  "Bass Intensity (Original Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5696,
         "votes":  0
     },
     {
         "artist":  "Warface, Nico Moreno, Holy Priest",
         "title":  "2 Be High (Holy Priest Remix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5697,
         "votes":  0
     },
     {
         "artist":  "Adjuzt, Jordan Jade",
         "title":  "Back To Life (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5698,
         "votes":  0
     },
     {
         "artist":  "2 Brothers On The 4th Floor, Maddix, The Rocketman",
         "title":  "Never Alone (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5699,
         "votes":  0
     },
     {
         "artist":  "999999999, FLKN",
         "title":  "Acid Blood (Extended Mix)",
-        "genre":  "Hard Style",
+        "genre":  "Hardstyle \u0026 Tech",
         "id":  5700,
         "votes":  0
     },
@@ -33427,1106 +33427,1106 @@
     {
         "artist":  "Ariana Grande Ft. Iggy Azalea",
         "title":  "Problem (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5775,
         "votes":  0
     },
     {
         "artist":  "Ava Max",
         "title":  "Lovin Myself (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5776,
         "votes":  0
     },
     {
         "artist":  "Beyonce",
         "title":  "CUFF IT (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5777,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris \u0026 Dua Lipa",
         "title":  "One Kiss (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5778,
         "votes":  0
     },
     {
         "artist":  "Charli Xcx, Jax Jones, Joel Corry, Saweetie",
         "title":  "OUT OUT (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5779,
         "votes":  0
     },
     {
         "artist":  "Charlotte Cardin",
         "title":  "Feel Good (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5780,
         "votes":  0
     },
     {
         "artist":  "Damiano David",
         "title":  "Born With a Broken Heart (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5781,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Teddy Swims, Tones and I",
         "title":  "Gone Gone Gone (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5782,
         "votes":  0
     },
     {
         "artist":  "Dj Snake, Bipolar Sunshine",
         "title":  "Paradise (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5783,
         "votes":  0
     },
     {
         "artist":  "DJ Snake, Bipolar Sunshine",
         "title":  "Paradise (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5784,
         "votes":  0
     },
     {
         "artist":  "Doechii",
         "title":  "Anxiety (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5785,
         "votes":  0
     },
     {
         "artist":  "Dojat Cat",
         "title":  "Jealous Type (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5786,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Dance The Night (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5787,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Houdini (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5788,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa, Troye Sivan",
         "title":  "Physical (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5789,
         "votes":  0
     },
     {
         "artist":  "Ed Sheeran",
         "title":  "Azizam (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5790,
         "votes":  0
     },
     {
         "artist":  "Flo Rida Ft. HEESEUNG \u0026 JAKE of ENHYPEN x Paul Russell",
         "title":  "Confessions (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5791,
         "votes":  0
     },
     {
         "artist":  "J Balvin \u0026 Willy William Ft. Beyonce",
         "title":  "Mi Gente (Remix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5792,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga",
         "title":  "The Dead Dance (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5793,
         "votes":  0
     },
     {
         "artist":  "Lady Gaga \u0026 Bruno Mars",
         "title":  "Die With A Smile (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5794,
         "votes":  0
     },
     {
         "artist":  "Lisa, Doja Cat, Raye",
         "title":  "Born Again (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5795,
         "votes":  0
     },
     {
         "artist":  "Lizzo",
         "title":  "About Damn Time (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5796,
         "votes":  0
     },
     {
         "artist":  "Lola Young",
         "title":  "Messy (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5797,
         "votes":  0
     },
     {
         "artist":  "Luis Fonsi \u0026 Daddy Yankee Ft. Justin Bieber",
         "title":  "Despacito (Intro Clean)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5798,
         "votes":  0
     },
     {
         "artist":  "Master KG Ft. Nomcebo Zikode",
         "title":  "Jerusalema (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5799,
         "votes":  0
     },
     {
         "artist":  "Miley Cyrus",
         "title":  "End of the World (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5800,
         "votes":  0
     },
     {
         "artist":  "Myles Smith",
         "title":  "Nice To Meet You (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5801,
         "votes":  0
     },
     {
         "artist":  "Myles Smith",
         "title":  "Stay (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5802,
         "votes":  0
     },
     {
         "artist":  "RAYE",
         "title":  "Where Is My Husband (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5803,
         "votes":  0
     },
     {
         "artist":  "Riton, Nightcrawlers, Mufasa \u0026 Hypeman",
         "title":  "Friday (Dopamine Re-edit)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5804,
         "votes":  0
     },
     {
         "artist":  "ROSE \u0026 Bruno Mars",
         "title":  "APT. (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5805,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Tears (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5806,
         "votes":  0
     },
     {
         "artist":  "Sean Paul, INNA",
         "title":  "Let It Talk To Me (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5807,
         "votes":  0
     },
     {
         "artist":  "Shaboozey, Myles Smith",
         "title":  "Blink Twice (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5808,
         "votes":  0
     },
     {
         "artist":  "Taylor Swift",
         "title":  "The Fate Of Ophelia (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5809,
         "votes":  0
     },
     {
         "artist":  "Teddy Swims",
         "title":  "Bad Dreams (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5810,
         "votes":  0
     },
     {
         "artist":  "The Weeknd",
         "title":  "Blinding Lights (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5811,
         "votes":  0
     },
     {
         "artist":  "The Weeknd, Justice",
         "title":  "Wake Me Up (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5812,
         "votes":  0
     },
     {
         "artist":  "Alex Warren",
         "title":  "Ordinary (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5813,
         "votes":  0
     },
     {
         "artist":  "Alex Warren Ft. Ella Henderson",
         "title":  "Carry You Home (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5814,
         "votes":  0
     },
     {
         "artist":  "Artemas",
         "title":  "I Like The Way You Kiss Me (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5815,
         "votes":  0
     },
     {
         "artist":  "Benson Boone",
         "title":  "Beautiful Things (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5816,
         "votes":  0
     },
     {
         "artist":  "Beyoncé",
         "title":  "Texas Hold \u0027Em (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5817,
         "votes":  0
     },
     {
         "artist":  "Billie Eilish",
         "title":  "Birds Of A Feather (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5818,
         "votes":  0
     },
     {
         "artist":  "Chappell Roan",
         "title":  "Good Luck, Babe! (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5819,
         "votes":  0
     },
     {
         "artist":  "Coldplay",
         "title":  "feelslikeimfallinginlove (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5820,
         "votes":  0
     },
     {
         "artist":  "Dasha",
         "title":  "Austin (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5821,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Illusion (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5822,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Training Season (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5823,
         "votes":  0
     },
     {
         "artist":  "Dua Lipa",
         "title":  "Training Season (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5824,
         "votes":  0
     },
     {
         "artist":  "Elton John \u0026 Dua Lipa",
         "title":  "Cold Heart (PNAU Remix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5825,
         "votes":  0
     },
     {
         "artist":  "GAYLE",
         "title":  "abcdefu (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5826,
         "votes":  0
     },
     {
         "artist":  "Hozier",
         "title":  "Too Sweet (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5827,
         "votes":  0
     },
     {
         "artist":  "Jason Derulo \u0026 Michael Bublé",
         "title":  "Spicy Margarita (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5828,
         "votes":  0
     },
     {
         "artist":  "Kane Brown \u0026 Marshmello",
         "title":  "Miles On It (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5829,
         "votes":  0
     },
     {
         "artist":  "Loreen",
         "title":  "Is It Love (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5830,
         "votes":  0
     },
     {
         "artist":  "Maneskin",
         "title":  "Valentine (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5831,
         "votes":  0
     },
     {
         "artist":  "Mark Ambor",
         "title":  "Belong Together (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5832,
         "votes":  0
     },
     {
         "artist":  "Meghan Trainor",
         "title":  "Criminals (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5833,
         "votes":  0
     },
     {
         "artist":  "Myles Smith",
         "title":  "Stargazing (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5834,
         "votes":  0
     },
     {
         "artist":  "Pitbull, Ne-Yo \u0026 Afrojack Ft. DJ Buddha",
         "title":  "2 The Moon (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5835,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Espresso (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5836,
         "votes":  0
     },
     {
         "artist":  "Sabrina Carpenter",
         "title":  "Please Please Please (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5837,
         "votes":  0
     },
     {
         "artist":  "Shaboozey",
         "title":  "A Bar Song (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5838,
         "votes":  0
     },
     {
         "artist":  "Sia \u0026 Kylie Minogue",
         "title":  "Dance Alone (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5839,
         "votes":  0
     },
     {
         "artist":  "Teddy Swims",
         "title":  "Lose Control (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5840,
         "votes":  0
     },
     {
         "artist":  "Teddy Swims",
         "title":  "The Door (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5841,
         "votes":  0
     },
     {
         "artist":  "Zara Larsson",
         "title":  "You Love Who You Love (Extended Mix By Fuvi Clan)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5842,
         "votes":  0
     },
     {
         "artist":  "Anitta, Sam Smith",
         "title":  "Ahi (Original Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5843,
         "votes":  0
     },
     {
         "artist":  "Ariana Grande",
         "title":  "yes, and (Extended Mix)",
-        "genre":  "Pop Mainstream",
+        "genre":  "Pop",
         "id":  5844,
         "votes":  0
     },
     {
         "artist":  "Alesso Ft. Matthew Koma",
         "title":  "Years (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5845,
         "votes":  0
     },
     {
         "artist":  "Alesso vs. OneRepublic",
         "title":  "If I Lose Myself (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5846,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Addicted To You (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5847,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Fade Into Darkness (Vocal Club Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5848,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Hey Brother (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5849,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Levels (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5850,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Silhouettes (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5851,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Waiting For Love (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5852,
         "votes":  0
     },
     {
         "artist":  "Avicii",
         "title":  "Wake Me Up (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5853,
         "votes":  0
     },
     {
         "artist":  "Avicii, Rita Ora",
         "title":  "Lonely Together (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5854,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Feel So Close (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5855,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "Summer (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5856,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris, Disciples",
         "title":  "How Deep Is Your Love (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5857,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris, Ellie Goulding",
         "title":  "Outside (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5858,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris, Rihanna",
         "title":  "This Is What You Came For (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5859,
         "votes":  0
     },
     {
         "artist":  "David Guetta Ft. Kid Cudi",
         "title":  "Memories (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5860,
         "votes":  0
     },
     {
         "artist":  "David Guetta Ft. Usher",
         "title":  "Without You (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5861,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Nicki Minaj",
         "title":  "Turn Me On (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5862,
         "votes":  0
     },
     {
         "artist":  "David Guetta, Nicki Minaj, Flo Rida",
         "title":  "Where Them Girls At (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5863,
         "votes":  0
     },
     {
         "artist":  "Deorro Ft. Elvis Crespo",
         "title":  "Bailar (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5864,
         "votes":  0
     },
     {
         "artist":  "Dimitri Vegas \u0026 Like Mike vs. Ummet Ozcan",
         "title":  "The Hum (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5865,
         "votes":  0
     },
     {
         "artist":  "Dj Antoine",
         "title":  "Welcome To St. Tropez (DJ Antoine vs. Mad Mark Remix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5866,
         "votes":  0
     },
     {
         "artist":  "Far East Movement Ft. The Cataracs, DEV",
         "title":  "Like A G6 (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5867,
         "votes":  0
     },
     {
         "artist":  "Kungs \u0026 Cookin\u0027 On 3 Burners",
         "title":  "This Girl (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5868,
         "votes":  0
     },
     {
         "artist":  "LMFAO",
         "title":  "Party Rock Anthem (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5869,
         "votes":  0
     },
     {
         "artist":  "Black Box",
         "title":  "Ride On Time (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5870,
         "votes":  0
     },
     {
         "artist":  "Martin Garrix",
         "title":  "Animals (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5871,
         "votes":  0
     },
     {
         "artist":  "Martin Solveig, Dragonette",
         "title":  "Hello (Club Edit)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5872,
         "votes":  0
     },
     {
         "artist":  "Calvin Harris",
         "title":  "This Is What You Came For (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5873,
         "votes":  0
     },
     {
         "artist":  "Cece Peniston",
         "title":  "Finally (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5874,
         "votes":  0
     },
     {
         "artist":  "Nicky Romero, Avicii",
         "title":  "I Could Be the One (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5875,
         "votes":  0
     },
     {
         "artist":  "Den Harrow",
         "title":  "Don\u0027t Break My Heart (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5876,
         "votes":  0
     },
     {
         "artist":  "Ofenbach",
         "title":  "Be Mine (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5877,
         "votes":  0
     },
     {
         "artist":  "Oliver Heldens Ft. Becky Hill",
         "title":  "Gecko (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5878,
         "votes":  0
     },
     {
         "artist":  "Dj Jose",
         "title":  "Steppin To The Beat (Dave Mcdonald Remix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5879,
         "votes":  0
     },
     {
         "artist":  "Pitbull",
         "title":  "Fireball (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5880,
         "votes":  0
     },
     {
         "artist":  "Rebel Ft. Sidney Housen",
         "title":  "Black Pearl (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5881,
         "votes":  0
     },
     {
         "artist":  "French Kiss",
         "title":  "Lil Loius \u0026 The World (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5882,
         "votes":  0
     },
     {
         "artist":  "Guru Josh",
         "title":  "Infinity (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5883,
         "votes":  0
     },
     {
         "artist":  "Remady Ft. Manu L",
         "title":  "Give Me A Sign (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5884,
         "votes":  0
     },
     {
         "artist":  "Haddaway",
         "title":  "What Is Love (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5885,
         "votes":  0
     },
     {
         "artist":  "Rihanna",
         "title":  "Only Girl (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5886,
         "votes":  0
     },
     {
         "artist":  "Humanoid",
         "title":  "Stakker Humanoid (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5887,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz Feat. Jasmine Thompson",
         "title":  "Sun Goes Down (Extended Vocal Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5888,
         "votes":  0
     },
     {
         "artist":  "Imany",
         "title":  "Don\u0027t Be So Shy (Filatov \u0026 Karas Remix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5889,
         "votes":  0
     },
     {
         "artist":  "Robin Schulz, Francesco Yates",
         "title":  "Sugar (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5890,
         "votes":  0
     },
     {
         "artist":  "Jean Michel Jarre",
         "title":  "Oxygene (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5891,
         "votes":  0
     },
     {
         "artist":  "Swedish House Mafia",
         "title":  "One (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5892,
         "votes":  0
     },
     {
         "artist":  "Tim Berg",
         "title":  "Seek Bromance (Avicii\u0027s Vocal Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5893,
         "votes":  0
     },
     {
         "artist":  "Jean-Michel Jarre",
         "title":  "4Eme Rendez-Vous (Special Remix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5894,
         "votes":  0
     },
     {
         "artist":  "Joy",
         "title":  "Fire In The Night (Bonus Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5895,
         "votes":  0
     },
     {
         "artist":  "Timmy Trumpet",
         "title":  "Freaks (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5896,
         "votes":  0
     },
     {
         "artist":  "Will.i.am, Britney Spears",
         "title":  "Scream \u0026 Shout (Extended Mix By Fuvi Clan)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5897,
         "votes":  0
     },
     {
         "artist":  "Koto",
         "title":  "Visitors (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5898,
         "votes":  0
     },
     {
         "artist":  "Kraftwerk",
         "title":  "Tour De France (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5899,
         "votes":  0
     },
     {
         "artist":  "Laser",
         "title":  "Laser (Remix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5900,
         "votes":  0
     },
     {
         "artist":  "Latino Party",
         "title":  "The Party (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5901,
         "votes":  0
     },
     {
         "artist":  "Lost Frequencies",
         "title":  "Reality (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5902,
         "votes":  0
     },
     {
         "artist":  "Man 2 Man Feat. Armand Zone",
         "title":  "Do You Wanna Funk (Cover Of P. Cowley)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5903,
         "votes":  0
     },
     {
         "artist":  "Modern Talking",
         "title":  "Brother Louie (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5904,
         "votes":  0
     },
     {
         "artist":  "Modern Talking",
         "title":  "You\u0027re My Heart, You\u0027re My Soul (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5905,
         "votes":  0
     },
     {
         "artist":  "Montana Sextett",
         "title":  "Who Needs Enemies (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5906,
         "votes":  0
     },
     {
         "artist":  "Off",
         "title":  "Electric Salsa (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5907,
         "votes":  0
     },
     {
         "artist":  "Oliver Heldens",
         "title":  "Koala (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5908,
         "votes":  0
     },
     {
         "artist":  "Phil Collins",
         "title":  "Easy Lover (Old School Dance Mix W Hype)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5909,
         "votes":  0
     },
     {
         "artist":  "Pretty Poison",
         "title":  "Catch Me I\u0027m Falling (Ultimix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5910,
         "votes":  0
     },
     {
         "artist":  "Purple Disco Machine",
         "title":  "Funk (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5911,
         "votes":  0
     },
     {
         "artist":  "Rififi",
         "title":  "Dr.Acid \u0026 Mr.House (No Drugs Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5912,
         "votes":  0
     },
     {
         "artist":  "Roby and Topo",
         "title":  "Under The Ice (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5913,
         "votes":  0
     },
     {
         "artist":  "Rod Stewart",
         "title":  "Da Ya Think I\u0027m Sexy (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5914,
         "votes":  0
     },
     {
         "artist":  "Rozalla",
         "title":  "Everybody\u0027s Free (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5915,
         "votes":  0
     },
     {
         "artist":  "Shamall",
         "title":  "Turning Point (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5916,
         "votes":  0
     },
     {
         "artist":  "Snap",
         "title":  "I\u0027ve Got The Power (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5917,
         "votes":  0
     },
     {
         "artist":  "Tonasia",
         "title":  "Wondering (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5918,
         "votes":  0
     },
     {
         "artist":  "Yello",
         "title":  "The Robots (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5919,
         "votes":  0
     },
     {
         "artist":  "Aaron Smith",
         "title":  "Dancin (Krono Remix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5920,
         "votes":  0
     },
     {
         "artist":  "Baby \u0027O",
         "title":  "In The Forest (Original Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5921,
         "votes":  0
     },
     {
         "artist":  "Ofenbach",
         "title":  "Miles Away (Extended Mix)",
-        "genre":  "EDM classic",
+        "genre":  "EDM",
         "id":  5922,
         "votes":  0
     },
     {
         "artist":  "Disiz, Theodora",
         "title":  "Melodrama (Jordan Patural Remix)",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5923,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Bel Mercy (BEAUZ Hard Techno Remix) feat. Nokia",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5924,
         "votes":  0
     },
     {
         "artist":  "Black Eyed Peas",
         "title":  "My Humps (BEAUZ Hard Techno Remix)",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5925,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Gigi D\u0027Agostino Bla Bla Bla",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5926,
         "votes":  0
     },
     {
         "artist":  "Unknown Artist",
         "title":  "Kernkraft 400 (Hardstyle Remix)",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5927,
         "votes":  0
     },
     {
         "artist":  "Luca Testa",
         "title":  "Hey Brother (Feat. Efi Gjika) [Hardstyle Remix]",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5928,
         "votes":  0
     },
     {
         "artist":  "Luca Testa \u0026 The FifthGuys",
         "title":  "Quèdate (Feat. Polina Grace) [Hardstyle Remix]",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5929,
         "votes":  0
     },
     {
         "artist":  "Luca Testa feat. Uneven",
         "title":  "Hangover (Hardstyle Remix) [www.slider.kz]",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5930,
         "votes":  0
     },
     {
         "artist":  "BEAUZ \u0026 XYSM",
         "title":  "Bella Ciao [Monstercat Release]",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5931,
         "votes":  0
     },
     {
         "artist":  "Jaden Bojsen, David Guetta x Emmanuel Macron x French Candy, Enzo Gala \u0026 Graig Gala",
         "title":  "For Sure (Enzo Gala \u0026 Graig Gala vs. DJ Bens Mashup)",
-        "genre":  "Tech Remix",
+        "genre":  "Tech \u0026 Remixes",
         "id":  5932,
         "votes":  0
     },
