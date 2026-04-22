@@ -1,0 +1,13 @@
+# Local environment scripts
+*.ps1
+start_server.ps1
+scan_music.ps1
+
+# Local logs or temp files
+*.log
+tmp/
+.temp/
+
+# OS files
+.DS_Store
+Thumbs.db

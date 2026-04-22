@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DJ Set - Vote Controller</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+
+<body class="voting-page">
+    <div class="ambient-background">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+    <nav class="main-nav">
+        <div class="nav-links">
+            <button id="authBtn" class="nav-link" style="background:none; border:none; cursor:pointer;">Login</button>
+            <a href="index.html" class="nav-link">Visuals</a>
+            <a href="vote.html" class="nav-link active">Vote</a>
+        </div>
+    </nav>
+    <div class="app-container">
+        <header>
+            <h1>VOTE TRACK</h1>
+        </header>
+
+        <main class="voting-main">
+            <div class="search-hero">
+                <h2>What do you want to hear next?</h2>
+                <div class="search-container large">
+                    <div class="search-controls">
+                        <select id="genreSelect" class="genre-select">
+                            <option value="All">All Genres</option>
+                        </select>
+                        <input type="text" id="searchInput" placeholder="Search artist or track..." autocomplete="off">
+                    </div>
+                    <div id="searchResults" class="search-results"></div>
+                </div>
+            </div>
+
+            <div class="trending-section">
+                <h3>Current Top 10</h3>
+                <div id="trendingList" class="trending-list">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <div class="debug-controls"
+                style="margin-top: 40px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 20px;">
+                <h3 style="font-size: 0.9em; opacity: 0.7; margin-bottom: 10px;">TEST CONTROLS</h3>
+                <div style="display: flex; gap: 10px;">
+                    <button id="btnRandomVotes"
+                        style="padding: 8px 16px; background: #333; color: white; border: 1px solid #555; border-radius: 4px; cursor: pointer;">Dice
+                        Random Votes</button>
+                    <button id="btnResetVotes"
+                        style="padding: 8px 16px; background: #333; color: #ff6b6b; border: 1px solid #555; border-radius: 4px; cursor: pointer;">Reset
+                        All</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Auth Overlay -->
+    <div id="authOverlay" class="auth-overlay">
+        <div class="auth-card">
+            <h2>Welcome to DJ Set</h2>
+            <p>Please sign in with Google to cast your vote!</p>
+            <button id="googleLoginBtn" class="google-login-btn">
+                <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" alt="Google">
+                Sign in with Google
+            </button>
+            <div id="authError"
+                style="color: #ff6b6b; margin-top: 15px; font-size: 0.85em; display: none; padding: 10px; background: rgba(255,107,107,0.1); border-radius: 4px; text-align: left; overflow-wrap: break-word;">
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <div id="nowPlayingContainer" class="now-playing-banner"></div>
+    <!-- Firebase SDK (v9 Compat Mode for simplicity in direct script usage) -->
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+
+    <script>
+        // Compatibility layer to bridge with the modern ESM logic I'll write
+        window.firebaseApp = firebase;
+        window.firebaseAuth = {
+            getAuth: firebase.auth,
+            GoogleAuthProvider: firebase.auth.GoogleAuthProvider,
+            signInWithPopup: (auth, provider) => auth.signInWithPopup(provider),
+            signOut: (auth) => auth.signOut(),
+            onAuthStateChanged: (auth, cb) => auth.onAuthStateChanged(cb)
+        };
+        window.firebaseFirestore = firebase.firestore;
+    </script>
+
+    <script src="js/firebase-config.js"></script>
+    <script>
+        firebase.initializeApp(window.firebaseConfig);
+        // Enable offline persistence
+        firebase.firestore().enablePersistence()
+            .then(() => console.log("Firestore: Offline persistence enabled"))
+            .catch((err) => {
+                if (err.code == 'failed-precondition') {
+                    console.warn("Firestore: Multiple tabs open, persistence can only be enabled in one tab at a time.");
+                } else if (err.code == 'unimplemented') {
+                    console.warn("Firestore: Browser doesn't support persistence.");
+                }
+            });
+    </script>
+    <script src="js/auth.js"></script>
+    <script src="js/music_db.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
