@@ -578,3 +578,9 @@ header h1 {
 body.is-admin .debug-controls {
     display: block;
 }
+/* Load More Button */
+.load-more-btn { width: 100%; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); color: rgba(255, 255, 255, 0.7); padding: 15px; border-radius: 12px; margin-top: 15px; cursor: pointer; font-weight: 500; transition: all 0.2s ease; }
+.load-more-btn:hover { background: rgba(255, 255, 255, 0.1); color: white; }
+/* Navigation & Admin visibility */
+.admin-only { display: none !important; }
+body.is-admin .admin-only { display: inline-block !important; }

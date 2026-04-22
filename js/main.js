@@ -77,9 +77,12 @@
     // --- Handlers ---
     // Defined inside scope to access elements
 
+    let searchTimeout = null;
     function handleSearch(e) {
-        // We now update the main view instead of a dropdown to allow "scrolling to it"
-        updateView();
+        if (searchTimeout) clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(() => {
+            updateView();
+        }, 300);
     }
 
     // --- initialization ---

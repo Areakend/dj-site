@@ -192,9 +192,34 @@
             if (header?.tagName === 'H3') header.textContent = title;
 
             container.innerHTML = '';
-            songsToRender.forEach(song => {
-                container.appendChild(createSongListItem(song, 'trending-item', onVoteCallback, onUnvoteCallback));
-            });
+            container.dataset.currentIndex = 0;
+            const CHUNK_SIZE = 50;
+
+            const renderNextChunk = () => {
+                const start = parseInt(container.dataset.currentIndex);
+                const end = start + CHUNK_SIZE;
+                const chunk = songsToRender.slice(start, end);
+
+                chunk.forEach(song => {
+                    container.appendChild(createSongListItem(song, 'trending-item', onVoteCallback, onUnvoteCallback));
+                });
+
+                container.dataset.currentIndex = end;
+
+                // Remove existing load more button
+                const oldBtn = container.parentElement.querySelector('.load-more-btn');
+                if (oldBtn) oldBtn.remove();
+
+                if (end < songsToRender.length) {
+                    const btn = document.createElement('button');
+                    btn.className = 'load-more-btn';
+                    btn.textContent = `Load More (${songsToRender.length - end} remaining)`;
+                    btn.onclick = () => renderNextChunk();
+                    container.parentElement.appendChild(btn);
+                }
+            };
+
+            renderNextChunk();
         },
 
         renderNowPlaying: function (container, song) {

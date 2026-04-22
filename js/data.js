@@ -402,6 +402,31 @@
             } catch (err) {
                 console.error("Failed to simulate votes", err);
             }
+        },
+
+        getStats: function () {
+            const totalVotes = songs.reduce((sum, s) => sum + (s.votes || 0), 0);
+            const genreStats = {};
+            songs.forEach(s => {
+                if (!genreStats[s.genre]) genreStats[s.genre] = { count: 0, votes: 0 };
+                genreStats[s.genre].count++;
+                genreStats[s.genre].votes += (s.votes || 0);
+            });
+
+            const sortedGenres = Object.entries(genreStats)
+                .map(([name, data]) => ({ name, ...data }))
+                .sort((a, b) => b.votes - a.votes);
+
+            const topTracks = [...songs]
+                .sort((a, b) => (b.votes || 0) - (a.votes || 0))
+                .slice(0, 10);
+
+            return {
+                totalVotes,
+                totalSongs: songs.length,
+                genres: sortedGenres,
+                topTracks
+            };
         }
     };
 
