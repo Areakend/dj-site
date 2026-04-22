@@ -30,7 +30,20 @@ async function runMigration() {
             lastUpdated: Date.now()
         });
 
-        console.log("Migration: Complete! Your database is now up to date with 5,317 songs.");
+        // 3. Clear all user votes to ensure consistency
+        console.log("Migration: Clearing user votes...");
+        const userVotesQuery = await db.collection('user_votes').get();
+        const batch = db.batch();
+        userVotesQuery.forEach(doc => {
+            batch.delete(doc.ref);
+        });
+        await batch.commit();
+        console.log(`Migration: Cleared ${userVotesQuery.size} user vote records.`);
+
+        // 4. Force browser to clear local storage if possible (will advise user)
+        localStorage.removeItem('dj_user_votes');
+
+        console.log("Migration: Complete! Your database is now up to date and clean.");
     } catch (err) {
         console.error("Migration: Failed!", err);
     }
