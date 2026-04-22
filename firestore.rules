@@ -13,10 +13,10 @@ service cloud.firestore {
       return request.auth != null;
     }
     
-    // Global votes state - anyone can read, only admins can write
-    match /votes/global_state {
-      allow read: if true;  // Anyone can see vote counts
-      allow write: if isAdmin();  // Only admins can reset votes or set now playing
+    // Global state and song list - anyone can read, only admins can write
+    match /votes/{document} {
+      allow read: if true;
+      allow write: if isAdmin();
     }
     
     // User votes - users can only read/write their own votes
