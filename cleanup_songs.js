@@ -13,23 +13,23 @@ const songs = JSON.parse(content);
 
 console.log(`Processing ${songs.length} songs...`);
 
-const cleanedSongs = songs.filter(song => {
-    // Exclude Fabio, Chai, Crossfader
-    const genre = song.genre || '';
-    if (genre.match(/Fabio|Chai|Crossfader/i)) {
-        return false;
-    }
-    return true;
-}).map(song => {
-    // Merge House Essential/Extract into House
+const cleanedSongs = songs.map(song => {
     let genre = song.genre || 'Unsorted';
+    
+    // Merge House Essential/Extract into House
     if (genre.match(/House/i)) {
         genre = 'House';
     }
+    
+    // Move Fabio, Chai, Crossfader to "Unsorted"
+    if (genre.match(/Fabio|Chai|Crossfader/i)) {
+        genre = 'Unsorted';
+    }
+    
     return { ...song, genre };
 });
 
-console.log(`Cleaned list: ${cleanedSongs.length} songs.`);
+console.log(`Updated list: ${cleanedSongs.length} songs.`);
 
 fs.writeFileSync(songsPath, JSON.stringify(cleanedSongs, null, 4), 'utf8');
 
