@@ -114,22 +114,37 @@
         }
     }
 
+    let genresLoaded = false;
     function setupSearchListeners() {
         const genreSelect = document.getElementById('genreSelect');
-        if (genreSelect) {
+        if (genreSelect && !genresLoaded) {
             const genres = Data.getGenres();
-            genres.forEach(g => {
-                const opt = document.createElement('option');
-                opt.value = g;
-                opt.textContent = g;
-                genreSelect.appendChild(opt);
-            });
-            genreSelect.addEventListener('change', handleSearch);
+            if (genres.length > 0) {
+                // Clear existing options except the first one
+                while (genreSelect.options.length > 1) {
+                    genreSelect.remove(1);
+                }
+                genres.forEach(g => {
+                    const opt = document.createElement('option');
+                    opt.value = g;
+                    opt.textContent = g;
+                    genreSelect.appendChild(opt);
+                });
+                genresLoaded = true;
+            }
+            // Always attach the listener once
+            if (!genreSelect.dataset.listenerAttached) {
+                genreSelect.addEventListener('change', handleSearch);
+                genreSelect.dataset.listenerAttached = "true";
+            }
         }
 
         if (searchInput) {
-            searchInput.addEventListener('input', handleSearch);
-            searchInput.addEventListener('focus', handleSearch);
+            if (!searchInput.dataset.listenerAttached) {
+                searchInput.addEventListener('input', handleSearch);
+                searchInput.addEventListener('focus', handleSearch);
+                searchInput.dataset.listenerAttached = "true";
+            }
         }
     }
 
@@ -150,6 +165,7 @@
 
         // Subscribe to data updates
         Data.subscribe((updatedSongs, currentPlaying) => {
+            setupSearchListeners(); // Re-populate genres if they just loaded
             updateView(updatedSongs, currentPlaying);
         });
 

@@ -172,11 +172,28 @@
         </div>
     </div>
 
-    <!-- Scripts -->
-    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+    <!-- Firebase SDK (v9 Compat Mode) -->
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+    
+    <script>
+        // Compatibility layer
+        window.firebaseApp = firebase;
+        window.firebaseAuth = {
+            getAuth: firebase.auth,
+            GoogleAuthProvider: firebase.auth.GoogleAuthProvider,
+            signInWithPopup: (auth, provider) => auth.signInWithPopup(provider),
+            signOut: (auth) => auth.signOut(),
+            onAuthStateChanged: (auth, cb) => auth.onAuthStateChanged(cb)
+        };
+        window.firebaseFirestore = firebase.firestore;
+    </script>
+
     <script src="js/firebase-config.js"></script>
+    <script>
+        firebase.initializeApp(window.firebaseConfig);
+    </script>
     <script src="js/auth.js"></script>
     <script src="js/music_db.js"></script>
     <script src="js/data.js"></script>
