@@ -32,19 +32,34 @@
             db.collection('votes').doc('song_list').get().then(doc => {
                 if (doc.exists && doc.data().songs) {
                     console.log("Data: Loaded", doc.data().songs.length, "songs from Firestore");
-                    songs = doc.data().songs.map(s => ({ ...s, votes: 0 }));
+                    songs = doc.data().songs.map(s => ({ 
+                        ...s, 
+                        votes: 0,
+                        allTimeVotes: 0,
+                        playCount: 0 
+                    }));
                     setupFirestoreSync();
                     notifySubscribers();
                 } else {
                     console.log("Data: No song_list found in Firestore, falling back to local music_db.js");
                     const baseSongs = global.generatedSongs || [];
-                    songs = baseSongs.map(s => ({ ...s, votes: s.votes || 0 }));
+                    songs = baseSongs.map(s => ({ 
+                        ...s, 
+                        votes: 0,
+                        allTimeVotes: 0,
+                        playCount: 0 
+                    }));
                     setupFirestoreSync();
                 }
             }).catch(err => {
                 console.error("Data: Firestore error fetching song list:", err);
                 const baseSongs = global.generatedSongs || [];
-                songs = baseSongs.map(s => ({ ...s, votes: s.votes || 0 }));
+                songs = baseSongs.map(s => ({ 
+                    ...s, 
+                    votes: 0,
+                    allTimeVotes: 0,
+                    playCount: 0 
+                }));
                 setupFirestoreSync();
             });
 
@@ -66,7 +81,12 @@
         } else {
             // Fallback for local testing without Firebase
             const baseSongs = global.generatedSongs || [];
-            songs = baseSongs.map(s => ({ ...s, votes: s.votes || 0 }));
+            songs = baseSongs.map(s => ({ 
+                ...s, 
+                votes: 0,
+                allTimeVotes: 0,
+                playCount: 0 
+            }));
         }
 
         // Setup local broadcast channel for non-db updates (navigation sync etc)
@@ -154,6 +174,7 @@
 
     function setupFirestoreSync() {
         // Sync Songs & Votes
+        // Sync Songs & Votes (Current Round)
         db.collection('votes').doc('global_state').onSnapshot(doc => {
             if (doc.exists) {
                 const data = doc.data();
@@ -188,6 +209,22 @@
                 notifySubscribers();
             }
         });
+
+        // Sync Total Stats (Historical)
+        db.collection('votes').doc('total_stats').onSnapshot(doc => {
+            if (doc.exists) {
+                const data = doc.data();
+                const totalVotesMap = data.votes || {};
+                const playCountMap = data.plays || {};
+                
+                songs.forEach(s => {
+                    s.allTimeVotes = totalVotesMap[s.id] || 0;
+                    s.playCount = playCountMap[s.id] || 0;
+                });
+                console.log("Data: Total stats synced");
+                notifySubscribers();
+            }
+        });
     }
 
     function notifySubscribers() {
@@ -218,10 +255,19 @@
                     resetVotes[`votes.${s.id}`] = (s.id === id) ? 0 : s.votes;
                 });
 
+                // 1. Update current state (reset votes for the played song)
                 await db.collection('votes').doc('global_state').update({
                     currentPlayingId: id,
                     ...resetVotes
                 });
+
+                // 2. Increment historical play count
+                await db.collection('votes').doc('total_stats').set({
+                    plays: {
+                        [id]: firebase.firestore.FieldValue.increment(1)
+                    }
+                }, { merge: true });
+
                 return true;
             }
             return false;
@@ -260,7 +306,15 @@
                     // 1. Update global votes
                     const stateRef = db.collection('votes').doc('global_state');
                     await stateRef.set({
-                        votes: allVotes
+                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(1)
+                    }, { merge: true });
+
+                    // 2. Update total stats
+                    const statsRef = db.collection('votes').doc('total_stats');
+                    await statsRef.set({
+                        votes: {
+                            [id]: firebase.firestore.FieldValue.increment(1)
+                        }
                     }, { merge: true });
 
                     console.log("Global vote updated");
@@ -321,12 +375,19 @@
                     // 1. Update global votes
                     const stateRef = db.collection('votes').doc('global_state');
                     await stateRef.set({
-                        votes: allVotes
+                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
                     }, { merge: true });
 
-                    // 2. Update user votes
-                    const allUserVotes = { ...userVoteIds };
+                    // 2. Update total stats
+                    const statsRef = db.collection('votes').doc('total_stats');
+                    await statsRef.set({
+                        votes: {
+                            [id]: firebase.firestore.FieldValue.increment(-1)
+                        }
+                    }, { merge: true });
 
+                    // 3. Update user votes
+                    const allUserVotes = { ...userVoteIds };
                     const userRef = db.collection('user_votes').doc(user.uid);
                     await userRef.set({
                         votes: allUserVotes
@@ -405,12 +466,15 @@
         },
 
         getStats: function () {
-            const totalVotes = songs.reduce((sum, s) => sum + (s.votes || 0), 0);
+            const totalVotes = songs.reduce((sum, s) => sum + (s.allTimeVotes || 0), 0);
+            const totalPlays = songs.reduce((sum, s) => sum + (s.playCount || 0), 0);
+            
             const genreStats = {};
             songs.forEach(s => {
-                if (!genreStats[s.genre]) genreStats[s.genre] = { count: 0, votes: 0 };
+                if (!genreStats[s.genre]) genreStats[s.genre] = { count: 0, votes: 0, plays: 0 };
                 genreStats[s.genre].count++;
-                genreStats[s.genre].votes += (s.votes || 0);
+                genreStats[s.genre].votes += (s.allTimeVotes || 0);
+                genreStats[s.genre].plays += (s.playCount || 0);
             });
 
             const sortedGenres = Object.entries(genreStats)
@@ -418,15 +482,38 @@
                 .sort((a, b) => b.votes - a.votes);
 
             const topTracks = [...songs]
-                .sort((a, b) => (b.votes || 0) - (a.votes || 0))
+                .sort((a, b) => (b.allTimeVotes || 0) - (a.allTimeVotes || 0))
+                .slice(0, 10);
+
+            const mostPlayed = [...songs]
+                .sort((a, b) => (b.playCount || 0) - (a.playCount || 0))
                 .slice(0, 10);
 
             return {
                 totalVotes,
+                totalPlays,
                 totalSongs: songs.length,
                 genres: sortedGenres,
-                topTracks
+                topTracks,
+                mostPlayed
             };
+        },
+
+        resetHistory: async function() {
+            if (!global.DJAuth.isAdmin()) return false;
+            if (!confirm("Are you sure you want to reset ALL-TIME statistics? This cannot be undone.")) return false;
+            
+            try {
+                await db.collection('votes').doc('total_stats').set({
+                    votes: {},
+                    plays: {},
+                    lastReset: Date.now()
+                });
+                return true;
+            } catch (err) {
+                console.error("Failed to reset history:", err);
+                return false;
+            }
         }
     };
 

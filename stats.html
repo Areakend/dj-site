@@ -125,6 +125,29 @@
             border-radius: 8px;
             font-size: 14px;
         }
+
+        .stats-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            margin-bottom: 30px;
+        }
+
+        .reset-btn {
+            background: rgba(255, 50, 50, 0.1);
+            border: 1px solid rgba(255, 50, 50, 0.3);
+            color: #ff5555;
+            padding: 8px 16px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.3s ease;
+        }
+
+        .reset-btn:hover {
+            background: rgba(255, 50, 50, 0.2);
+            border-color: #ff5555;
+        }
     </style>
 </head>
 <body class="stats-page">
@@ -142,9 +165,15 @@
         </div>
     </nav>
 
-    <div class="app-container" style="max-width: 1000px; margin: 0 auto;">
-        <header>
-            <h1>SONG STATS</h1>
+    <div class="app-container" style="max-width: 1200px; margin: 0 auto;">
+        <header class="stats-header">
+            <div>
+                <h1 class="glow-text">ALL-TIME STATS</h1>
+                <p style="opacity: 0.6; margin-top: 5px;">Persistent history & engagement</p>
+            </div>
+            <div id="adminControls" style="display: none;">
+                <button id="resetHistoryBtn" class="reset-btn">Reset All-Time Stats</button>
+            </div>
         </header>
 
         <div class="stats-grid">
@@ -154,20 +183,29 @@
                 <p style="font-size: 13px; color: rgba(255,255,255,0.4); margin-top: 10px;">votes enregistrés au total</p>
             </div>
             <div class="stat-card">
+                <div class="stat-label">Total Plays</div>
+                <div id="totalPlays" class="stat-value">0</div>
+                <p style="font-size: 13px; color: rgba(255,255,255,0.4); margin-top: 10px;">diffusions totales</p>
+            </div>
+            <div class="stat-card">
                 <div class="stat-label">Music Base</div>
                 <div id="totalSongs" class="stat-value">0</div>
                 <p style="font-size: 13px; color: rgba(255,255,255,0.4); margin-top: 10px;">titres disponibles dans la base</p>
             </div>
         </div>
 
-        <div class="stats-grid">
+        <div class="stats-detailed-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin-top: 25px;">
             <div class="stat-card">
-                <h3 class="section-title">Populaire par Genre</h3>
+                <h3 class="section-title">Popular Genres</h3>
                 <div id="genreStatsList"></div>
             </div>
             <div class="stat-card">
-                <h3 class="section-title">Top 10 Tracks</h3>
+                <h3 class="section-title">Top Voted Tracks</h3>
                 <div id="topTracksList"></div>
+            </div>
+            <div class="stat-card">
+                <h3 class="section-title">Most Played Tracks</h3>
+                <div id="mostPlayedList"></div>
             </div>
         </div>
     </div>
@@ -208,7 +246,12 @@
             window.DJData.subscribe(() => {
                 const stats = window.DJData.getStats();
                 document.getElementById('totalVotes').textContent = stats.totalVotes.toLocaleString();
+                document.getElementById('totalPlays').textContent = stats.totalPlays.toLocaleString();
                 document.getElementById('totalSongs').textContent = stats.totalSongs.toLocaleString();
+
+                // Admin Controls
+                const isAdmin = window.DJAuth?.isAdmin();
+                document.getElementById('adminControls').style.display = isAdmin ? 'block' : 'none';
 
                 // Render Genres
                 const genreList = document.getElementById('genreStatsList');
@@ -221,7 +264,7 @@
                         <div class="genre-bar-container">
                             <div class="genre-info">
                                 <span>${g.name}</span>
-                                <span>${g.votes} votes (${g.count} titres)</span>
+                                <span>${g.votes} votes</span>
                             </div>
                             <div class="genre-bar">
                                 <div class="genre-fill" style="width: ${pct}%"></div>
@@ -234,7 +277,7 @@
                 const trackList = document.getElementById('topTracksList');
                 trackList.innerHTML = '';
                 stats.topTracks.forEach((t, i) => {
-                    if (t.votes > 0) {
+                    if (t.allTimeVotes > 0) {
                         trackList.innerHTML += `
                             <div class="top-track-item">
                                 <div class="track-rank">${i+1}</div>
@@ -242,12 +285,37 @@
                                     <div class="track-title">${t.title}</div>
                                     <div class="track-artist">${t.artist}</div>
                                 </div>
-                                <div class="track-votes">${t.votes}</div>
+                                <div class="track-votes">${t.allTimeVotes}</div>
+                            </div>
+                        `;
+                    }
+                });
+
+                // Render Most Played
+                const playedList = document.getElementById('mostPlayedList');
+                playedList.innerHTML = '';
+                stats.mostPlayed.forEach((t, i) => {
+                    if (t.playCount > 0) {
+                        playedList.innerHTML += `
+                            <div class="top-track-item">
+                                <div class="track-rank">${i+1}</div>
+                                <div class="track-details">
+                                    <div class="track-title">${t.title}</div>
+                                    <div class="track-artist">${t.artist}</div>
+                                </div>
+                                <div class="track-votes">${t.playCount} diffusions</div>
                             </div>
                         `;
                     }
                 });
             });
+
+            // Reset History Handler
+            document.getElementById('resetHistoryBtn').onclick = async () => {
+                if (await window.DJData.resetHistory()) {
+                    alert("Historique réinitialisé avec succès.");
+                }
+            };
         });
     </script>
 </body>
