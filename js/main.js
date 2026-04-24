@@ -120,11 +120,14 @@
         if (genreSelect && !genresLoaded) {
             const genres = Data.getGenres();
             if (genres.length > 0) {
-                // Clear existing options except the first one
+                // Clear existing options except the first one ("All Genres")
                 while (genreSelect.options.length > 1) {
                     genreSelect.remove(1);
                 }
                 genres.forEach(g => {
+                    // Skip if the genre is named "All" (case insensitive) to avoid duplication with "All Genres"
+                    if (g.toLowerCase() === 'all') return;
+                    
                     const opt = document.createElement('option');
                     opt.value = g;
                     opt.textContent = g;
