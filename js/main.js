@@ -55,9 +55,7 @@
     }
 
     function handleVote(id) {
-        console.log("Voting for song:", id);
         Data.voteForSong(id).then(success => {
-            console.log("Vote result:", success);
             if (success) updateView();
         }).catch(err => {
             console.error("Vote error:", err);
@@ -65,9 +63,7 @@
     }
 
     function handleUnvote(id) {
-        console.log("Unvoting for song:", id);
         Data.unvoteForSong(id).then(success => {
-            console.log("Unvote result:", success);
             if (success) updateView();
         }).catch(err => {
             console.error("Unvote error:", err);

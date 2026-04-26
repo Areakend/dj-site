@@ -179,29 +179,11 @@
             if (doc.exists) {
                 const data = doc.data();
                 if (data.votes) {
-                    let userVotesChanged = false;
                     songs.forEach(s => {
                         if (data.votes[s.id] !== undefined) {
-                            // Bug Fix: If global vote is 0 but user has it marked as voted, clear it
-                            if (data.votes[s.id] === 0 && userVoteIds[s.id]) {
-                                console.log(`Data: Auto-clearing stale vote for song ${s.id} (globally reset)`);
-                                delete userVoteIds[s.id];
-                                userVotesChanged = true;
-                            }
                             s.votes = data.votes[s.id];
                         }
                     });
-
-                    // Sync cleanup back to user's Firestore and localStorage if needed
-                    if (userVotesChanged) {
-                        const user = global.DJAuth?.getUser();
-                        if (user) {
-                            db.collection('user_votes').doc(user.uid).set({
-                                votes: { ...userVoteIds }
-                            }, { merge: true }).catch(err => console.warn("Data: Failed to sync auto-cleared votes:", err));
-                        }
-                        localStorage.setItem('dj_user_votes', JSON.stringify(userVoteIds));
-                    }
                 }
                 if (data.currentPlayingId) {
                     currentPlaying = songs.find(s => s.id === data.currentPlayingId) || null;
@@ -241,9 +223,7 @@
         getTopSongs: (count = 10) => [...songs].sort((a, b) => b.votes - a.votes).slice(0, count),
         getUserVotes: () => userVoteIds,
         hasUserVoted: (id) => {
-            const result = !!userVoteIds[id];
-            console.log(`Data: hasUserVoted(${id}) = ${result}, all votes:`, Object.keys(userVoteIds));
-            return result;
+            return !!userVoteIds[id];
         },
 
         playSong: async function (id) {
@@ -276,7 +256,7 @@
         voteForSong: async function (id) {
             const user = global.DJAuth.getUser();
             if (!user) return false;
-            if (userVoteIds[id]) return false; // Already voted for this specific song
+            if (userVoteIds[id]) return false; 
 
             const song = this.getSongById(id);
             if (song) {
@@ -290,18 +270,11 @@
                     // Save to localStorage for persistence across page loads
                     try {
                         localStorage.setItem('dj_user_votes', JSON.stringify(userVoteIds));
-                        console.log("Data: Saved votes to localStorage");
                     } catch (err) {
                         console.warn("Data: Failed to save to localStorage:", err);
                     }
 
                     notifySubscribers(); // Update UI immediately
-
-                    // Build complete votes object from local state
-                    const allVotes = {};
-                    songs.forEach(s => {
-                        allVotes[s.id] = s.votes || 0;
-                    });
 
                     // 1. Update global votes
                     const stateRef = db.collection('votes').doc('global_state');
@@ -317,17 +290,12 @@
                         }
                     }, { merge: true });
 
-                    console.log("Global vote updated");
-
                     // 2. Update user votes
                     const allUserVotes = { ...userVoteIds };
-
                     const userRef = db.collection('user_votes').doc(user.uid);
                     await userRef.set({
                         votes: allUserVotes
                     }, { merge: true });
-
-                    console.log("User vote updated");
 
                     return true;
                 } catch (err) {
@@ -345,7 +313,7 @@
         unvoteForSong: async function (id) {
             const user = global.DJAuth.getUser();
             if (!user) return false;
-            if (!userVoteIds[id]) return false; // Haven't voted for this song
+            if (!userVoteIds[id]) return false; 
 
             const song = this.getSongById(id);
             if (song) {
@@ -359,18 +327,11 @@
                     // Save to localStorage for persistence across page loads
                     try {
                         localStorage.setItem('dj_user_votes', JSON.stringify(userVoteIds));
-                        console.log("Data: Saved votes to localStorage after unvote");
                     } catch (err) {
                         console.warn("Data: Failed to save to localStorage:", err);
                     }
 
                     notifySubscribers(); // Update UI immediately
-
-                    // Build complete votes object from local state
-                    const allVotes = {};
-                    songs.forEach(s => {
-                        allVotes[s.id] = s.votes || 0;
-                    });
 
                     // 1. Update global votes
                     const stateRef = db.collection('votes').doc('global_state');
