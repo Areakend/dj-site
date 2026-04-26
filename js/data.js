@@ -321,8 +321,10 @@
                     console.log("Unvoting for song:", id);
 
                     // Optimistically update local state immediately
+                    const oldVotes = song.votes || 0;
+                    userVoteIds[id] = null; // Mark as not voted locally
                     delete userVoteIds[id];
-                    song.votes = Math.max(0, (song.votes || 0) - 1);
+                    song.votes = Math.max(0, oldVotes - 1);
 
                     // Save to localStorage for persistence across page loads
                     try {
@@ -333,17 +335,19 @@
 
                     notifySubscribers(); // Update UI immediately
 
-                    // 1. Update global votes
-                    const stateRef = db.collection('votes').doc('global_state');
-                    await stateRef.update({
-                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
-                    });
+                    // 1. Update global votes ONLY if it won't go below 0
+                    if (oldVotes > 0) {
+                        const stateRef = db.collection('votes').doc('global_state');
+                        await stateRef.update({
+                            [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
+                        });
 
-                    // 2. Update total stats
-                    const statsRef = db.collection('votes').doc('total_stats');
-                    await statsRef.update({
-                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
-                    });
+                        // 2. Update total stats
+                        const statsRef = db.collection('votes').doc('total_stats');
+                        await statsRef.update({
+                            [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
+                        });
+                    }
 
                     // 3. Update user votes
                     const allUserVotes = { ...userVoteIds };
