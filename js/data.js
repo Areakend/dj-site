@@ -300,6 +300,7 @@
                     return true;
                 } catch (err) {
                     console.error("Vote failed:", err);
+                    alert("ERREUR SERVEUR : " + err.message + "\nCode: " + err.code);
                     // Rollback optimistic update on error
                     delete userVoteIds[id];
                     song.votes = Math.max(0, (song.votes || 0) - 1);
