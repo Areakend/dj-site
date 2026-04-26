@@ -277,18 +277,18 @@
                     notifySubscribers(); // Update UI immediately
 
                     // 1. Update global votes
+                    console.log("Data: Attempting to update global_state for song", id);
                     const stateRef = db.collection('votes').doc('global_state');
-                    await stateRef.set({
+                    await stateRef.update({
                         [`votes.${id}`]: firebase.firestore.FieldValue.increment(1)
-                    }, { merge: true });
+                    });
 
                     // 2. Update total stats
+                    console.log("Data: Attempting to update total_stats for song", id);
                     const statsRef = db.collection('votes').doc('total_stats');
-                    await statsRef.set({
-                        votes: {
-                            [id]: firebase.firestore.FieldValue.increment(1)
-                        }
-                    }, { merge: true });
+                    await statsRef.update({
+                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(1)
+                    });
 
                     // 2. Update user votes
                     const allUserVotes = { ...userVoteIds };
