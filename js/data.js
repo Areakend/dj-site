@@ -355,6 +355,7 @@
                     return true;
                 } catch (err) {
                     console.error("Unvote failed:", err);
+                    alert("ERREUR ANNULATION : " + err.message + "\nCode: " + err.code);
                     // Rollback optimistic update on error
                     userVoteIds[id] = Date.now();
                     song.votes = (song.votes || 0) + 1;
