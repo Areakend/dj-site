@@ -279,18 +279,23 @@
                     // 1. Update global votes
                     console.log("Data: Attempting to update global_state for song", id);
                     const stateRef = db.collection('votes').doc('global_state');
-                    await stateRef.update({
-                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(1)
-                    });
+                    // Use set with merge in case document doesn't exist yet
+                    await stateRef.set({
+                        votes: {
+                            [id]: firebase.firestore.FieldValue.increment(1)
+                        }
+                    }, { merge: true });
 
                     // 2. Update total stats
                     console.log("Data: Attempting to update total_stats for song", id);
                     const statsRef = db.collection('votes').doc('total_stats');
-                    await statsRef.update({
-                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(1)
-                    });
+                    await statsRef.set({
+                        votes: {
+                            [id]: firebase.firestore.FieldValue.increment(1)
+                        }
+                    }, { merge: true });
 
-                    // 2. Update user votes
+                    // 3. Update user votes
                     const allUserVotes = { ...userVoteIds };
                     const userRef = db.collection('user_votes').doc(user.uid);
                     await userRef.set({
@@ -338,15 +343,19 @@
                     // 1. Update global votes ONLY if it won't go below 0
                     if (oldVotes > 0) {
                         const stateRef = db.collection('votes').doc('global_state');
-                        await stateRef.update({
-                            [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
-                        });
+                        await stateRef.set({
+                            votes: {
+                                [id]: firebase.firestore.FieldValue.increment(-1)
+                            }
+                        }, { merge: true });
 
                         // 2. Update total stats
                         const statsRef = db.collection('votes').doc('total_stats');
-                        await statsRef.update({
-                            [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
-                        });
+                        await statsRef.set({
+                            votes: {
+                                [id]: firebase.firestore.FieldValue.increment(-1)
+                            }
+                        }, { merge: true });
                     }
 
                     // 3. Update user votes
