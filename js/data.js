@@ -300,7 +300,6 @@
                     return true;
                 } catch (err) {
                     console.error("Vote failed:", err);
-                    alert("ERREUR SERVEUR : " + err.message + "\nCode: " + err.code);
                     // Rollback optimistic update on error
                     delete userVoteIds[id];
                     song.votes = Math.max(0, (song.votes || 0) - 1);
@@ -336,17 +335,15 @@
 
                     // 1. Update global votes
                     const stateRef = db.collection('votes').doc('global_state');
-                    await stateRef.set({
+                    await stateRef.update({
                         [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
-                    }, { merge: true });
+                    });
 
                     // 2. Update total stats
                     const statsRef = db.collection('votes').doc('total_stats');
-                    await statsRef.set({
-                        votes: {
-                            [id]: firebase.firestore.FieldValue.increment(-1)
-                        }
-                    }, { merge: true });
+                    await statsRef.update({
+                        [`votes.${id}`]: firebase.firestore.FieldValue.increment(-1)
+                    });
 
                     // 3. Update user votes
                     const allUserVotes = { ...userVoteIds };
